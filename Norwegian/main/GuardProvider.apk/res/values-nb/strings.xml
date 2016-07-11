@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="AVL">AVL</string>
+     <string name="Avast">Avast</string>
+     <string name="DesAVL">AVL</string>
+     <string name="DesAvast">Avast</string>
+     <string name="DesMi">Mi</string>
+     <string name="DesTencent">Tencent</string>
+     <string name="Mi">Mi</string>
+     <string name="Tencent">Tencent</string>
+     <string name="app_name">com.securitycore.miui_t</string>
+     <string name="avast_dialog_cloudscan" />
+     <string name="avast_dialog_dbupdate" />
+     <string name="avast_dialog_header">"Denne funksjonen krypterer og laster opp din enhets-ID til Avast sine servere (%s)."</string>
+     <string name="avast_dialog_policy">Vis Personvernvilkår</string>
+     <string name="avast_dialog_title">"Avast sine personvernvilkår"</string>
+     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
+     <string name="avast_virus_type_adware_description">Viruset er adware. Den viser annonser automatisk.</string>
+     <string name="avast_virus_type_cryportor_description">Viruset er en crypter. Det er en ondsinnet programvare som overføres ved å replikere seg selv i lagringsplass.</string>
+     <string name="avast_virus_type_dropper_description">Viruset er en dropper. Den bærer kode som installerer annen ondsinnet virus.</string>
+     <string name="avast_virus_type_exploit_description">Viruset er en exploit. Den utnytter en bug eller sårbarhet i systemet for å forårsake utilsiktet eller uventet oppførsel.</string>
+     <string name="avast_virus_type_heuristic_description">Infeksjonen er antydet ved hjelp av en spesifikk heuristisk. En spesifikk heuristisk analyse sier at det er et virus.</string>
+     <string name="avast_virus_type_joke_description">Viruset er en spøk. Den skaper en irriterende eller humoristisk effekt som en spøk. Den har normalt mindre skade på systemet.</string>
+     <string name="avast_virus_type_pup_description">Viruset er et potensielt uønsket program (PUP). Det er et program som kan være uønsket (som spyware, adware, osv.), til tross for muligheten at brukeren ga samtykke til å laste den ned.</string>
+     <string name="avast_virus_type_rootkit_description">Viruset er en rootkit. Det er en type programvare utviklet for å skjule det faktum at operativsystemer har blitt komprimitert. Den brukes til å få kontroll over enheten ved å skjule seg dypt i systemet. Rootkit tillater virus og spionvare å skjule som nødvendige filer som vanlig antivirus vil overse.</string>
+     <string name="avast_virus_type_spyware_description">"Viruset er spionvare. Det en programvare som skjult samler brukerinformasjon gjennom brukerens Internett-tilkobling uten hans eller hennes kunnskap."</string>
+     <string name="avast_virus_type_suspicious_description">En vanlig mistenkelig type. Antivirusystemet prøver å klassifisere det.</string>
+     <string name="avast_virus_type_tool_description">Viruset er potensielt et ondt verktøy som har lignende infeksjonsmetode som PUP.</string>
+     <string name="avast_virus_type_trjan_description">Viruset er en trojaner. Dette er malware som er designet for å gi uautorisert, ekstern tilgang til en brukers enhet. Trojanere har vanligvis ikke evnen til å gjenskape seg selv som virus; men de kan føre til at annen skadelig progamvare blir installert på en enhet, forskjellige data kan bli stjålet eller kan brukes til andre ondsinnede aktiviteter.</string>
+     <string name="avast_virus_type_unknown_description">Ukjent type infeksjon.</string>
+     <string name="avast_virus_type_worm_description">Viruset er en orm. Det er en frittstående malware som reproduserer seg selv for å spre seg til andre enheter. Den tar i bruk fil- eller andre informasjonsoverføringsmulighet (som nettverk), for å spre seg uten menneskelig innblanding. Ormer skaper nesten alltid skade i nettverket.</string>
+     <string name="avl_dialog_cloudscan" />
+     <string name="avl_dialog_dbupdate" />
+     <string name="avl_dialog_header">"Denne funksjonen krypterer og laster opp din enhets-ID til AVL sine servere (%s)."</string>
+     <string name="avl_dialog_policy">vis vilkår for personvern</string>
+     <string name="avl_dialog_title">"AVL sine vilkår for personvern"</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+     <string name="hello_world">Hallo Verden!</string>
+     <string name="menu_settings">Innstillinger</string>
+     <string name="tencent_dialog_cloudscan">Last opp og skann appnavn og detaljer ved hjelp av nettbaserte virusdefinisjoner.</string>
+     <string name="tencent_dialog_dbupdate">Oppdater virusdefinisjoner automatisk</string>
+     <string name="tencent_dialog_header">"Denne funksjonen krypterer og laster opp din enhets-ID til Tencent sine servere (%s)."</string>
+     <string name="tencent_dialog_policy">vis vilkår for personvern</string>
+     <string name="tencent_dialog_title">Tencent sine vis vilkår for personvern</string>
+     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+     <string name="title_activity_main">Hovedaktivitet</string>
+</resources>

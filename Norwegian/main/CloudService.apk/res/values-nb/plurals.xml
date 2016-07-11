@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d elementer i blokkeringsliste</item>
+        <item quantity="one">%d element i blokkeringsliste</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+        <item quantity="other">%d nettleserelementer</item>
+        <item quantity="one">%d nettleserelement</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+        <item quantity="other">%d kalenderelementer</item>
+        <item quantity="one">%d kalenderelement</item>
+     </plurals>
+     <plurals name="dirty_callog_count">
+        <item quantity="other">%d element i anropshistorikken</item>
+        <item quantity="one">%d elementer i anropshistorikken</item>
+     </plurals>
+     <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kontakter</item>
+        <item quantity="one">%d kontakt</item>
+     </plurals>
+     <plurals name="dirty_image_count">
+        <item quantity="other">%d bilder</item>
+        <item quantity="one">%d bilder</item>
+     </plurals>
+     <plurals name="dirty_mms_count">
+        <item quantity="other">%d meldinger</item>
+        <item quantity="one">%d melding</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
+     </plurals>
+     <plurals name="dirty_note_count">
+        <item quantity="other">%d notater</item>
+        <item quantity="one">%d notat</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+        <item quantity="other">%d opptak</item>
+        <item quantity="one">%d opptak</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi-nettverk</item>
+        <item quantity="one">%d Wi-Fi-nettverk</item>
+     </plurals>
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="app_check_title_text">
+        <item quantity="other">%d elementer kan optimaliseres</item>
+        <item quantity="one">%d element kan optimaliseres</item>
+     </plurals>
+     <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Om %1$d minutter</item>
+        <item quantity="one">Om %1$d min</item>
+     </plurals>
+     <plurals name="find_applications">
+        <item quantity="other">Søk blant %d apper</item>
+        <item quantity="one">Søk blant %d app</item>
+     </plurals>
+     <plurals name="found_apps_title">
+        <item quantity="other">%d apper funnet</item>
+        <item quantity="zero">0 app funnet</item>
+        <item quantity="one">%d app funnet</item>
+     </plurals>
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d tilganger</item>
+        <item quantity="one">%d tilgang</item>
+     </plurals>
+     <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d apper har ikke lov til å autostarte"</item>
+        <item quantity="one">"%d app har ikke lov til å autostarte"</item>
+     </plurals>
+     <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d apper kan autostarte</item>
+        <item quantity="one">%d app kan autostarte</item>
+     </plurals>
+     <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d apper har ikke rot-tilgang"</item>
+        <item quantity="one">"%d app har ikke rot-tilgang"</item>
+     </plurals>
+     <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d apper har rot-tilgang</item>
+        <item quantity="one">%d app har rot-tilgang</item>
+     </plurals>
+     <plurals name="hints_install_apps_interval">
+        <item quantity="other">Brukt for %d dager siden</item>
+        <item quantity="one">Brukt i går</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d apper</item>
+        <item quantity="one">%d app</item>
+     </plurals>
+     <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d apper kan ikke bruke dataroaming"</item>
+        <item quantity="one">"%d app kan ikke bruke dataroaming"</item>
+     </plurals>
+     <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d apper kan bruke dataroaming</item>
+        <item quantity="one">%d app kan bruke dataroaming</item>
+     </plurals>
+     <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d apper funnet</item>
+        <item quantity="one">%d app funnet</item>
+     </plurals>
+     <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Sporer dataforbruker til %d apper</item>
+        <item quantity="one">Sporer dataforbruket til %d app</item>
+     </plurals>
+     <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Sporer ikke dataforbruket til %d apper</item>
+        <item quantity="one">Sporer ikke dataforbruket til %d app</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apper bruker ikke datasparing</item>
+        <item quantity="one">%d app bruker ikke datasparing</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apper bruker datasparing</item>
+        <item quantity="one">%d app bruker datasparing</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apper kan bli optimalisert</item>
+        <item quantity="one">%d app kan bli optimalisert</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apper optimalisert</item>
+        <item quantity="one">%d app optimalisert</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Passord bør inneholde minst %d bokstaver.</item>
+        <item quantity="one">"Passord bør inneholde minst 1 bokstav. "</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Passord bør inneholde minst %d små bokstaver.</item>
+        <item quantity="one">Passord bør inneholde minst 1 liten bokstav …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Passord bør inneholde minst %d tegn som ikke er bokstaver.</item>
+        <item quantity="one">Passord bør inneholde minst 1 tegn som ikke bokstaver …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Passord bør inneholde minst %d tall.</item>
+        <item quantity="one">Passord bør inneholde minst 1 …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Passord bør inneholde minst %d spesielle symboler.</item>
+        <item quantity="one">Passord bør inneholde minst 1 spesiellt symbol …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Passord bør inneholde minst %d store bokstaver.</item>
+        <item quantity="one">Passord bør inneholde minst 1 stor bokstav …</item>
+     </plurals>
+     <plurals name="notification_apps">
+        <item quantity="other">%d apper inneholder personvernrisiko</item>
+        <item quantity="one">%d app inneholder personvernrisiko</item>
+     </plurals>
+     <plurals name="number_locked">
+        <item quantity="other">%d apper låst</item>
+        <item quantity="one">%d app låst</item>
+     </plurals>
+     <plurals name="number_to_lock">
+        <item quantity="other">%d apper ikke låst</item>
+        <item quantity="one">%d app ikke låst</item>
+     </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dager "</item>
+        <item quantity="one">"%d dag "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d timer "</item>
+        <item quantity="one">"%d time "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+     </plurals>
+     <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d batteriproblemer</item>
+        <item quantity="one">%d batteriproblem</item>
+     </plurals>
+     <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Fant %d batteriproblemer</item>
+        <item quantity="one">Fant %d batteriproblem</item>
+     </plurals>
+     <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Løste %d batteriproblemer</item>
+        <item quantity="one">Løste %d batteriproblem</item>
+     </plurals>
+     <plurals name="search_app_count_txt">
+        <item quantity="other">Søk %d apper</item>
+        <item quantity="one">Søk %d app</item>
+     </plurals>
+     <plurals name="search_app_count_txt_na">
+        <item quantity="other">Søk %d apper</item>
+        <item quantity="one">Søk %d app</item>
+     </plurals>
+     <plurals name="sp_back_title_text">
+        <item quantity="other">%s betalingsrisiko</item>
+        <item quantity="one">%s betalingsrisiko</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s betalingsapper er beskyttet</item>
+        <item quantity="one">%s betalingsapp er beskyttet</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s apper er ikke beskyttet</item>
+        <item quantity="one">%s app er ikke beskyttet</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s apper er beskyttet</item>
+        <item quantity="one">%s app er beskyttet</item>
+     </plurals>
+     <plurals name="summary_app_update">
+        <item quantity="other">Oppdateringer tilgjengelig for %d apper.</item>
+        <item quantity="one">Oppdatering tilgjengelig for %d app.</item>
+     </plurals>
+</resources>

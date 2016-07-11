@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galleri</item>
+     </string-array>
+     <string-array name="contact_entries">
+        <item>Navn</item>
+        <item>Kallenavn</item>
+        <item>Telefon</item>
+        <item>Epost</item>
+        <item>Organisasjon</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Fødselsdag</item>
+        <item>Hjemmeside</item>
+        <item>Adresse</item>
+        <item>Notat</item>
+     </string-array>
+     <string-array name="folder_operations">
+        <item>Bytt navn</item>
+        <item>Slett</item>
+     </string-array>
+     <string-array name="font_size_names">
+        <item>Liten</item>
+        <item>Medium</item>
+        <item>Stor</item>
+        <item>Diger</item>
+     </string-array>
+     <string-array name="welcome_notes_content">
+        <item>"Trykk for å opprette notat
+"</item>
+        <item>"For å legge til bilder eller vise sjekkbokser, trykk på knappen under
+"</item>
+        <item>"Trykk og hold et notat for å merke, flytte elelr slette det
+"</item>
+        <item>"Og andre flotte funksjoner!
+  - Synk med Mi Cloud
+  - Angi påminnelser"</item>
+     </string-array>
+</resources>

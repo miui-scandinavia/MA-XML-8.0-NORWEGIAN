@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="activate_xiaomi_account">Aktiver denne enheten</string>
+     <string name="adding_or_updating_account">Updating account…</string>
+     <string name="app_name">Finn enhet</string>
+     <string name="captcha">Captcha</string>
+     <string name="change_find_device_status_failed">"Kunne ikke låse opp. %s."</string>
+     <string name="default_lock_msg_words">Hei! Jeg har mistet telefonen min. Jeg vil kontakte deg senere. Takk for at du forstår!</string>
+     <string name="default_lock_msg_words_with_phone">Hei! Jeg har mistet telefonen min. Kan du vennligst kontakte meg? Takk!</string>
+     <string name="device_locked">This device is locked</string>
+     <string name="device_lost">Denne enheten er tapt</string>
+     <string name="disable_find_device_error">"Kunne ikke skru av Finn enhet. %1$s"</string>
+     <string name="disable_find_device_success">Finn enhet er av</string>
+     <string name="doing_extra_login_steps">Verifying sign in…</string>
+     <string name="enable_find_device_error">"Kan ikke slå på Fin enhet. %1$s"</string>
+     <string name="enable_find_device_success">Finn enhet er på</string>
+     <string name="find_device">Finn enhet</string>
+     <string name="find_device_crash">Finn enhet ble uventet lukket</string>
+     <string name="find_device_error_account_sys_timeout">"Kunne ikke koble til Mi-konto"</string>
+     <string name="find_device_error_account_unknown_error">Feil med Mi-konto (%s)</string>
+     <string name="find_device_error_network">Sjekk din datatilkobling og prøv igjen.</string>
+     <string name="find_device_error_password_changed">Kontopassord har nylig blitt endret.</string>
+     <string name="find_device_error_server">Serverfeil (%s)</string>
+     <string name="find_device_error_unknown">Ukjent feil (%s)</string>
+     <string name="find_device_noise_title">Finn enhet-alarm</string>
+     <string name="find_device_notice_p1">Gå til</string>
+     <string name="find_device_notice_p2">i.mi.com</string>
+     <string name="find_device_notice_p3">"for å finne, lås, eller gjenopprette telefonen.Hvis du bytter SIM-kort, vil en annen SMS sendes automatisk for å aktivere for denne funksjonen."</string>
+     <string name="find_device_stop_noise">Trykk OK for å dempe</string>
+     <string name="find_device_storage_corrupted">Finn enhet-lagring er korrupt. Enheten din er usikker nå.</string>
+     <string name="find_device_success_title">Finn enhet</string>
+     <string name="i_know">OK</string>
+     <string name="lock_msg_phone">Kontaktinformasjon: %s</string>
+     <string name="login_extra_steps">Sign in verification</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: "Couldn't sign in. %s." -->
+     <string name="login_failed">"Kunne ikke logge inn"</string>
+     <string name="passport_checking_vcode">Checking password…</string>
+     <string name="passport_error_empty_vcode">Enter verification code</string>
+     <string name="passport_notification_need_unlock_again">Try to unlock again</string>
+     <string name="passport_notification_processing">Processing…</string>
+     <string name="passport_trust_device">Trust this device</string>
+     <string name="passport_vcode_prompt_long">Enter verification code</string>
+     <string name="passport_verify">Verify</string>
+     <string name="password">Passord</string>
+     <string name="phone_locked">Denne enheten kan være forbundet med eksisterende Mi konto (%s). Logg inn for å aktivere denne enheten.</string>
+     <string name="stop_on_empty_captcha">"Captcha må fylles ut"</string>
+     <string name="stop_on_empty_password">"Passord må fylles ut"</string>
+     <string name="time_correction_failure">"Can't correct time. %s"</string>
+     <string name="time_correction_success">Time corrected</string>
+     <string name="unlock">Aktiver</string>
+     <string name="unlock_access_denied">Tilgang nektet</string>
+     <string name="unlock_bad_authentication">Ugyldig brukernavn eller passord</string>
+     <string name="unlock_error_abort">Canceled by user</string>
+     <string name="unlock_error_device_id">"Kan ikke hente enhet-ID"</string>
+     <string name="unlock_error_interrupted">Avbrutt</string>
+     <string name="unlock_error_network">"Kunne ikke koble til nettverket"</string>
+     <string name="unlock_error_passport_sdk_timeout">"Mi Account SDK isn't responding"</string>
+     <string name="unlock_error_rpc">RPC-feil</string>
+     <string name="unlock_error_server">Serverfeil</string>
+     <string name="unlock_error_ssl_hand_shake">"Kunne ikke koble til serveren, prøv å sett dato og tid manuelt."</string>
+     <string name="unlock_error_unknown">"Kan ikke logge på"</string>
+     <string name="unlock_error_user_name">Ugyldig brukernavn</string>
+     <string name="unlock_error_wrong_vcode">The code you entered is incorrect</string>
+     <string name="unlock_help">"Forbli tilkoblet nettverket
+Sørg for at du har satt inn ett fungerende SIM-kort, og at enheten din ikke er tilkoblet et ineffektivt Wi-Fi-nettverk
+
+Glemt passord?
+Gå til id.mi.com for å tilbakestille ditt passord
+
+Andre årsaker
+Logg inn på i.mi.com og prøv å låse opp enheten derfra"</string>
+     <string name="unlock_help_title">Hjelp med opplåsning:</string>
+     <string name="unlock_wrong_captcha">Koden du skrev er ikke korrekt</string>
+     <string name="unlocking">Aktiverer…</string>
+     <string name="verifing_account">Verifying password…</string>
+     <string name="verify_password_failed">"Kunne ikke verifisere Mi-konto-ID. %s."</string>
+</resources>

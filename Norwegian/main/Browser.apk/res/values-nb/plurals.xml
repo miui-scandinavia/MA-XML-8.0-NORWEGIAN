@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d elementer blokkert</item>
+        <item quantity="one">%d element blokkert</item>
+     </plurals>
+     <plurals name="find_on_page_matches">
+        <item quantity="other">%d treff</item>
+        <item quantity="one">%d treff</item>
+     </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Siste %d dager</item>
+        <item quantity="one">I går</item>
+     </plurals>
+     <plurals name="matches_found">
+        <item quantity="other">%1$d av %2$d</item>
+        <item quantity="one">1 matcher</item>
+     </plurals>
+     <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
+     </plurals>
+     <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d album</item>
+     </plurals>
+     <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d populære sanger</item>
+        <item quantity="one">%d populær sang</item>
+     </plurals>
+     <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+     </plurals>
+     <plurals name="video_download_clear_info">
+        <item quantity="other">Fjernet %1$d videoer.</item>
+        <item quantity="one">Fjernet %1$d video.</item>
+     </plurals>
+     <plurals name="video_download_clear_prompt">
+        <item quantity="other">Tøm %1$d videoer?</item>
+        <item quantity="one">Tøm %1$d video?</item>
+     </plurals>
+     <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d elementer fjernet fra historikk.</item>
+        <item quantity="one">%1$d element fjernet far historikk.</item>
+     </plurals>
+     <plurals name="video_history_clear_prompt">
+        <item quantity="other">Slett %1$d elementer fra historikk?</item>
+        <item quantity="one">Slett %1$d elementer fra historikk?</item>
+     </plurals>
+     <plurals name="webview_last_num_days">
+        <item quantity="other">Siste %d dager</item>
+     </plurals>
+     <plurals name="webview_matches_found">
+        <item quantity="other">%1$d av %2$d</item>
+        <item quantity="one">1 treff</item>
+     </plurals>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+     </string-array>
+     <string-array name="indices_car_wash">
+        <item>Passende</item>
+        <item>Upassende</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Passende</item>
+        <item>Upassende</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Svak</item>
+        <item>Mellomnivå</item>
+        <item>Sterk</item>
+     </string-array>
+     <string-array name="moon_desc">
+        <item>Nymåne</item>
+        <item>Voksende halvmåne</item>
+        <item>Første kvartal</item>
+        <item>Vokser mot halvmåne</item>
+        <item>Fullmåne</item>
+        <item>Avtagende</item>
+        <item>Avtagende siste kvartal</item>
+        <item>Avtagende halvmåne</item>
+        <item>Mørk måne</item>
+     </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Svakest</item>
+        <item>Svak</item>
+        <item>Midten</item>
+        <item>Sterk</item>
+        <item>Sterkest</item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Sol</item>
+        <item>Skyfullt</item>
+        <item>Overskyet</item>
+        <item>Tåkete</item>
+        <item>Sterk regnstorm</item>
+        <item>Downpour</item>
+        <item>Regnskyll</item>
+        <item>Tordenvær</item>
+        <item>Dusj</item>
+        <item>Tungt regnfall</item>
+        <item>Moderat regnmengde</item>
+        <item>Duskregn</item>
+        <item>Blanding av regn og snø</item>
+        <item>Snøstorm</item>
+        <item>Snø</item>
+        <item>Tungt snøfall</item>
+        <item>Moderat snømengde</item>
+        <item>Lett snøfall</item>
+        <item>Sterk sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Sand</item>
+        <item>Vindfullt</item>
+        <item>Hagl</item>
+        <item>Støv</item>
+        <item>Disig</item>
+        <item>Frysende regn</item>
+        <item></item>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>Vind NV</item>
+     </string-array>
+     <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+     </string-array>
+</resources>

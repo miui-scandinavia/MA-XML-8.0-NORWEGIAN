@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Skjul %d apper sine varsler?</item>
+        <item quantity="one">Skjul denne appens varsler?</item>
+     </plurals>
+     <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d nylige apper</item>
+        <item quantity="one">1 nylig app</item>
+     </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Klart</item>
+        <item quantity="one">Solfylt</item>
+     </plurals>
+</resources>

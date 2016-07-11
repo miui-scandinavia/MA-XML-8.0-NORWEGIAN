@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="apk_clean_menu">
+        <item>Rydd opp</item>
+        <item>Installer denne appen</item>
+        <item>Vis i mappe</item>
+        <item>Legg til i unntak</item>
+     </string-array>
+     <string-array name="app_clean_menu">
+        <item>Avinstaller</item>
+     </string-array>
+     <string-array name="auto_alert_apps_time">
+        <item>Hver 7. dag</item>
+        <item>Hver 15. dag</item>
+        <item>Hver 30. dag</item>
+     </string-array>
+     <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1GB</item>
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Hver dag</item>
+        <item>Etter 3 dager</item>
+        <item>Etter 7 dager</item>
+     </string-array>
+     <string-array name="auto_memory_clean">
+        <item>Om 1 minutt</item>
+        <item>Om 5 minutter</item>
+        <item>Om 10 minutter</item>
+        <item>Aldri</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Vis</item>
+        <item>"Ikke vis"</item>
+        <item>Vis etter</item>
+     </string-array>
+     <string-array name="cache_clean_menu">
+        <item>Rydd opp denne filen</item>
+        <item>"Vis filens plassering"</item>
+        <item>Legg fil i unntak</item>
+        <item>Legg app i unntak</item>
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>Størrelse</item>
+        <item>Navn</item>
+     </string-array>
+     <string-array name="empty_floder_clean_menu">
+        <item>Rydd opp</item>
+     </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>Mest brukt</item>
+        <item>Størrelse</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>Størrelse</item>
+        <item>Navn</item>
+     </string-array>
+     <string-array name="long_add_app_menu">
+        <item>Add app to exceptions</item>
+     </string-array>
+     <string-array name="long_add_menu">
+        <item>Add to exceptions</item>
+     </string-array>
+     <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+     </string-array>
+     <string-array name="trash_clean_menu">
+        <item>Rydd opp denne filen</item>
+        <item>"Vis filens plassering"</item>
+        <item>Legg fil i unntak</item>
+     </string-array>
+     <string-array name="video_clean_menu">
+        <item>Rydd opp denne filen</item>
+        <item>Åpne</item>
+        <item>Legg fil i unntak</item>
+     </string-array>
+</resources>

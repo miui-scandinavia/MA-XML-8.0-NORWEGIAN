@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="app_ops_labels">
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å bruke vibrering</item>
+        <item>Prøve å lese kontakter</item>
+        <item>Prøve å endre kontakter</item>
+        <item>Prøve å lese anropslogg</item>
+        <item>Prøve å endre anropslogg</item>
+        <item>Prøve å lese kalender</item>
+        <item>Prøve å endre kalender</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å legge inn varsling</item>
+        <item>Prøve å få tilgang til plassering</item>
+        <item>Prøve å utføre telefonsamtale</item>
+        <item>Prøve å lese SMS</item>
+        <item>Prøve å skrive SMS</item>
+        <item>Prøve å motta SMS</item>
+        <item>Trying to receive emergency SMS</item>
+        <item>Trying to receive MMS</item>
+        <item>Trying to receive WAP push</item>
+        <item>Trying to send SMS</item>
+        <item>Trying to read ICC SMS</item>
+        <item>Trying to write ICC SMS</item>
+        <item>Trying to modify settings</item>
+        <item>Trying to draw on top</item>
+        <item>Trying to access notifications</item>
+        <item>Trying to access Camera</item>
+        <item>Trying to record audio</item>
+        <item>Trying to play audio</item>
+        <item>Trying to read clipboard</item>
+        <item>Trying to modify clipboard</item>
+        <item>Trying to use media buttons</item>
+        <item>Trying to use audio focus</item>
+        <item>Trying to use master volume</item>
+        <item>Trying to use voice volume</item>
+        <item>Trying to use ring volume</item>
+        <item>Trying to use media volume</item>
+        <item>Trying to use alarm volume</item>
+        <item>Trying to use notification volume</item>
+        <item>Trying to use bluetooth volume</item>
+        <item>Trying to Keep device awake</item>
+        <item>Trying to access location</item>
+        <item>Trying to access location</item>
+        <item>Trying to get usage stats</item>
+        <item>Trying to mute microphone</item>
+        <item>Trying to toast window</item>
+        <item>Trying to project media</item>
+        <item>Trying to activate vpn</item>
+        <item>Trying to turn on/off WLAN</item>
+        <item>Trying to trun on/off bluetooth</item>
+        <item>Trying to send MMS</item>
+        <item>Trying to read MMS</item>
+        <item>Trying to write MMS</item>
+        <item>Trying to start at bootup</item>
+        <item>Trying to turn on/off NFC</item>
+        <item>Trying to delete SMS</item>
+        <item>Trying to delete MMS</item>
+        <item>Trying to delete contacts</item>
+        <item>Trying to delete call log</item>
+        <item>Trying to turn on mobile data</item>
+     </string-array>
+</resources>

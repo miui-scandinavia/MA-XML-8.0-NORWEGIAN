@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="action_name_translate">
+        <item>Max lysstyrke på skjermen</item>
+        <item>MAX CPU-frekvens</item>
+        <item>Skjermmodus</item>
+        <item>CPU-bruk</item>
+        <item>Dataforbindelse</item>
+        <item>Plassering</item>
+        <item>Første varsel</item>
+        <item>Låseskjerm-varsling</item>
+        <item>Forhindre bakgrunnsdatatilkoblinger</item>
+     </string-array>
+     <string-array name="action_param_translate">
+        <item>Ingen</item>
+        <item>Standard</item>
+        <item>Bilde</item>
+        <item>Film</item>
+        <item>Batterisparing</item>
+        <item>Balanse</item>
+        <item>Ytelse</item>
+        <item>Aktiver</item>
+        <item>Deaktiver</item>
+        <item>På</item>
+        <item>Av</item>
+        <item>Umiddelbart</item>
+        <item>Etter 10 min</item>
+        <item>Etter 30 min</item>
+        <item>Når skjermen er av</item>
+     </string-array>
+     <string-array name="app_groups">
+        <item>valgte</item>
+        <item>ikke valgte</item>
+        <item>andre valgte</item>
+     </string-array>
+     <string-array name="event_name_translate">
+        <item>App kjører i forgrunnen</item>
+        <item>Skjerm på</item>
+        <item>Skjerm av</item>
+        <item>Skjerm av i over 10 minutter</item>
+        <item>Fullskjerm</item>
+        <item>Avslutt fullskjerm</item>
+        <item>App kjører i bakgrunnen</item>
+        <item>Telefonen lader</item>
+        <item>Telefonen lader ikke</item>
+        <item>Telefonen er i hvilemodus</item>
+     </string-array>
+     <string-array name="group_name_translate">
+        <item>Standard</item>
+        <item>Skjult modus</item>
+        <item>Lesemodus</item>
+        <item>Mediamodus</item>
+     </string-array>
+     <string-array name="hmode_app_groups">
+        <item>Egendefinert</item>
+        <item>Batterisparing</item>
+     </string-array>
+     <string-array name="power_checker_group_prefix">
+        <item>Nå</item>
+        <item>Bakgrunn</item>
+        <item>Seneste</item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI-skann</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Oppvåkning</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI-skann</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Oppvåkning</item>
+     </string-array>
+</resources>

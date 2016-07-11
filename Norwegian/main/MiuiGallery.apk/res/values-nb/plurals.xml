@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="age_day">
+        <item quantity="other">%d dager</item>
+        <item quantity="one">%d dag</item>
+     </plurals>
+     <plurals name="age_month">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">%d måned</item>
+     </plurals>
+     <plurals name="age_year">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+     </plurals>
+     <plurals name="album_already_share_user_count">
+        <item quantity="other">Allerede delt med %d personer</item>
+        <item quantity="one">Allerede delt med %d person</item>
+     </plurals>
+     <plurals name="album_count">
+        <item quantity="other">%d bilder</item>
+        <item quantity="one">%d bilde</item>
+     </plurals>
+     <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementer| %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+     </plurals>
+     <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementer totalt)</item>
+        <item quantity="one">(%d element totalt)</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d dager</item>
+        <item quantity="one">%1$d dag</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_month">
+        <item quantity="other">%1$d måneder</item>
+        <item quantity="one">%1$d måned</item>
+     </plurals>
+     <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d år "</item>
+        <item quantity="one">"%1$d år "</item>
+     </plurals>
+     <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d følgere</item>
+        <item quantity="one">%1$d følger</item>
+     </plurals>
+     <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d bilder av %2$s vil bli lagt til</item>
+        <item quantity="one">%1$d bilde av %2$s vil bli lagt til</item>
+     </plurals>
+     <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d bilder av %2$s vil bli lagt til</item>
+        <item quantity="one">%1$d bilde av %2$s vil bli lagt til</item>
+     </plurals>
+     <plurals name="backup_waiting">
+        <item quantity="other">%1$d items are waiting to be backed up</item>
+        <item quantity="one">%1$d item is waiting to be backed up</item>
+     </plurals>
+     <plurals name="backuped">
+        <item quantity="other">%1$d items have been backed up</item>
+        <item quantity="one">%1$d item has been backed up</item>
+     </plurals>
+     <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud is full. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Mi Cloud is full. %1$d item is waiting to be backed up</item>
+     </plurals>
+     <plurals name="confirm_delete_album">
+        <item quantity="other">Slett %1$s album (%2$s totalt)?</item>
+        <item quantity="one">Slett dette albumet (%s totalt)?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> bilder fra dette albumet?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett dette bildet fra dette albumet?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> bilder fra Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett dette bildet fra Mi Cloud??&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementer fra dette albumet?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementer fra Mi Cloud?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Slett %s bilder både lokalt og i skyen?</item>
+        <item quantity="one">Slett %d bilde både lokalt og i skyen?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&lt;Data>Valgte elementer inkluderer bilder i Mi Cloud, slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> bilder fra både denne enheten og Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Valgte element inkluderer bilde i Mi Cloud, slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> bilde fra både denne enheten og Mi Cloud?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementer fra både denne enheten og Mi Cloud?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra både denne enheten og fra Mi Cloud?</item>
+        <item quantity="one">Slett denne videoen både fra enhetens interne lager og fra Mi Cloud?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer både fra denne enheten og Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett en video både fra denne enheten og Mi Cloud?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra dette albumet?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video fra dette albumet?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videoer fra Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video fra Mi Cloud?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Slett %s bilder?</item>
+        <item quantity="one">Slett dette bildet?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Slett %s elementer?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Slett %s videoer?</item>
+        <item quantity="one">Slett denne videoen?</item>
+     </plurals>
+     <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d bilder&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett dette bildet fra %2$d album?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Data>Slett &lt;xliff:g id=ITEM>%1$d videoer&lt;/xliff:g> fra %2$d album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Slett denne videoen fra %2$d album?&lt;/Data></item>
+     </plurals>
+     <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+     </plurals>
+     <plurals name="delete_media_msg_format">
+        <item quantity="other">Slett %1$d elementer %2$s?</item>
+        <item quantity="one">Slett %1$d element %2$s?</item>
+     </plurals>
+     <plurals name="delete_photo_msg_format">
+        <item quantity="other">Slett %1$d bilder %2$s?</item>
+        <item quantity="one">Slett dette bildet %2$s?</item>
+     </plurals>
+     <plurals name="delete_video_msg_format">
+        <item quantity="other">Slett %1$d videoer %2$s?</item>
+        <item quantity="one">Slett denne videoen %2$s?</item>
+     </plurals>
+     <plurals name="download_error">
+        <item quantity="other">"Couldn't download %1$d files"</item>
+        <item quantity="one">"Couldn't download %1$d file"</item>
+     </plurals>
+     <plurals name="how_many_pics">
+        <item quantity="other">%d bilder</item>
+        <item quantity="one">%d bilde</item>
+     </plurals>
+     <plurals name="how_many_sub_folders">
+        <item quantity="other">%d mapper</item>
+        <item quantity="one">%d mappe</item>
+     </plurals>
+     <plurals name="how_many_videos">
+        <item quantity="other">%d videoer</item>
+        <item quantity="one">%d video</item>
+     </plurals>
+     <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Ikke vis disse ansiktene?"</item>
+        <item quantity="one">"Ikke vis dette ansiktet?"</item>
+     </plurals>
+     <plurals name="local_space_full">
+        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
+     </plurals>
+     <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"Du har ikke tilgang til å slette disse %d filene."</item>
+        <item quantity="one">"Du har ikke tilgang til å slette denne %d filen."</item>
+     </plurals>
+     <plurals name="more_face">
+        <item quantity="other">%1$s bilder av %2$s</item>
+        <item quantity="one">%1$s bilder av %2$s</item>
+     </plurals>
+     <plurals name="network_unsatisfied">
+        <item quantity="other">Network error. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Network error. %1$d item is waiting to be backed up</item>
+     </plurals>
+     <plurals name="number_of_images">
+        <item quantity="other">%1$d bilder</item>
+        <item quantity="zero">%1$d bilder</item>
+        <item quantity="one">%1$d bilder</item>
+     </plurals>
+     <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elementer venter på synk</item>
+        <item quantity="one">1 element venter på synk</item>
+     </plurals>
+     <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d bilder venter på synk</item>
+        <item quantity="one">1 bilde venter på synk</item>
+     </plurals>
+     <plurals name="number_of_items">
+        <item quantity="other">%1$d elementer</item>
+        <item quantity="zero">%1$d elementer</item>
+        <item quantity="one">%1$d element</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d valgte</item>
+        <item quantity="zero">%1$d valgte</item>
+        <item quantity="one">%1$d valgt</item>
+     </plurals>
+     <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+     </plurals>
+     <plurals name="number_of_uploading_images">
+        <item quantity="other">Synker %1$d bilder…</item>
+        <item quantity="one">Synker bilde…</item>
+     </plurals>
+     <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Synker %1$d elementer…</item>
+        <item quantity="one">Synker element…</item>
+     </plurals>
+     <plurals name="number_of_uploading_videos">
+        <item quantity="other">Synker %1$d videoer…</item>
+        <item quantity="one">Synker video…</item>
+     </plurals>
+     <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videoer venter på synk</item>
+        <item quantity="one">1 video venter på synk</item>
+     </plurals>
+     <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Du kan velge %d elementer</item>
+        <item quantity="one">Du kan velge %d element</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">1 sekund</item>
+     </plurals>
+     <plurals name="sync_off">
+        <item quantity="other">Sync is off. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
+     </plurals>
+</resources>

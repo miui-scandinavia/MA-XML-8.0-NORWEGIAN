@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_turn_on_automatically_pct">Når batteriet har %1$s igjen</string>
+    <string name="bluetooth_enter_passkey_msg">Skriv inn sammenkoblingskoden og trykk på Return eller Enter</string>
+
+    <string name="bluetooth_enter_pin_msg">Enhet</string>
+   <string name="bluetooth_enter_pin_msg_hs">Enheten krever høysikkerhet passkode på 16 tegn</string>
+    <string name="power_charging">%1$s – %2$s</string>
+    <string name="power_charging_duration">%1$s – fulladet om %2$s</string>
+    <string name="power_charging_duration_ac">"%1$s –  fulladet om %2$s med vekselstrøm"</string>
+    <string name="power_charging_duration_usb">%1$s – fulladet om %2$s via USB</string>
+    <string name="power_charging_duration_wireless">%1$s – fulladet om %2$s via trådløs lading</string>
+    <string name="power_discharge_remaining">%1$s gjenstår</string>
+    <string name="power_discharging_duration">%1$s – ca. %2$s igjen</string>
+    <string name="process_stats_total_duration">%1$s av %2$s ble brukt på %3$s</string>
+    <string name="process_stats_total_duration_percentage">%1$s av RAM ble brukt på %2$s</string>
+</resources>

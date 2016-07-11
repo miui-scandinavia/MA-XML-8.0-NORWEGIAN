@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="zero">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="one">%1$d fil med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="two">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="few">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+        <item quantity="many">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">%1$d dager siden</item>
+        <item quantity="zero">%1$d dager siden</item>
+        <item quantity="one">%1$d dag siden</item>
+        <item quantity="two">%1$d dager siden</item>
+        <item quantity="few">%1$d dager siden</item>
+        <item quantity="many">%1$d dager siden</item>
+     </plurals>
+     <plurals name="delete_files_confirm">
+        <item quantity="other">Slett %1$d filer</item>
+        <item quantity="zero">Slett %1$d filer</item>
+        <item quantity="one">Slett %1$d fil</item>
+        <item quantity="two">Slett %1$d filer</item>
+        <item quantity="few">Slett %1$d filer</item>
+        <item quantity="many">Slett %1$d filer</item>
+     </plurals>
+     <plurals name="delete_folders_confirm">
+        <item quantity="other">" og %1$d mapper?"</item>
+        <item quantity="zero">" og %1$d mapper?"</item>
+        <item quantity="one">" og %1$d mappe?"</item>
+        <item quantity="two">" og %1$d mapper?"</item>
+        <item quantity="few">" og %1$d mapper?"</item>
+        <item quantity="many">" og %1$d mapper?"</item>
+     </plurals>
+     <plurals name="directory_item_count">
+        <item quantity="other">%d elementer</item>
+        <item quantity="zero">%d elementer</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elementer</item>
+        <item quantity="few">%d elementer</item>
+        <item quantity="many">%d elementer</item>
+     </plurals>
+     <plurals name="file_count">
+        <item quantity="other"> %1$d elementer</item>
+        <item quantity="zero"> %1$d elementer</item>
+        <item quantity="one"> %1$d element</item>
+        <item quantity="two"> %1$d elementer</item>
+        <item quantity="few"> %1$d elementer</item>
+        <item quantity="many"> %1$d elementer</item>
+     </plurals>
+     <plurals name="file_notify_title">
+        <item quantity="other">Mottok %1$d filer av app %2$s</item>
+        <item quantity="zero">Mottok %1$d file av app %2$s</item>
+        <item quantity="one">Mottok %1$d file av app %2$s</item>
+        <item quantity="two">Mottok %1$d filer av app %2$s</item>
+        <item quantity="few">Mottok %1$d filer av app %2$s</item>
+        <item quantity="many">Mottok %1$d filer av app %2$s</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="zero">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="one">%1$d nye WeChat-klistremerke i dag</item>
+        <item quantity="two">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="few">%1$d nye WeChat-klistremerker i dag</item>
+        <item quantity="many">%1$d nye WeChat-klistremerker i dag</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Mottok %1$d filer av WeChat</item>
+        <item quantity="zero">Mottok %1$d filer av WeChat</item>
+        <item quantity="one">Mottok %1$d fil av WeChat</item>
+        <item quantity="two">Mottok %1$d filer av WeChat</item>
+        <item quantity="few">Mottok %1$d filer av WeChat</item>
+        <item quantity="many">Mottok %1$d filer av WeChat</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Sikkerhetskopierte %1$d WeChat-videoer.</item>
+        <item quantity="zero">Sikkerhetskopierte %1$d WeChat-videoer.</item>
+        <item quantity="one">Sikkerhetskopierte 1 WeChat-video.</item>
+        <item quantity="two">Sikkerhetskopierte %1$d WeChat-videoer.</item>
+        <item quantity="few">Sikkerhetskopierte %1$d WeChat-videoer.</item>
+        <item quantity="many">Sikkerhetskopierte %1$d WeChat-videoer.</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="zero">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="one">%1$d fil med WeChat Video will expire</item>
+        <item quantity="two">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="few">%1$d filer med WeChat Video vil utløpe</item>
+        <item quantity="many">%1$d filer med WeChat Video vil utløpe</item>
+     </plurals>
+     <plurals name="follower_num">
+        <item quantity="other">følgere</item>
+        <item quantity="zero">følgere</item>
+        <item quantity="one">følger</item>
+        <item quantity="two">følgere</item>
+        <item quantity="few">følgere</item>
+        <item quantity="many">følgere</item>
+     </plurals>
+     <plurals name="found_new_files">
+        <item quantity="other">funnet %1$d nye filer</item>
+        <item quantity="zero">funnet %1$d nye filer</item>
+        <item quantity="one">funnet %1$d nye fil</item>
+        <item quantity="two">funnet %1$d nye filer</item>
+        <item quantity="few">funnet %1$d nye filer</item>
+        <item quantity="many">funnet %1$d nye filer</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d timer siden</item>
+        <item quantity="zero">%1$d timer siden</item>
+        <item quantity="one">%1$d time siden</item>
+        <item quantity="two">%1$d timer siden</item>
+        <item quantity="few">%1$d timer siden</item>
+        <item quantity="many">%1$d timer siden</item>
+     </plurals>
+     <plurals name="items_file">
+        <item quantity="other"> (%1$d elementer)</item>
+        <item quantity="zero"> (%1$d elementer)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elementer)</item>
+        <item quantity="few"> (%1$d elementer)</item>
+        <item quantity="many"> (%1$d elementer)</item>
+     </plurals>
+     <plurals name="items_picture">
+        <item quantity="other"> (%1$d elementer)</item>
+        <item quantity="zero"> (%1$d elementer)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elementer)</item>
+        <item quantity="few"> (%1$d elementer)</item>
+        <item quantity="many"> (%1$d elementer)</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">%1$d min siden</item>
+        <item quantity="zero">%1$d min siden</item>
+        <item quantity="one">%1$d min siden</item>
+        <item quantity="two">%1$d min siden</item>
+        <item quantity="few">%1$d min siden</item>
+        <item quantity="many">%1$d min siden</item>
+     </plurals>
+     <plurals name="numSelectedFile">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="zero">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+        <item quantity="two">%1$d valgte</item>
+        <item quantity="few">%1$d valgte</item>
+        <item quantity="many">%1$d valgte</item>
+     </plurals>
+     <plurals name="number_of_comment">
+        <item quantity="other">%1$s kommentarer</item>
+        <item quantity="zero">%1$s kommentarer</item>
+        <item quantity="one">%1$s kommentar</item>
+        <item quantity="two">%1$s kommentarer</item>
+        <item quantity="few">%1$s kommentarer</item>
+        <item quantity="many">%1$s kommentarer</item>
+     </plurals>
+     <plurals name="remote_video_update">
+        <item quantity="other">Fant %1$d nye videoer</item>
+        <item quantity="zero">Fant %1$d nye videoer</item>
+        <item quantity="one">Fant %1$d ny video</item>
+        <item quantity="two">Fant %1$d nye videoer</item>
+        <item quantity="few">Fant %1$d nye videoer</item>
+        <item quantity="many">Fant %1$d nye videoer</item>
+     </plurals>
+     <plurals name="search_head_hint_app">
+        <item quantity="other">App %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="zero">App %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="one">App %1$s relatert fil (%2$d elementer)</item>
+        <item quantity="two">App %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="few">App %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="many">App %1$s relaterte filer (%2$d elementer)</item>
+     </plurals>
+     <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="zero">%1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="one">%1$s relatert fil (%2$d elementer)</item>
+        <item quantity="two">%1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="few">%1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="many">%1$s relaterte filer (%2$d elementer)</item>
+     </plurals>
+     <plurals name="search_head_hint_tag">
+        <item quantity="other">Tagg %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="zero">Tagg %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="one">Tagg %1$s relatert fil (%2$d elementer)</item>
+        <item quantity="two">Tagg %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="few">Tagg %1$s relaterte filer (%2$d elementer)</item>
+        <item quantity="many">Tagg %1$s relaterte filer (%2$d elementer)</item>
+     </plurals>
+     <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d filer igjen å laste ned</item>
+        <item quantity="zero">%1$d filer igjen å laste ned</item>
+        <item quantity="one">%1$d fil igjen å laste ned</item>
+        <item quantity="two">%1$d filer igjen å laste ned</item>
+        <item quantity="few">%1$d filer igjen å laste ned</item>
+        <item quantity="many">%1$d filer igjen å laste ned</item>
+     </plurals>
+     <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">%1$d files left to transmit</item>
+        <item quantity="zero">%1$d files left to transmit</item>
+        <item quantity="one">%1$d file left to transmit</item>
+        <item quantity="two">%1$d files left to transmit</item>
+        <item quantity="few">%1$d files left to transmit</item>
+        <item quantity="many">%1$d files left to transmit</item>
+     </plurals>
+     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d filer igjen å laste opp</item>
+        <item quantity="zero">%1$d filer igjen å laste opp </item>
+        <item quantity="one">%1$d fil igjen å laste opp</item>
+        <item quantity="two">%1$d filer igjen å laste </item>
+        <item quantity="few">%1$d filer igjen å laste opp</item>
+        <item quantity="many">%1$d filer igjen å laste opp</item>
+     </plurals>
+     <plurals name="user_upload_items">
+        <item quantity="other">videoer</item>
+        <item quantity="zero">videoer</item>
+        <item quantity="one">video</item>
+        <item quantity="two">videoer</item>
+        <item quantity="few">videoer</item>
+        <item quantity="many">videoer</item>
+     </plurals>
+     <plurals name="video_ad_download_tip">
+        <item quantity="other"> Nedlastninger</item>
+        <item quantity="zero"> Nedlastninger</item>
+        <item quantity="one"> Nedlastning</item>
+        <item quantity="two"> Nedlastninger</item>
+        <item quantity="few"> Nedlastninger</item>
+        <item quantity="many"> Nedlastninger</item>
+     </plurals>
+     <plurals name="video_count">
+        <item quantity="other">%1$s videoer</item>
+        <item quantity="zero">%1$s videoer</item>
+        <item quantity="one">%1$s video</item>
+        <item quantity="two">%1$s videoer</item>
+        <item quantity="few">%1$s videoer</item>
+        <item quantity="many">%1$s videoer</item>
+     </plurals>
+     <plurals name="video_num">
+        <item quantity="other">%1$s videoer</item>
+        <item quantity="zero">%1$s videoer</item>
+        <item quantity="one">%1$s video</item>
+        <item quantity="two">%1$s videoer</item>
+        <item quantity="few">%1$s videoer</item>
+        <item quantity="many">%1$s videoer</item>
+     </plurals>
+     <plurals name="video_play_num">
+        <item quantity="other">%1$s visninger</item>
+        <item quantity="zero">%1$s visninger</item>
+        <item quantity="one">%1$s visning</item>
+        <item quantity="two">%1$s visninger</item>
+        <item quantity="few">%1$s visninger</item>
+        <item quantity="many">%1$s visninger</item>
+     </plurals>
+</resources>
