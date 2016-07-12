@@ -2733,7 +2733,6 @@ Det er andre brukere tilstede på denne enheten.
      <string name="private_sms_need_to_unlock">Passord kreves:</string>
      <string name="private_sms_recording_intro_header">Tegn et opplåsningsmønster:</string>
      <string name="private_sms_reset_by_account">For å tilbakestille ditt passord, logg inn på din Mi-konto</string>
-  <string name="privacy_settings_title">Sikkerhetskopier/tilbakestilling</string>
      <string name="process_kernel_label">Android-operativsystem</string>
      <string name="process_mediaserver_label">Medietjener</string>
      <string name="process_provider_in_use_description">Leverandøren %1$s er i bruk.</string>
