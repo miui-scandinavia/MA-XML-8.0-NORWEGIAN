@@ -54,7 +54,6 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="convertion_unit_velocity">Hastighetskonvertering</string>
      <string name="convertion_unit_volume">Volumkonvertering</string>
      <string name="convertion_unit_weight">Vektkonvertering</string>
-     <string name="copy">"Kopiere '%s'"</string
      <string name="crossProduct">Kryss</string>
      <string name="currency_update_time_format">Oppdatert %s</string>
      <string name="dec">Dec</string>
