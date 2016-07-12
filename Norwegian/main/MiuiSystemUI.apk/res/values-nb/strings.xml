@@ -75,7 +75,6 @@
      <string name="bluetooth_connected_no_map">Tilkoblet (ingen meldingstilgang)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Tilkoblet (ingen telefon eller media)</string>
      <string name="bluetooth_connecting">Kobler til…</string>
-     <string name="bluetooth_connected">Tilkoblet</string>
      <string name="bluetooth_disconnecting">Kobler fra…</string>
      <string name="bluetooth_dun_profile_summary_connected">Koblet til Dun-server</string>
      <string name="bluetooth_dun_profile_summary_use_for">Bruk for Dial-up nettverkstilgang</string>
