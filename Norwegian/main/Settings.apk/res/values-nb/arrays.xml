@@ -238,6 +238,7 @@
         <item>Barnemodus</item>
         <item>Filutforsker</item>
         <item>App-lås</item>
+        <item>Second space</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>De siste 30 dagene</item>
