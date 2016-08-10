@@ -145,8 +145,9 @@
      <string name="miliao_account_login">Logg inn med Mi Talk</string>
      <string name="mms_title">MMS-meldinger</string>
      <string name="multi_select_title">%1$s elementer valgt</string>
-     <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
-     <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
+     <string name="multi_user_mode_backup_message">"Kan ikke bruke sikkerhetskopi i flerbruker-modus. Slå av flerbruker-modus for å fortsette."</string>
+     <string name="multi_user_mode_dialog_message">"Kan ikke bruke Mi Mover i flerbruker-modus. Slå av flerbruker-modus for å fortsette."</string>
+     <string name="multi_user_mode_dialog_title">"Du er i flerbruker-modus"</string>
      <string name="never">Aldri</string>
      <string name="new_backup">Sikkerhetskopiér</string>
      <string name="no_encrypt_password">Ingen passord</string>
@@ -342,21 +343,21 @@ og Mi Mover er skrudd på"</string>
      <string name="unit_byte">B</string>
      <string name="unit_piece">" elementer"</string>
      <string name="unknown_hint">Ukjent</string>
-     <string name="user_notice_declaration_ignore">"Don't show again"</string>
-     <string name="user_notice_message">Some features require internet connection to work normally.</string>
-     <string name="user_notice_title">Attention</string>
-     <string name="wifi_title">WiFi-innstillinger</string>
+     <string name="user_notice_declaration_ignore">"Ikke vis igjen"</string>
+     <string name="user_notice_message">Noen funksjoner krever Internett-tilkobling for å fungere normalt.</string>
+     <string name="user_notice_title">OBS</string>
+     <string name="wifi_title">Wi-Fi-innstillinger</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_bytes_unit">%1$sB</string>
-     <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-     <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_connect_download_manager_fail">Tilkobling til nedlastingshåndtering mislyktes, vennligst sjekk nedlastingshåndtering-status i App-håndtering.</string>
+     <string name="xiaomi_external_storage_unavailable">Lagring utilgjengelig, vennligst sjekk SD-kort.</string>
      <string name="xiaomi_kilobytes_unit">%1$sKB</string>
      <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Mi-ruter</string>
      <string name="xiaomi_router_location">Mi-ruter %s</string>
-     <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-     <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-     <string name="xiaomi_update_dialog_title">New version available!</string>
+     <string name="xiaomi_update_dialog_message">"Introduserer versjon %1$s
+Størrelse: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Introduserer versjon %1$s
+Størrelse på delta-oppdatering: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">Ny versjon tilgjengelig!</string>
 </resources>

@@ -223,6 +223,8 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="HIPS_Perm_add_voicemail_Desc">Legge til system-talemeldinger</string>
      <string name="HIPS_Perm_get_accounts">Få tilgang til kontoer på enheten</string>
      <string name="HIPS_Perm_get_accounts_Desc">Få tilgang til alle kontoer lagret på enheten</string>
+     <string name="HIPS_Perm_get_tasks">Hente oppgaver</string>
+     <string name="HIPS_Perm_get_tasks_Desc">hente oppgever</string>
      <string name="HIPS_Perm_install_shortcut">Hjemskjerm-snarveier</string>
      <string name="HIPS_Perm_install_shortcut_Desc">Legge til snarveier på hjemskjermen</string>
      <string name="HIPS_Perm_process_nfc">NFC</string>
@@ -265,6 +267,7 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="Privacy_Perm_Count">%1$d tillatt | %2$d avslått</string>
      <string name="Su_Enable_Dialog">%1$s etterspør rot-tilgang.</string>
      <string name="Su_Package_Forbidden">"%1$s har ikke rot-tilgang."</string>
+     <string name="Su_Package_Forbidden2">"har ikke Rot-tilgang."</string>
      <string name="Su_Unavailable">Rot-tilgang er utilgjengelig i denne versjonen av MIUI. Du må laste inn en utviklerversjon for å kunne gi rot-tilgang.</string>
      <string name="SysOpt_Boost_AutoStart">Autostart-tillatelser</string>
      <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
@@ -287,6 +290,7 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="permission_request_title">Tilgangsforespørsel</string>
      <string name="permission_warning_template">Tillat %1$s til %2$s ?</string>
      <string name="permisson_reject_notice_toast_text">"\"%1$s\" har ikke tilgang til %2$s. Du kan endre app-tilganger når som helst i Sikkerhet &gt; Tillatelser."</string>
+     <string name="permisson_reject_notice_toast_text2">"har ikke tilgang til %1$s."</string>
      <string name="screen_overlay_button">Åpne innstillinger</string>
      <string name="screen_overlay_message">For å endre denne tillatelsesinnstillingen, først skru av skjermoverlegg fra Innstillinger &gt; apper</string>
      <string name="screen_overlay_title">Skjermoverlegg oppdaget</string>

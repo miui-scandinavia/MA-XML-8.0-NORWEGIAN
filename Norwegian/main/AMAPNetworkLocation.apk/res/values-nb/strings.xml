@@ -1,8 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-  <string name="agree">Godta</string>
-  <string name="app_label">Nettverksposisjon</string>
-  <string name="disagree">Avslå</string>
-  <string name="location_warning_message">"La AutoNavi innhente anonyme posisjonsdata. Noe data kan bli lagret på enheten og innhenting av data kan skje selv om ingen apper kjører. Påløpende datakostnad kan forekomme som følger av innhentingen."</string>
-  <string name="location_warning_title">Plasseringssamtykke</string>
+     <string name="agree">Godta</string>
+     <string name="app_label">Nettverksposisjon</string>
+     <string name="disagree">Avslå</string>
+     <string name="location_warning_do_not_show_again">"Ikke vis igjen"</string>
+     <string name="location_warning_message">"La AutoNavi innhente anonyme posisjonsdata. Noe data kan bli lagret på enheten og innhenting av data kan skje selv om ingen apper kjører. Påløpende datakostnad kan forekomme som følger av innhentingen."</string>
+     <string name="location_warning_title">Plasseringssamtykke</string>
+     <string name="persmission_close">Lukk</string>
+     <string name="persmission_message">For å fungere, krever denne tjenesten ytterligere tillatelser. Vennligst gi tillatelser når du blir spurt.</string>
+     <string name="persmission_message2">For å fungere riktig, må denne tjenesten få tilgang til lagring. Vennligst gi tillatelse når du blir spurt.</string>
+     <string name="persmission_message3">For å fungere riktig, må denne tjenesten få tilgang til din plassering. Vennligst gi tillatelse når du blir spurt.</string>
+     <string name="persmission_message4">For å fungere riktig, må denne tjenesten få tilgang til telefonen din. Vennligst gi tillatelse når du blir spurt.</string>
+     <string name="persmission_message5">"For å fungere, krever denne tjenesten ytterligere tillatelser. Du kan administrere tillatelser for nettverksplasseringer i Innstillinger"</string>
+     <string name="persmission_message6">"For å fungere, krever denne tjenesten tilgang til din plassering. Du kan administrere tillatelser for nettverksplasseringer i Innstillinger."</string>
+     <string name="persmission_message7">"For å fungere, krever denne tjenesten tilgang til telefonen din. Du kan administrere tillatelser for nettverksplasseringer i Innstillinger."</string>
+     <string name="persmission_message8">"For å fungere, krever denne tjenesten tilgang til lagring. Du kan administrere tillatelser for nettverksplasseringer i Innstillinger."</string>
+     <string name="persmission_notification_text">Trykk for å tillate</string>
+     <string name="persmission_notification_title">Nettverksplassering krever tillatelser</string>
+     <string name="persmission_ok">OK</string>
+     <string name="persmission_settings">Innstillinger</string>
 </resources>

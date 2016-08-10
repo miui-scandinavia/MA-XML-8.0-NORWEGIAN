@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_device">Om</string>
      <string name="active_xiaomi_account">Aktiver</string>
-     <string name="active_xiaomi_account_msg">For å aktivere din Mi-konto, gå til https://account.xiaomi.com/pass/serviceLogin.</string>
+     <string name="active_xiaomi_account_msg">For å aktivere din Mi-konto, gå til http://account.mi.com/.</string>
      <string name="active_xiaomi_account_title">Aktiver Mi-konto</string>
      <string name="app_name">Systemoppdatering</string>
      <string name="apply_later_button_text">Oppdater senere</string>
@@ -61,6 +61,9 @@
      <string name="daily_build">Daglig bygg</string>
      <string name="dialog_no">Nei</string>
      <string name="dialog_ok">Ok</string>
+     <string name="dialog_reboot_message">"MIUI er i ferd med å oppdatere. Denne prosessen kan ta 5-20 minutter. Hold enheten slått på, og ikke start den på nytt mens den oppdaterer."</string>
+     <string name="dialog_reboot_title">Systemoppdatering</string>
+     <string name="dialog_reboot_yes">Oppdater</string>
      <string name="dialog_yes">Ja</string>
      <string name="download_again">Prøv igjen</string>
      <string name="download_cancel">Avbryt</string>
@@ -99,24 +102,25 @@
      <string name="later">Restart nå</string>
      <string name="loading">Kobler til MIUI...</string>
      <string name="log_share">Del</string>
+     <string name="menu_more_button">Menu</string>
      <string name="menu_title_check_update">Bruk bare Wi-Fi for å sjekke etter oppdateringer</string>
      <string name="menu_title_current_version_log">"Hva er nytt"</string>
      <string name="menu_title_download_current_rom">Last ned oppdatering</string>
      <string name="menu_title_pick_rom_file">Velg oppdateringspakke</string>
      <string name="menu_title_recovery">Omstart til recovery-modus</string>
-     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Gå til MIUI forum</a>" "</string>
+     <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI-forum&lt;/a&gt;" "</string>
      <string name="miui_summary_has_new_version">""  Oppdatering tilgjengelig"</string>
      <string name="miui_summary_no_new_version">Ingen oppdatering tilgjengelig</string>
      <string name="miui_summary_now_version">"Kan ikke koble til nettverket"</string>
-     <string name="miui_summary_slogan">"  Designet av deg  "</string>
+     <string name="miui_summary_slogan">"  www.miuios.no  "</string>
      <string name="miui_summary_updating">"  Oppdaterer…  "</string>
-     <string name="monthly_build">Månedlig Build</string>
+     <string name="monthly_build">Månedlig bygg</string>
      <string name="my_best_update">Beste oppdateringen</string>
      <string name="my_expect_update">Forventinger</string>
      <string name="my_rank">"Oppdateringsstatus: "</string>
      <string name="my_update_feel">Mine tilbakemeldinger</string>
      <string name="my_worst_update">Verste oppdateringen</string>
-     <string name="network_error">Kunne ikke koble til, muligjens serverfeil eller nettverksfeil</string>
+     <string name="network_error">Kunne ikke koble til, muligens serverfeil eller nettverksfeil</string>
      <string name="new_updates_found_notification_title">Oppdatering tilgjengelig</string>
      <string name="next">Neste</string>
      <string name="no_log">Ingen sammendrag tilgjengelig</string>
@@ -272,6 +276,6 @@ Kunne ikke sende tilbakemelding"</string>
      <string name="weekly_build">Ukentlig bygg</string>
      <string name="welcom_button">OK</string>
      <string name="welcom_message">"Du er klart til å rocke"</string>
-     <string name="welcom_title">Velkommen til MIUI 7</string>
+     <string name="welcom_title">Velkommen til MIUI 8</string>
      <string name="worst_update">Verste oppdateringen så langt</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="menu_theme_setting">
         <item>Hvit</item>
@@ -80,5 +80,17 @@
      <string-array name="pref_volume_key_choices">
         <item>Forrige side/Neste side</item>
         <item>Forrige fane/Neste fane</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Slett</item>
+        <item>Nei takk</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Følg</item>
+     </string-array>
+     <string-array name="shortcut_dialog_title">
+        <item>Melding fra nettleser</item>
+        <item>Følg OL med Mi</item>
      </string-array>
 </resources>

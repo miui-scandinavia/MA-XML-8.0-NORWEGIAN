@@ -9,6 +9,14 @@
         <item quantity="few">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
         <item quantity="many">%1$d filer med WeChat temp-video vil bli tømt. Vil du sikkerhetskopiere dem?</item>
      </plurals>
+     <plurals name="days">
+        <item quantity="other">%1$d dager</item>
+        <item quantity="zero">%1$d dager</item>
+        <item quantity="one">%1$d dag</item>
+        <item quantity="two">%1$d dager</item>
+        <item quantity="few">%1$d dager</item>
+        <item quantity="many">%1$d dager</item>
+     </plurals>
      <plurals name="days_ago">
         <item quantity="other">%1$d dager siden</item>
         <item quantity="zero">%1$d dager siden</item>
@@ -105,6 +113,14 @@
         <item quantity="few">funnet %1$d nye filer</item>
         <item quantity="many">funnet %1$d nye filer</item>
      </plurals>
+     <plurals name="hours">
+        <item quantity="other">%1$d timer</item>
+        <item quantity="zero">%1$d timer</item>
+        <item quantity="one">%1$d time</item>
+        <item quantity="two">%1$d timer</item>
+        <item quantity="few">%1$d timer</item>
+        <item quantity="many">%1$d timer</item>
+     </plurals>
      <plurals name="hours_ago">
         <item quantity="other">%1$d timer siden</item>
         <item quantity="zero">%1$d timer siden</item>
@@ -128,6 +144,14 @@
         <item quantity="two"> (%1$d elementer)</item>
         <item quantity="few"> (%1$d elementer)</item>
         <item quantity="many"> (%1$d elementer)</item>
+     </plurals>
+     <plurals name="mins">
+        <item quantity="other">%1$d min</item>
+        <item quantity="zero">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="many">%1$d min</item>
      </plurals>
      <plurals name="mins_ago">
         <item quantity="other">%1$d min siden</item>
@@ -184,6 +208,14 @@
         <item quantity="two">Tagg %1$s relaterte filer (%2$d elementer)</item>
         <item quantity="few">Tagg %1$s relaterte filer (%2$d elementer)</item>
         <item quantity="many">Tagg %1$s relaterte filer (%2$d elementer)</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="zero">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+        <item quantity="two">%1$d sekunder</item>
+        <item quantity="few">%1$d sekunder</item>
+        <item quantity="many">%1$d sekunder</item>
      </plurals>
      <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d filer igjen å laste ned</item>

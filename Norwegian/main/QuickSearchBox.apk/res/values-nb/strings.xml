@@ -50,6 +50,7 @@
      <string name="recently_shortcut_label">Seneste snarveier</string>
      <string name="remove_from_history">Fjern fra søkehistorikk</string>
      <string name="remove_from_history_failed">"Kunne ikke fjerne fra historikk"</string>
+     <string name="search_apps">Søk i apper</string>
      <string name="search_group_fold">Skjul</string>
      <string name="search_group_unfold">Mer</string>
      <string name="search_history">Historikk</string>
@@ -59,6 +60,8 @@
      <string name="search_sources">Søkbare elementer</string>
      <string name="search_sources_summary">Velg hva som skal søkes på telefon</string>
      <string name="search_suggestion">Tips</string>
+     <string name="search_videos">Søk i videoer</string>
+     <string name="search_videos_url" />
      <string name="search_widget">Søk</string>
      <string name="searchable_lable_app">app</string>
      <string name="searchable_lable_browser">browser</string>
@@ -69,14 +72,17 @@
      <string name="searchable_sources">Nett</string>
      <string name="send_secret_code">Send kode</string>
      <string name="show_more">Vis mer</string>
+     <string name="suggest_open_app_failed">"Kunne ikke åpne denne appen"</string>
      <string name="system_search_category_title">Telefon</string>
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">"Prøv å si "</string>
      <string name="web_search_results">Søkeresultater fra nett</string>
      <string name="xiaomi_hint"></string>
+     <string name="xiaomi_homepage_hint" />
      <string name="xiaomi_homepage_suggest" />
      <string name="xiaomi_hot_query"></string>
      <string name="xiaomi_search_label">Resultater</string>
+     <string name="xiaomi_source_url" />
      <string name="xiaomi_suggest_base"></string>
 </resources>

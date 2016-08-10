@@ -202,6 +202,7 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="pref_theme">Tema</string>
      <string name="pref_units">Enheter</string>
      <string name="radians">RAD</string>
+     <string name="rate_data_provider">Rentene er levert av hexun.com</string>
      <string name="remove_from_history">Fjern fra historikk</string>
      <string name="returnToBasic">Gå tilbake til det grunnleggende panelet</string>
      <string name="rightParen">)</string>
@@ -225,6 +226,9 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="tax_accumulation_fund">Opphopningsfond</string>
      <string name="tax_annual_bonus_hint">Skriv bonus før skatt</string>
      <string name="tax_birth">Født</string>
+     <string name="tax_cal_method_annual">Bergening av årlig bonus</string>
+     <string name="tax_cal_method_fixed_salary">Beregning av inntektsskatt</string>
+     <string name="tax_cal_method_format">Personlig inndata: %s</string>
      <string name="tax_city">By</string>
      <string name="tax_city_located">Plassering</string>
      <string name="tax_city_picker">By</string>
@@ -251,6 +255,7 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="tax_update_time_format">Data i år %s</string>
      <string name="text_copied_toast">Tekst kopiert.</string>
      <string name="theme">Tema</string>
+     <string name="title_bar">Length converter</string>
      <string name="to_num">62.7</string>
      <string name="trigUnits">Trigger enheter</string>
      <string name="unit_data_default_area_0">sq.m</string>

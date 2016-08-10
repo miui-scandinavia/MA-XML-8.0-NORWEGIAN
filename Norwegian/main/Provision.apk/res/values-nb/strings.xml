@@ -4,12 +4,12 @@
      <string name="agree">Samtykk</string>
      <string name="agree_terms">"Jeg har lest og akseptert vilkårene"</string>
      <string name="back">Tilbake</string>
-     <string name="congratulation_label" />
-     <string name="congratulation_title">Klar</string>
+     <string name="congratulation_label">miuios.no</string>
+     <string name="congratulation_title">Alt klart!</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Bruk fingeravtrykket ditt for å låse opp enheten, verifiser Mi Pay-transaksjoner, eller logge inn på apper og tjenester.</string>
-     <string name="desc_international_fingerprint">Use your fingerprint to unlock your device, or to sign in to apps and services.</string>
+     <string name="desc_international_fingerprint">Bruke fingeravtrykk til å låse opp enheten, eller for å logge på apper og tjenester.</string>
      <string name="disagree">Avbryt</string>
      <string name="ime_privacy_policy">Erklæring om personvern for valgte tastatur</string>
      <string name="ime_privacy_policy_no_network">Ingen nettverksforbindelse. Se erklæringen om personvern for dette tastaturet på %s.</string>
@@ -51,7 +51,7 @@
      <string name="sim_card_detection_info">Kunne ikke sette opp Xiaomi-konto uten et SIM-kort. Du må bruke et SIM-kort for å bruke kontosynkronisering, telefonlokalisering og lign."</string>
      <string name="sim_dectection_next">Fortsett</string>
      <string name="sim_redetection">Sjekk for SIM-kort igjen</string>
-     <string name="skip_underline">&lt;u&gt;Hopp over dette steget&lt;/u&gt;</string>
+     <string name="skip_underline">Hopp over dette steget</string>
      <string name="summary_not_set">Ikke satt</string>
      <string name="summary_sim_card">Kort %1$d</string>
      <string name="summary_sim_card_with_operator">Kort %1$d: %2$s</string>

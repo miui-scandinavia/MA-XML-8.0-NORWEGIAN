@@ -308,7 +308,7 @@ For å aktivere denne funksjonen, vennligst gå til Innstillinger &gt; System &g
      <string name="force_exit_message">Tvunget avslutting av %1$s</string>
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="frequent_phrases_des">Skriv hyppige setninger når du endrer tekst, med kun få trykk</string>
-     <string name="frequent_phrases_size_exceeded">Kan legge til maks 10 hyppige setninger. Fjern de unødvendige for å legge til flere</string>
+     <string name="frequent_phrases_size_exceeded">Kan legge til maks %1$d hyppige setninger. Fjern de unødvendige for å legge til flere</string>
      <string name="global_action_privacy_mode_dialog_message">Anrop, notater, bilder, meldinger og launcher-innstillinger vil bli skjult fra brukeren.</string>
      <string name="global_action_toggle_privacy_mode">Gjestemodus</string>
      <string name="good_friday">Langfredag</string>
@@ -330,7 +330,7 @@ gå til %s"</string>
      <string name="lockscreen_access_pattern_start">Mønster start</string>
      <string name="lockscreen_unlock_sim_via_puk">Skriv PUK-kode for å låse opp SIM-kortet</string>
      <string name="login_website_in_case_forget_password">For å tilbakestille passord, gå til i.mi.com.</string>
-     <string name="maml_component_customization_title">Settings</string>
+     <string name="maml_component_customization_title">Innstillinger</string>
      <string name="memory_clear_nothing_result">Ingenting å tømme i mellomlageret</string>
      <string name="memory_clear_result">%1$s tømt | %2$s tilgjengelig</string>
      <string name="menu_add_frequent_phrases">Legg til</string>
@@ -361,7 +361,7 @@ gå til %s"</string>
      <string name="national_father_day" />
      <string name="never">Aldri</string>
      <string name="new_years_day" />
-     <string name="no_notification_tips">No notifications.</string>
+     <string name="no_notification_tips">Ingen varsler.</string>
      <string name="no_sim">Ingen SIM-kort funnet</string>
      <string name="open_wifi_settings">Åpent Wi-Fi-nettverk</string>
      <string name="partys_day" />
@@ -380,9 +380,9 @@ gå til %s"</string>
      <string name="permdesc_accessNote">Ondsinnede apper kan bruke dette for å få tilgang til dine personlige opplysninger.</string>
      <string name="permlab_accessNote">Få tilgang til dine notater</string>
      <string name="policy_name">Regel: %s</string>
-     <string name="presentation_payphone">Payphone</string>
-     <string name="presentation_private">Private number</string>
-     <string name="presentation_unknown">Unknown number</string>
+     <string name="presentation_payphone">Telefonkiosk</string>
+     <string name="presentation_private">Privat nummer</string>
+     <string name="presentation_unknown">Ukjent nummer</string>
      <string name="private_num">Privat nummer</string>
      <string name="provider_114">Drevet av 114</string>
      <string name="provider_sougou">Drevet av Sohu</string>

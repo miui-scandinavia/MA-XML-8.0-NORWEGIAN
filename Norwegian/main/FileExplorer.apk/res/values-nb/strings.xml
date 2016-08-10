@@ -2,10 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
-     <string name="account_login_title">Account</string>
+     <string name="account_login_title">Konto</string>
      <string name="action_mode_deselect_all">Avvelg alle</string>
      <string name="action_mode_select_all">Velg alle</string>
-     <string name="activity_rule">Rules</string>
+     <string name="activity_parse_video_title">Lim inn URL</string>
+     <string name="activity_rule">Regler</string>
      <string name="ad_download">Last ned</string>
      <string name="ad_downloading">Bare et sekund…</string>
      <string name="add_one">+1</string>
@@ -13,6 +14,8 @@
      <string name="add_private_files">Legg til filer</string>
      <string name="add_task">Legg til oppgaver</string>
      <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
+     <string name="album_creator">Opprettet av %s</string>
+     <string name="album_name">Daglig valg: %s</string>
      <string name="all_topic">Alle emner</string>
      <string name="already_liked">"Du har alleredet favorisert denne tingen"</string>
      <string name="already_signin_description">Du er allerede logget inn</string>
@@ -111,8 +114,9 @@
      <string name="connection_error">"Kunne ikke koble til"</string>
      <string name="copied">Kopiert</string>
      <string name="copy_failed">"Kunne ikke kopiere, det ser ut til at lagringsplassen er full"</string>
+     <string name="copy_failed_retry">"Kan ikke kopiere, vent %1$s og prøv igjen"</string>
      <string name="copy_file_to_kuaipan">Kopier filer til Kuaipan</string>
-     <string name="copy_file_to_midrive">Copy file to MiDrive</string>
+     <string name="copy_file_to_midrive">Kopiér fil til MiDrive</string>
      <string name="copy_text">Kopiér tekst</string>
      <string name="copy_to">Kopiér til…</string>
      <string name="create_kuaipan_shortcut_pref">Legg en snarvei på skrivebordet</string>
@@ -151,6 +155,7 @@
      <string name="delete_dialog_button">Slett</string>
      <string name="delete_error">"Kunne ikke slette filer, prøv igjen"</string>
      <string name="delete_failed">Sletting mislyktes</string>
+     <string name="delete_failed_retry">"Kan ikke slette, vent %1$s og prøv igjen"</string>
      <string name="delete_file">Slett denne filen?</string>
      <string name="delete_file_error">"Kunne ikke slette fil"</string>
      <string name="delete_files">Slett %1$d filer?</string>
@@ -184,6 +189,7 @@
      <string name="downloading_in_3g">Laster ned med 3G…</string>
      <string name="drive_closed">Ikke innlogget</string>
      <string name="drive_opened">Logg inn</string>
+     <string name="editor_commend">Endre</string>
      <string name="email_platform">E-post</string>
      <string name="empty_comment">Kommentar kan ikke være tom</string>
      <string name="empty_file_download">Tomme filer er ikke støttet.</string>
@@ -227,6 +233,8 @@
      <string name="folder_name_empty">Mappenavn kan ikke være tomt</string>
      <string name="folder_name_illegal">Ugyldig mappenavn</string>
      <string name="folder_name_invalid">"Mappenavn kan ikke inneholde følgende tegn: /\\:*?&lt;&gt;"</string>
+     <string name="force_touch_clean">Tøm søppel</string>
+     <string name="force_touch_search">Søk i filer</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Trykk her&lt;/a&gt;for å gå til papirkurven</string>
      <string name="found_router">Ruter tilkoblet</string>
      <string name="found_usb">USB-lagring tilkoblet</string>
@@ -257,6 +265,7 @@
      <string name="hot_comments">Seneste kommentarer</string>
      <string name="hot_sticker">Populære klistremerker</string>
      <string name="hot_video">Populære videoer</string>
+     <string name="hot_video_load_more">Flere &gt;</string>
      <string name="hottest_sticker_str">Popular</string>
      <string name="if_cancel">Avbryt denne handlingen?</string>
      <string name="image_loading_error">"Kunne ikke laste bilde"</string>
@@ -264,6 +273,8 @@
      <string name="installing">Installerer…</string>
      <string name="instruction">Tast inn følgende adresse i din FTP-klient:</string>
      <string name="instruction_pre">Start tjeneste for å aktivere FTP-server</string>
+     <string name="interest_recommend">Anbefalte videoer</string>
+     <string name="join_activity">Delta</string>
      <string name="just_now">Akkurat nå</string>
      <string name="kilobyteShort">KB</string>
      <string name="kp_category_all">Kategori</string>
@@ -342,6 +353,8 @@
      <string name="mi_router_label">Ruter</string>
      <string name="midrive_network_connect_confirm">Midrive trenger å koble til Internett for å fungere normalt.</string>
      <string name="midrive_space_full">Ikke nok plass i skya.</string>
+     <string name="midrive_welcome_message">Dine KuaiPan-filer har blitt flyttet til Mi Drive. Vi gir deg en tre måneders gratis Mi Cloud-medlemskap. Mi Cloud og Mi Drive bruker samme lagringsplass. Du kan få tilgang til filene dine på i.mi.com.</string>
+     <string name="midrive_welcome_title">Velkommen til Mi Drive</string>
      <string name="midrop_msg_1">Skru på Mi Drop på den andre enheten</string>
      <string name="midrop_msg_2">Når Mi Drop er på, kan du søke etter enheter i nærheten og sende filer</string>
      <string name="midrop_send_files">Velg filer å sende</string>
@@ -373,6 +386,7 @@
      <string name="mobile_photo_desc" />
      <string name="month_day_format">MMM dd</string>
      <string name="move_failed">Flytting mislyktes</string>
+     <string name="move_failed_retry">"Kan ikke kutte, vent %1$s og prøv igjen"</string>
      <string name="move_icon_to_desktop_hint">Opprett en hjemskjerm-snarvei for Utforsker for å håndtere filer mer effektivt.</string>
      <string name="move_icon_to_desktop_success">Snarvei lagt på hjemskjermen.</string>
      <string name="move_to">Flytt til…</string>
@@ -691,6 +705,7 @@
      <string name="stay_awake_summary">Holder skjerm på når det benyttes FTP</string>
      <string name="stay_awake_title">Hold skjermen våken</string>
      <string name="stop_server">Stopp</string>
+     <string name="storage_cloned_app">Lagring for klonede apper</string>
      <string name="storage_info">%1$s tilgjengelig</string>
      <string name="storage_info_detail">Tilgjengelig:%1$s Totalt:%1$s</string>
      <string name="storage_internal">Intern lagring</string>
@@ -722,6 +737,7 @@
      <string name="tab_storage">LAGRING</string>
      <string name="tag_weixin_video">Videoklipp</string>
      <string name="terabyteShort">TB</string>
+     <string name="title_album">Album</string>
      <string name="title_app_tags">Apper</string>
      <string name="title_enable_documentsui">Slå på DocumentsUI</string>
      <string name="title_expire_video">I ferd med å utløpe</string>
@@ -755,7 +771,11 @@
      <string name="ui_main_toast_favorite_removed">Favoritt fjernet</string>
      <string name="ui_main_toast_operation_failed">Fjerning av %1$s mislyktes.</string>
      <string name="unmount_inform_text">USB-lagring vil bli avmontert.</string>
-     <string name="unreviewed_video_cannot_share">Videos should be reviewed before sharing</string>
+     <string name="unreviewed_video_cannot_share">Videoer bør gjennomgås før du deler</string>
+     <string name="upload_external_action_hint">Lim inn URL</string>
+     <string name="upload_external_notification_failed">"Kunne ikke publisere"</string>
+     <string name="upload_external_notification_success">Publisering vellykket</string>
+     <string name="upload_external_notification_title">Publishing, vent et øyeblikk</string>
      <string name="upload_failed">Opplasting mislyktes</string>
      <string name="upload_file_toolarge_message">"%1$d filer større enn 300MB, og kan ikke lastes opp."</string>
      <string name="upload_local_video">Del liten video</string>
@@ -771,6 +791,7 @@
      <string name="upload_video_dialog_message">"Videoen vil bli vist blant populøre videoer når den er verifisert."</string>
      <string name="upload_video_dialog_title">Video delt</string>
      <string name="upload_video_failed">"Kunne ikke dele video, prøv igjen."</string>
+     <string name="upload_video_forbidden">"Ikke last opp lignende videoer"</string>
      <string name="upload_video_success">Verifiserer video…</string>
      <string name="upload_video_tip">Bare en video kan bli delt om gangen</string>
      <string name="uploading">Laster opp...</string>
@@ -820,6 +841,13 @@
      <string name="video_data_consumption_confirm">OK</string>
      <string name="video_data_consumption_dialog_message">Opplastning vil kreve %1$s av mobildata</string>
      <string name="video_data_consumption_dialog_title">Advarsel om mobildata</string>
+     <string name="video_parse_btn">Start</string>
+     <string name="video_parse_error_repeated">"Ikke last opp lignende videoer"</string>
+     <string name="video_parse_error_unknown">"Denne videotjenesten støttes ikke, prøv en annen"</string>
+     <string name="video_parse_hint">Støttede apper: WeChat, Weibo, Youku.</string>
+     <string name="video_parse_success">Analysering vellykket</string>
+     <string name="video_parse_timeout">Something went wrong, try again</string>
+     <string name="video_parsing_btn">Analyserer…</string>
      <string name="video_play_failed">Ukjent feil</string>
      <string name="video_publish_hint">En god beskrivelse vil hjelpe andre folk med å finne dine videoer</string>
      <string name="video_releasing">Laster opp…</string>

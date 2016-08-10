@@ -84,12 +84,15 @@
      <string name="add_bookmark">Legg til bokmerke</string>
      <string name="add_bookmark_group">Legg til gruppe</string>
      <string name="add_bookmark_short">Legg til</string>
+     <string name="add_bookshelf_popup_text">Lagt til i bokhylle</string>
      <string name="add_folder">Legg til gruppe</string>
      <string name="add_new_bookmark">Legg til bokmerke</string>
      <string name="add_new_quicklink">Legg på startside</string>
      <string name="add_ql_bm_title">Lagre</string>
      <string name="add_quicklink_to_popular">Legg på startside</string>
      <string name="add_quicklinks">Legg på startside</string>
+     <string name="add_shortcut">Legg til snarvei</string>
+     <string name="add_shortcut_success">La til snarvei</string>
      <string name="add_to_bookmark">Bokmerker</string>
      <string name="add_to_bookmarks_menu_option">Bokmerker</string>
      <string name="add_to_desk">Legg på hjemskjerm</string>
@@ -394,6 +397,9 @@ Sider du er inne på, vil ikke vises i historikken."</string>
      <string name="find_on_page_prev">Tilbake</string>
      <string name="find_previous">Finn forrige</string>
      <string name="folder_name">Gruppenavn</string>
+     <string name="force_quick_search_title">Søk</string>
+     <string name="force_touch_bookmark_history_title">Bokmerker og historikk</string>
+     <string name="force_touch_infoflow_title">Nyheter</string>
      <string name="forward">Fremover</string>
      <string name="general_set_default_browser_dialog_close_txt">Lukk</string>
      <string name="general_set_default_browser_dialog_ok_txt">OK</string>
@@ -912,6 +918,7 @@ Vil du forlate denne siden?"</string>
      <string name="save_password_never">Aldri</string>
      <string name="save_password_notnow">Ikke nå</string>
      <string name="save_password_remember">Husk</string>
+     <string name="save_to">Lagre til</string>
      <string name="save_to_bookmarks">Lagre i Bokmerker</string>
      <string name="save_to_camera">Lagre til Kamera</string>
      <string name="save_to_camera_failed">"Kan ikke lagre bilde"</string>
@@ -953,6 +960,8 @@ Vil du forlate denne siden?"</string>
      <string name="send_comment_button">Send</string>
      <string name="send_comment_title">Comment</string>
      <string name="send_to_popular">populær</string>
+     <string name="senddesktop">Hjemskjerm</string>
+     <string name="sendstartpage">Startside</string>
      <string name="set_as_homepage">Sett som startside</string>
      <string name="share_link">Del link</string>
      <string name="share_page">del side</string>

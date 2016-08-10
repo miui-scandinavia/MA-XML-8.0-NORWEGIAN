@@ -189,7 +189,7 @@
      <string name="empty_data">Feil ved lasting</string>
      <string name="empty_keyword_hint">Kodeord kan ikke være tomt</string>
      <string name="empty_tv_exiting">Avslutter…</string>
-     <string name="enter_detail">More Information</string>
+     <string name="enter_detail">Mer informasjon</string>
      <string name="episode">Episode</string>
      <string name="episode_name_format">Episode: %1$s</string>
      <string name="episode_suffix">Ep. %d</string>
@@ -208,15 +208,16 @@
      <string name="filter">Filtrer</string>
      <string name="filter_media">Filtrer</string>
      <string name="filter_program">Filtrer program</string>
+     <string name="finish_install">Installert</string>
      <string name="forecast">Vær</string>
      <string name="forecast_empty_hint">Tom</string>
      <string name="forecasts">Vær</string>
      <string name="fullscreen">Fullskjerm</string>
      <string name="funshion">Funshion</string>
-     <string name="gong_count_bu">%d views total</string>
+     <string name="gong_count_bu">%d visninger totalt</string>
      <string name="gong_count_dlna">%d DLNA</string>
-     <string name="gong_count_ge">%d total</string>
-     <string name="gong_count_ji">%d Ep. total</string>
+     <string name="gong_count_ge">%d totalt</string>
+     <string name="gong_count_ji">%d Ep. totalt</string>
      <string name="gong_count_xiang">%d videoer</string>
      <string name="good">OK</string>
      <string name="guess_you_like">Anbefalt</string>
@@ -557,7 +558,7 @@
      <string name="vp_hide_media_info">Skjul video info</string>
      <string name="vp_high_definition">HD</string>
      <string name="vp_hint">Hint</string>
-     <string name="vp_install">Installer HD-komponentapp?</string>
+     <string name="vp_install">Installer HD-komponent-app?</string>
      <string name="vp_install_title">Installer HD</string>
      <string name="vp_loading">&lt;CDATA&gt;Laster ned &lt;/CDATA&gt;</string>
      <string name="vp_loading_download">&lt;CDATA&gt;Laster ned &lt;/CDATA&gt;</string>

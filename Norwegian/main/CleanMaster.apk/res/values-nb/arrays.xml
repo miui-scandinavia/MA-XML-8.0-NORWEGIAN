@@ -59,10 +59,13 @@
         <item>Navn</item>
      </string-array>
      <string-array name="long_add_app_menu">
-        <item>Add app to exceptions</item>
+        <item>Legg til app i unntak</item>
      </string-array>
      <string-array name="long_add_menu">
-        <item>Add to exceptions</item>
+        <item>Legg til i unntak</item>
+     </string-array>
+     <string-array name="low_memory_clean_menu">
+        <item>Rydd opp</item>
      </string-array>
      <string-array name="scan_engine">
         <item>Clean Master</item>

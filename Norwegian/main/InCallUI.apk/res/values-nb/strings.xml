@@ -154,7 +154,8 @@
      <string name="conference_call_number">%s personer</string>
      <string name="conference_call_single_description" formatted="false">%s osv. totalt %s</string>
      <string name="conference_caller_info_name">"%1$s sitt konferanseanrop"</string>
-     <string name="conference_caller_name_me">Me</string>
+     <string name="conference_caller_name_me">Meg</string>
+     <string name="conference_callers_exceeded">Grense for antall innringere i konferanse nådd</string>
      <string name="confirmPin2Label">Bekreft ny PIN2</string>
      <string name="confirmPinLabel">Bekreft ny PIN</string>
      <string name="connect_later">Kan ikke koble til dette nettverket akkurat nå. Prøv på nytt senere.</string>
@@ -230,6 +231,7 @@
      <string name="display_name_summary">&lt;Samme som brukernavn&gt;</string>
      <string name="display_name_title">Visningsnavn</string>
      <string name="do_not_ask">Ikke vis igjen</string>
+     <string name="do_not_support_video_calls_by_remote">"Videosamtaler er ikke støttet av den andre enheten"</string>
      <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Tjener</string>
      <string name="doneButton">Ferdig</string>
@@ -514,13 +516,13 @@
      <string name="onscreen_merge_calls_text">Flett anrop</string>
      <string name="onscreen_mi_support_calls_text">MiSupport</string>
      <string name="onscreen_mute_text">Demp</string>
-     <string name="onscreen_note_calls_text">Note</string>
+     <string name="onscreen_note_calls_text">Notis</string>
      <string name="onscreen_note_text">Notis</string>
      <string name="onscreen_rcs_text">Messages</string>
      <string name="onscreen_send_flash_text">Flash</string>
      <string name="onscreen_speaker_text">Høyttaler</string>
      <string name="onscreen_swap_calls_text">Bytt</string>
-     <string name="onscreen_switch_camera">Switch camera</string>
+     <string name="onscreen_switch_camera">Bytt kamera</string>
      <string name="onscreen_tools_off">Verktøy</string>
      <string name="onscreen_tools_on">Verktøy</string>
      <string name="optional_summary">&lt;Valgfritt&gt;</string>

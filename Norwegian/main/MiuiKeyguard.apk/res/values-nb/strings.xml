@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="accessibility_enter_lock_wallpaper">Trykk for å åpne daglige bakgrunnsbilder</string>
      <string name="click_to_enter_text">Trykk for å vise</string>
      <string name="confirm_pin_msg">Skriv PIN igjen</string>
      <string name="default_lockscreen_unlock_hint_text">Dra opp for å låse opp</string>
@@ -15,7 +16,7 @@
      <string name="experimental_validate_username">Brukernavn</string>
      <string name="experimental_validate_warning">Takk for at du hjelper med å gjøre MIUI bedre!</string>
      <string name="find_device_turn_off_flight_mode">Skru av flymodus</string>
-     <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
+     <string name="fingerprint_lockout_msg">Vent et øyeblikk, og prøv deretter å låse opp med fingeravtrykket ditt på nytt</string>
      <string name="fingerprint_not_identified_msg">For å låse opp enheten, skriv ditt passord.</string>
      <string name="fingerprint_not_identified_title">Skriv passord</string>
      <string name="fingerprint_try_again_text">Prøv igjen</string>
@@ -26,13 +27,17 @@
      <string name="incorrect_pukcode_remaining_attempts">Ukorrekt PUK-kode, %d forsøk igjen</string>
      <string name="input_password_after_boot_msg">"Du må skrive passord etter at enheten startes på nytt."</string>
      <string name="input_password_hint_text">Skriv passord</string>
+     <string name="input_pattern_hint_text">Tegn ditt opplåsningsmønster</string>
      <string name="input_pin_code">Skriv PIN</string>
      <string name="input_puk_code">Skriv PUK</string>
      <string name="invalid_confirm_pin_hint">"PIN matcher ikke"</string>
      <string name="invalid_sim_pin_hint">PIN bør inneholde mellom 4 og 8 tall</string>
      <string name="invalid_sim_puk_hint">PUK bør innholde minst 8 tall</string>
      <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
+     <string name="left_action_default_hint_text">Mi-fjernkontroll</string>
      <string name="lock_screen_date_12">EEEE, MMMM d</string>
+     <string name="lock_wallpaper_learn_more">Lær mer &gt;</string>
+     <string name="lock_wallpaper_see_more">Se mer &gt;</string>
      <string name="lockscreen_access_pattern_cell_added">Celle lagt til</string>
      <string name="lockscreen_access_pattern_cleared">Mønster tømt</string>
      <string name="lockscreen_access_pattern_detected">Mønster ferdig</string>
@@ -48,8 +53,8 @@
      <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til www.mi.com/micloud</string>
      <string name="missed_call_text">%d tapte anrop</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Låst opp med Bluetooth-enhet</string>
-     <string name="open_camera_hint_text">Sveip venstre for å åpne Kamera</string>
-     <string name="open_remote_center_hint_text">Sveip høyre for å åpne Mi-fjernkontroll</string>
+     <string name="open_camera_hint_text">Sveip venstre for å åpne %s</string>
+     <string name="open_remote_center_hint_text">Sveip høyre for å åpne %s</string>
      <string name="open_wifi_settings">Åpne nettverkstilkobling</string>
      <string name="phone_locked_string">Enheten er låst</string>
      <string name="phone_locked_timeout_minutes_string">Vennligst gå tilbake etter %s minutter</string>

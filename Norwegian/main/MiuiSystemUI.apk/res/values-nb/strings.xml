@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_airplane_mode">Flymodus.</string>
+     <string name="accessibility_assistant">Rask ball</string>
      <string name="accessibility_back">Tilbake</string>
      <string name="accessibility_battery_level">Batteri %d prosent.</string>
      <string name="accessibility_bluetooth_connected">Bluetooth tilkoblet.</string>
@@ -21,6 +22,7 @@
      <string name="accessibility_data_three_bars">Data tre stolper.</string>
      <string name="accessibility_data_two_bars">Data to stolper.</string>
      <string name="accessibility_home">Hjem</string>
+     <string name="accessibility_ime_switch_button">Bytt inndatametode-knappen.</string>
      <string name="accessibility_managed_profile">Arbeidsprofil</string>
      <string name="accessibility_menu">Meny</string>
      <string name="accessibility_no_data">Ingen data.</string>
@@ -70,11 +72,12 @@
      <string name="bluetooth_a2dp_profile_summary_connected">Koblet til medielyd</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Bruk for medielyd</string>
      <string name="bluetooth_connected">Tilkoblet</string>
-     <string name="bluetooth_connected_no_headset">Tilkobling (ingen telefon)</string>
      <string name="bluetooth_connected_no_a2dp">Tilkoblet (ingen medier)</string>
-     <string name="bluetooth_connected_no_map">Tilkoblet (ingen meldingstilgang)</string>
+     <string name="bluetooth_connected_no_headset">Tilkobling (ingen telefon)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Tilkoblet (ingen telefon eller media)</string>
+     <string name="bluetooth_connected_no_map">Tilkoblet (ingen meldingstilgang)</string>
      <string name="bluetooth_connecting">Kobler til…</string>
+     <string name="bluetooth_disconnected">Fakoblet</string>
      <string name="bluetooth_disconnecting">Kobler fra…</string>
      <string name="bluetooth_dun_profile_summary_connected">Koblet til Dun-server</string>
      <string name="bluetooth_dun_profile_summary_use_for">Bruk for Dial-up nettverkstilgang</string>
@@ -247,6 +250,11 @@
      <string name="screen_pinning_negative">Nei takk</string>
      <string name="screen_pinning_positive">Skjønner</string>
      <string name="screen_pinning_title">Skjerm er festet</string>
+     <string name="screenshot_delete">Slett</string>
+     <string name="screenshot_delete_dlg_msg">Er du sikker på at du vil slette dette skjermbilde?</string>
+     <string name="screenshot_delete_dlg_title">Slett</string>
+     <string name="screenshot_dlg_cancel">Avbryt</string>
+     <string name="screenshot_dlg_delete_button">Slett</string>
      <string name="screenshot_edit">Endre</string>
      <string name="screenshot_failed_text">"Kan ikke ta skjermbilde grunnet lite lagringsplass, eller at det ikke er tillatt av denne appen eller av ditt firma."</string>
      <string name="screenshot_long_screenshot">Ta lengre</string>
@@ -346,4 +354,20 @@
      <string name="wifi_no_internet">"Ingen internettilgang oppdaget, vil ikke automatisk koble til."</string>
      <string name="wifi_not_in_range">Ikke innenfor rekkevidde</string>
      <string name="wifi_remembered">Lagret</string>
+     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
+     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+     <string name="wifi_security_eap">802.1x EAP</string>
+     <string name="wifi_security_none">Ingen</string>
+     <string name="wifi_security_passpoint">Passpoint</string>
+     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+     <string name="wifi_security_short_eap">802.1x</string>
+     <string name="wifi_security_short_wep">WEP</string>
+     <string name="wifi_security_short_wpa">WPA</string>
+     <string name="wifi_security_short_wpa2">WPA2</string>
+     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+     <string name="wifi_security_wep">WEP</string>
+     <string name="wifi_security_wpa">WPA PSK</string>
+     <string name="wifi_security_wpa2">WPA2 PSK</string>
+     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
 </resources>

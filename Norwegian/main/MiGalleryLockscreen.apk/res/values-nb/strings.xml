@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_name">Daglige låseskjermer</string>
+     <string name="app_name">Daglige bakgrunnsbilder</string>
      <string name="at_least_one">Velg minst en kategori</string>
      <string name="auto_interval">Auto</string>
      <string name="cancel">Avslutt</string>
      <string name="cancel_international">Avbryt</string>
+     <string name="cancel_lockscreen">Avbryt</string>
      <string name="change_time">Byttefrekvens</string>
      <string name="day">1 dag</string>
-     <string name="declaration">"Aksepter våre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Brukevilkår&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Personvernvilkår&lt;/a&gt; for å starte. Internett-tilkobling kreves.​"</string>
-     <string name="declaration_lockscreen_title">Skru på daglige låseskjermer</string>
+     <string name="declaration">"Aksepter våre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Brukevilkår&lt;/a&gt; og &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Personvernvilkår&lt;/a&gt; for å starte. Internett-tilkobling kreves.​"</string>
+     <string name="declaration_lockscreen_title">Skru på daglige bakgrunnsbilder</string>
      <string name="declaration_title">Vilkår for bruk</string>
      <string name="hour_1">1 time</string>
      <string name="hour_3">3 timer</string>
@@ -21,27 +22,28 @@
      <string name="minutes_15">15 minutter</string>
      <string name="no_long_show">"Ikke vis igjen"</string>
      <string name="ok">OK</string>
+     <string name="ok_enable_network_prov">Tillat</string>
      <string name="ok_international">OK</string>
      <string name="ok_lockscreen">OK</string>
      <string name="ok_network">Samtykk og skru på</string>
      <string name="resource_apply">Bruk</string>
      <string name="resource_no_network_text">"Kunne ikke koble til nettverket."</string>
      <string name="setting_head">Innstillinger</string>
-     <string name="sst_favor_desc">View favorite wallpapers</string>
-     <string name="sst_favor_title">Favorites</string>
-     <string name="sst_grid_view_select_all">Select all</string>
-     <string name="sst_grid_view_unselect_all">Deselect all</string>
-     <string name="sst_no_favor_wallpaper_hint">No wallpapers in Favorites</string>
-     <string name="sst_prov_enable_desc">Turn on wallpapers carousel on lock screen</string>
-     <string name="sst_prov_enable_title">Turn on Wallpaper Carousel</string>
-     <string name="sst_require_one_category_hint">Select at least 1 category</string>
-     <string name="sst_sti_desc">Set wallpaper update frequency</string>
-     <string name="sst_sti_title">Update frequency</string>
-     <string name="sst_subscribe_title">My categories</string>
-     <string name="sst_wifi_only_desc">Turn this feature off to save mobile data</string>
-     <string name="sst_wifi_only_title">Update wallpapers using mobile data</string>
-     <string name="summary">"Aksepter våre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Brukervilkår&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt; to start. Internet connection required.​"</string>
-     <string name="summary_international">"Ved å bruke dette produktet, tillater du våre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Brukervilkår&lt;/a&gt; og &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Personvernspolitikk&lt;/a&gt;. Denne appen trenger å koble til Internett for å fungere normalt.​"</string>
+     <string name="sst_favor_desc">Vis favoritt-bakgrunnsbilder</string>
+     <string name="sst_favor_title">Favoritter</string>
+     <string name="sst_grid_view_select_all">Velg alle</string>
+     <string name="sst_grid_view_unselect_all">Avvelg alle</string>
+     <string name="sst_no_favor_wallpaper_hint">Ingen bakgrunnsbilder i Favoritter</string>
+     <string name="sst_prov_enable_desc">Slå på daglige bakgrunnsbilder på låseskjermen</string>
+     <string name="sst_prov_enable_title">Slå på daglige bakgrunnsbilder</string>
+     <string name="sst_require_one_category_hint">Velg minst én kategori</string>
+     <string name="sst_sti_desc">Angi oppdateringsfrekvens</string>
+     <string name="sst_sti_title">Oppdateringsfrekvens</string>
+     <string name="sst_subscribe_title">Mine kategorier</string>
+     <string name="sst_wifi_only_desc">Slå av denne funksjonen for å spare mobildata</string>
+     <string name="sst_wifi_only_title">Oppdater bakgrunnsbilder ved hjelp av mobildata</string>
+     <string name="summary">"Aksepter våre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Brukervilkår&lt;/a&gt; og &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt; for å starte. Internett-forbindelse kreves.​"</string>
+     <string name="summary_international">"Ved å bruke denne funksjonen, tillater du våre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Brukervilkår&lt;/a&gt; og &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Personvernspolitikk&lt;/a&gt;. Denne appen trenger å koble til Internett for å fungere normalt.​"</string>
      <string name="theme_apply_failured">"Kan ikke bruke bakgrunnsbilde på låseskjerm"</string>
      <string name="theme_apply_success">Låseskjerm brukt</string>
      <string name="theme_applying">Bruker…</string>
