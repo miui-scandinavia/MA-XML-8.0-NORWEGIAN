@@ -21,7 +21,6 @@
      <string name="abc_searchview_description_voice">Stemmesøk</string>
      <string name="abc_shareactionprovider_share_with">Del med</string>
      <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
-     <string name="account_cache_provider">Account Cache Provider</string>
      <string name="account_duplicate_dlg_message_fmt">Innloggingen er allerede brukt av kontoen \"%s\".</string>
      <string name="account_duplicate_dlg_title">Duplikatkonto</string>
      <string name="account_folder_list_summary_drafts">Kladder</string>
@@ -345,7 +344,6 @@
      <string name="colon">:</string>
      <string name="compose">Skriv</string>
      <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
-     <string name="compose_help_context">skriv</string>
      <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
      <string name="compose_send">Send</string>
      <string name="compose_sent">Sendt</string>
@@ -401,7 +399,6 @@
      <string name="contextmenu_sharelink">Del link</string>
      <string name="contextmenu_sms_dot">SMS</string>
      <string name="contextmenu_view_image">Vis bilde</string>
-     <string name="conversation_content_provider">Conversation Content Provider</string>
      <string name="conversation_folder_moved">Flyttet til %1$s</string>
      <string name="conversation_item_mark_read">Les</string>
      <string name="conversation_item_mark_unread">Uleste</string>
@@ -435,9 +432,6 @@
      <string name="debug_force_one_minute_refresh_label">Gjennomtving 1-minutts oppdatering for POP/IMAP</string>
      <string name="debug_title">Debug</string>
      <string name="default_">STANDARD</string>
-     <string name="default_exchange">EXCHANGE</string>
-     <string name="default_imap">IMAP</string>
-     <string name="default_pop3">POP3</string>
      <string name="default_setup">STANDARD INNSTILLINGER</string>
      <string name="default_signature">Sendt fra min Mi-telefon</string>
      <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
@@ -498,7 +492,6 @@
      <string name="drawer_title">Navigering</string>
      <string name="eas_hotmail_email">hotmail.com</string>
      <string name="eas_outlook_email">outlook.com</string>
-     <string name="eas_template">domain\\user</string>
      <string name="edit_quick_response_dialog">Rediger Hurtigsvar</string>
      <string name="elided_padding_token"> </string>
      <string name="email_confirmation_label">E-postadresse:</string>
@@ -507,7 +500,6 @@
      <string name="email_package_name">com.android.email</string>
      <string name="email_qq">QQ Mail</string>
      <string name="email_sina">Sina Mail</string>
-     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="eml_loader_error_toast">Kan ikke åpne denne filen</string>
      <string name="empty_account_tip">"Can't find account"</string>
      <string name="empty_email_tip">"Can't send blank message"</string>
@@ -591,7 +583,6 @@
      <string name="forward_attribution_no_headers">---------- Forwarded message ----------</string>
      <string name="forward_download_failed_ticker">"Kunne ikke videresende en eller flere vedlegg."</string>
      <string name="forward_download_failed_title">Vedlegg ikke videresendt</string>
-     <string name="forward_subject_label">Fwd:</string>
      <string name="from">From</string>
      <string name="from_heading">"From: "</string>
      <string name="general_preference_confirm_delete_label">Bekreft før sletting</string>
@@ -681,14 +672,6 @@
      <string name="mailbox_name_display_starred">Starred</string>
      <string name="mailbox_name_display_trash">Søppelkurv</string>
      <string name="mailbox_name_display_unread">Ulest</string>
-     <string name="mailbox_name_server_all_unread">Unread</string>
-     <string name="mailbox_name_server_drafts">Drafts</string>
-     <string name="mailbox_name_server_inbox">Inbox</string>
-     <string name="mailbox_name_server_junk">Junk</string>
-     <string name="mailbox_name_server_outbox">Outbox</string>
-     <string name="mailbox_name_server_sent">Sent</string>
-     <string name="mailbox_name_server_starred">Starred</string>
-     <string name="mailbox_name_server_trash">Trash</string>
      <string name="mailbox_settings_activity_title">Synk-innstillinger</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Synk-innstillinger (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Dager å synkronisere</string>
@@ -781,7 +764,6 @@ CC: %4$s
      <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service User Agreement&lt;/a&gt;</string>
      <string name="mibill_privacy_policy_title">Mi Wallet analyses email statements</string>
      <string name="minute_picker_description">Sirkulær glidebryter for minutter</string>
-     <string name="mock_content_provider">Mock Content Provider</string>
      <string name="more_atts_remaining">%1$d more remaining</string>
      <string name="more_atts_total">%1$d attachments</string>
      <string name="more_context">More</string>
@@ -918,7 +900,6 @@ CC: %4$s
      <string name="policy_screen_timeout">Require idle device to lock screen</string>
      <string name="policy_text_truncation">Restrict text email size</string>
      <string name="pop3_name">POP3</string>
-     <string name="prefDefault_autoAdvance">list</string>
      <string name="prefDialogTitle_autoAdvance">Gå til</string>
      <string name="prefDialogTitle_conversationListIcon">Sender image</string>
      <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
@@ -940,9 +921,6 @@ CC: %4$s
      <string name="preference_swipe_title_delete">Sveip for å stjernemerke eller slette</string>
      <string name="preferences_conversation_mode_summary">Krymp e-poster slik at de passer til skjermen</string>
      <string name="preferences_conversation_mode_title">Automatisk tilpassing</string>
-     <string name="preferences_default_reply_all_summary">Use as default for message replies</string>
-     <string name="preferences_default_reply_all_summary_impl">Bruk som standard for e-postvarsler</string>
-     <string name="preferences_default_reply_all_title">Reply all</string>
      <string name="preferences_disable_snap_headers_title">E-postalternativer</string>
      <string name="preferences_signature_dialog_title">Signature</string>
      <string name="preferences_signature_summary_not_set">Not set</string>
@@ -1061,14 +1039,9 @@ CC: %4$s
      <string name="reply_choice_thanks">Takk</string>
      <string name="reply_choice_yes">Ja</string>
      <string name="reply_on_my_way">Jeg er på vei</string>
-     <string name="reply_subject_label">Re:</string>
      <string name="replyto_heading">"Reply-to: "</string>
      <string name="report">Report</string>
      <string name="report_phishing">Report phishing</string>
-     <string name="report_rendering_improvement">Looks good</string>
-     <string name="report_rendering_improvement_desc">This message looks good.</string>
-     <string name="report_rendering_problem">Looks bad</string>
-     <string name="report_rendering_problem_desc">This message looks bad.</string>
      <string name="report_spam">Report spam</string>
      <string name="request_entity_large">File is too big</string>
      <string name="require_manual_sync_message">Synkronisering i bakgrunnen for denne kontoen er deaktivert under roaming.</string>
@@ -1140,7 +1113,6 @@ CC: %4$s
      <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
      <string name="set_end_date_dialog_title">Sluttdato (valgfritt)</string>
      <string name="set_network">Set network</string>
-     <string name="setting_default_lable" />
      <string name="settings_activity_title">Innstillinger</string>
      <string name="share_choose">Please choose</string>
      <string name="sharing">Share</string>
@@ -1267,11 +1239,9 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
      <string name="wait_for_sync_body_txt_array_5">.</string>
      <string name="wait_for_sync_note">Tap to complete setup.</string>
      <string name="wait_for_sync_title">Waiting for sync</string>
-     <string name="wait_help_context">wait</string>
      <string name="widget_all_mail">Kombinert inboks</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Trykk på ikonet for å endre.</string>
-     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">The password you entered is incorrect</string>
      <string name="xiaomi_bytes_unit">%1$sB</string>
      <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>

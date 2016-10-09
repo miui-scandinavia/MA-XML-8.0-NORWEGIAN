@@ -62,14 +62,10 @@
      <string name="current_preview">Forhåndsvisning</string>
      <string name="current_wallpaper">Gjeldende</string>
      <string name="custom_wallpaper_picker">Utforsk</string>
-     <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Spill</string>
      <string name="default_folder_title_recommend">Anbefalt</string>
      <string name="default_folder_title_security">Sikkerhet</string>
-     <string name="default_folder_title_telcel">Telcel</string>
      <string name="default_folder_title_tools">Verktøy</string>
-     <string name="default_shortcut_title_10086">10086.cn</string>
-     <string name="default_theme_name">Standard</string>
      <string name="delete">Slett</string>
      <string name="delete_screen">Slett skjerm</string>
      <string name="delete_wallpaper_message">Slett %1$d bakgrunn?</string>
@@ -271,7 +267,6 @@
      <string name="wallpaper_failed_message">"Kan ikke sette bakgrunn"</string>
      <string name="wallpaper_scaling_message">Skalér til fast størrelse</string>
      <string name="wallpaper_scroll_type_tips">Bakgrunn-skroll</string>
-     <string name="wallpaper_scrolling">Alle</string>
      <string name="wallpaper_settings">Bakgrunn</string>
      <string name="wallpaper_settings_for_pad">Bakgrunn</string>
      <string name="wallpaper_success_message">Bakgrunn brukt</string>

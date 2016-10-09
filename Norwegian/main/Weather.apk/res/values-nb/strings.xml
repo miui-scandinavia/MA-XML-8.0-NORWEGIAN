@@ -2,7 +2,6 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="account_unactivated">Enheten er uaktivert</string>
-     <string name="accuweather_default_url">http://www.accuweather.com</string>
      <string name="accuweather_tag">accu</string>
      <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
      <string name="act_find_city_hint">Skriv plassering</string>
@@ -71,7 +70,6 @@
      <string name="daily_forcast_weather_transfer">%1$s. %2$s senere.</string>
      <string name="daily_forcast_whirl_wind">Virvelvind</string>
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
-     <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
      <string name="data_source_timezone">GMT%1$s</string>
      <string name="deleting">Sletter…</string>
      <string name="description_author">Forfatter</string>
@@ -149,7 +147,6 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="resource_account_login_before_action">Vennligst logg inn til din Xiaomi-konto.</string>
      <string name="resource_account_login_title">Logg inn</string>
      <string name="resource_account_switch">Bytt konto</string>
-     <string name="resource_alarm_default">Alarm</string>
      <string name="resource_app_name">Elementleser</string>
      <string name="resource_apply">Bruk</string>
      <string name="resource_apply_trial">Prøv nå</string>
@@ -170,7 +167,6 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Legg til kommentarer</string>
      <string name="resource_comment_edit_comment_waiting">Sjekker historikk…</string>
-     <string name="resource_comment_edit_text_default">Skriv kommentar</string>
      <string name="resource_comment_edit_title">Rediger kommentar: %1$s</string>
      <string name="resource_comment_entry_tips">Anmeldelser (%1$s)</string>
      <string name="resource_comment_expand_full_text">Utvid</string>
@@ -178,7 +174,6 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="resource_comment_good_comments">Positive kommentarer</string>
      <string name="resource_comment_invalid">Trykk på stjerner for å bedømme</string>
      <string name="resource_comment_loading_list">Laster kommentarer…</string>
-     <string name="resource_comment_name_default">Bruker %1$s</string>
      <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Ingen kommentarer</string>
      <string name="resource_comment_publish">Send</string>
@@ -193,8 +188,6 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="resource_comment_upload_not_bought">Du skal ha brukt temaet først, før du kan kommentere det.</string>
      <string name="resource_comment_upload_not_logined">Vennligst logg inn først</string>
      <string name="resource_comment_upload_success">Kommentar innsendt! Den vil bli vist etter godkjennelse</string>
-     <string name="resource_default">Standard ringetone</string>
-     <string name="resource_default_name">Element</string>
      <string name="resource_delete">Delete</string>
      <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementene?</string>
@@ -258,7 +251,6 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="resource_no_match_app">Ingen apper kan håndtere denne oppgaven.</string>
      <string name="resource_no_network_text">"Kan ikke koble til nettverket."</string>
      <string name="resource_no_result">"Finner ingenting"</string>
-     <string name="resource_notification_default">Varsler</string>
      <string name="resource_on_trial">Prøver: %1$s</string>
      <string name="resource_online">Online %1$s</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, men gjeldende pris er fortsatt bedre enn å kjøpe elementene individuelt, vil du fortsette?</string>
@@ -276,7 +268,6 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="resource_ranking">Populær</string>
      <string name="resource_ranking_free">Gratis</string>
      <string name="resource_ranking_purchase">Betalt</string>
-     <string name="resource_ringtone_default">Ringetoner</string>
      <string name="resource_ringtone_playing_error">Feil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
@@ -359,7 +350,6 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="weather_unit">°</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">℃</string>
-     <string name="weatherchina_default_url">http://weather.com.cn</string>
      <string name="weatherchina_tag">weather.com.cn</string>
      <string name="wind_unit">%1$skm/h</string>
 </resources>

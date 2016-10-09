@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Lch_dtmf_key">D</string>
      <string name="accessibility_call_muted">Samtale dempet.</string>
      <string name="accessibility_speakerphone_enabled">Høytaler aktivert.</string>
      <string name="add_vm_number_str">Legg til nummer</string>
@@ -9,7 +8,6 @@
      <string name="change_default_dialer_dialog_title">Vil du endre standard ringeapp?</string>
      <string name="change_default_dialer_no_previous_app_set_text">Bruk %s som standard ringeapp?</string>
      <string name="change_default_dialer_with_previous_app_set_text">Bruk %1$s istedet for %2$s som standard ringeapp?</string>
-     <string name="default_connection_manager_component" />
      <string name="dial_conference_fail_prompt">"Kan ikke ringe konferansen direkte fordi gjeldende nettverk ikke støtter VoLTE."</string>
      <string name="dial_vt_fail_prompt">"Nåværende nettverk ikke støtter VoLTE. Bytt til vanlig taleanrop?"</string>
      <string name="duplicate_video_call_not_allowed">Anrop kan ikke legges til på dette tidspunktet.</string>

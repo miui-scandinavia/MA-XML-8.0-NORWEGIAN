@@ -306,7 +306,6 @@
      <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="date_time_set">Sett</string>
      <string name="date_year_toggle">Angi et år</string>
-     <string name="default_notification_description">Standardlyd (%1$s)</string>
      <string name="default_ringtone">Standard ringetone</string>
      <string name="deleteConfirmation">Denne kontakt vil bli slettet</string>
      <string name="deleteConfirmationDetail">Slett \"%s\"?</string>
@@ -1098,7 +1097,6 @@
      <string name="resource_account_login_before_action">Vennligst logg inn på din Xiaomi-konto</string>
      <string name="resource_account_login_title">Logg inn</string>
      <string name="resource_account_switch">Bytt konto</string>
-     <string name="resource_alarm_default">Alarm</string>
      <string name="resource_app_name">Element-utforsker</string>
      <string name="resource_apply">Bruk</string>
      <string name="resource_apply_trial">Prøv nå</string>
@@ -1119,7 +1117,6 @@
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Legg til kommentarer</string>
      <string name="resource_comment_edit_comment_waiting">Sjekker historikk…</string>
-     <string name="resource_comment_edit_text_default">Legg til en kommentar</string>
      <string name="resource_comment_edit_title">Endre kommentar: %1$s</string>
      <string name="resource_comment_entry_tips">Kommentarer (%1$s)</string>
      <string name="resource_comment_expand_full_text">Vis all text  ▼</string>
@@ -1127,7 +1124,6 @@
      <string name="resource_comment_good_comments">Positive kommentarer</string>
      <string name="resource_comment_invalid">Trykk på stjerner for å stemme</string>
      <string name="resource_comment_loading_list">Laster kommentarer…</string>
-     <string name="resource_comment_name_default">Bruker %1$s</string>
      <string name="resource_comment_no_average_score">Ingen score</string>
      <string name="resource_comment_no_comment">Ingen kommentarer</string>
      <string name="resource_comment_publish">Send</string>
@@ -1142,8 +1138,6 @@
      <string name="resource_comment_upload_not_bought">Vennligst prøv dette temaet for du skriver en anmeldelse.</string>
      <string name="resource_comment_upload_not_logined">Vennligst logg inn først</string>
      <string name="resource_comment_upload_success">Kommentar sendt! Kommentareren vil bli vist etter at den er godkjent.</string>
-     <string name="resource_default">Standard ringetone</string>
-     <string name="resource_default_name">Element</string>
      <string name="resource_delete">Delete</string>
      <string name="resource_delete_all">Er du sikker på at du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på at du vil slette disse elementer?</string>
@@ -1207,7 +1201,6 @@
      <string name="resource_no_match_app">Ingen app ble funnet til å utføre denne handlingen.</string>
      <string name="resource_no_network_text">"Kan ikke koble til nettverket."</string>
      <string name="resource_no_result">Fant ingenting</string>
-     <string name="resource_notification_default">Notifikasjoner</string>
      <string name="resource_on_trial">Prøver: %1$s</string>
      <string name="resource_online">Online %1$s</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, gjeldende kjøpspris er bedre enn å kjøpe de venstre elementene enkeltvis, ønsker du å fortsette?</string>
@@ -1225,7 +1218,6 @@
      <string name="resource_ranking">Populær</string>
      <string name="resource_ranking_free">Gratis</string>
      <string name="resource_ranking_purchase">Betalt</string>
-     <string name="resource_ringtone_default">Ringetoner</string>
      <string name="resource_ringtone_playing_error">Feil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>

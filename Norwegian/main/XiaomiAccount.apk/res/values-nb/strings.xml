@@ -604,7 +604,6 @@ Pass på at du husker svarene på disse spørsmålene."</string>
      <string name="vcode_prompt_long">Skriv inn verifikasjonskode</string>
      <string name="verification_failed">Autentifisering feilet</string>
      <string name="verify">Bekreft</string>
-     <string name="vip_level_value">%d</string>
      <string name="wipe_data_dialog_msg">%s vil bli slettet om du fortsetter.</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">"Noen elementer er ikke synkronisert"</string>

@@ -414,9 +414,6 @@
      <string name="str_hour_of_next">下一次%s</string>
      <string name="subscribe">订阅</string>
      <string name="subscribe_all">Abonner</string>
-     <string name="subscribe_card_more_default_text">更多</string>
-     <string name="subscribe_card_recommend_default_text">推荐订阅</string>
-     <string name="subscribe_description_card_default_title">订阅简介</string>
      <string name="subscribe_description_card_more_cut">收起</string>
      <string name="subscribe_description_card_more_launch">展开</string>
      <string name="subscribe_detail_title">订阅详情</string>
@@ -501,7 +498,6 @@
      <string name="widget_events">Kommende hendelser</string>
      <string name="widget_no_events">Ingen hendelser</string>
      <string name="widget_select_style">Velg en stil</string>
-     <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
      <string name="work_day_indication">: (</string>
      <string name="wuxing">五行</string>
      <string name="xiaomi_calendar_display_name">Mi-konto kalender</string>

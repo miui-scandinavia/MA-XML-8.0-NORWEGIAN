@@ -207,7 +207,6 @@
      <string name="copy_to_sdcard_success">Vedlegg kopiert som %s</string>
      <string name="custom_list_filter">Definer tilpasset visning</string>
      <string name="database_corruption">Database ødelagt, gjenoppretter database</string>
-     <string name="default_notification_description">Standardlyd (%1$s)</string>
      <string name="delete">Slett</string>
      <string name="delete_bookmark">Slett bokmerke</string>
      <string name="delete_message">Slett melding</string>
@@ -634,9 +633,6 @@
      <string name="postal_region">Fylke/delstat</string>
      <string name="postal_street">Gate</string>
      <string name="prefDefault_ringtone_repeat">1</string>
-     <string name="prefDefault_vibrateWhen">never</string>
-     <string name="prefDefault_vibrate_false">never</string>
-     <string name="prefDefault_vibrate_true">always</string>
      <string name="pref_advanced_settings_title">Avanserte innstillinger</string>
      <string name="pref_allow_network_access_summary">Skru på for å få seneste informasjon om levering og andre tjenester.</string>
      <string name="pref_cell_broadcast">Cell Broadcasts</string>
@@ -744,7 +740,6 @@
      <string name="recipients_over_size">For mange mottakere.</string>
      <string name="recording_failed">"Kan ikke ta opp"</string>
      <string name="red_package_btn">Åpne</string>
-     <string name="red_package_default_hint">恭喜发财，万事如意!</string>
      <string name="refill_now">Fyll på nå</string>
      <string name="refresh">Oppdater</string>
      <string name="refresh_failed">Feil ved oppdatering</string>
@@ -766,7 +761,6 @@
      <string name="resource_price_free">Gratis</string>
      <string name="restore_all_button_msg">Gjenopprett alle meldinger fra dette nummeret</string>
      <string name="restore_blocked_message">Gjenopprett</string>
-     <string name="restore_default">Gjennopprett standardinnstillinger</string>
      <string name="restore_to_phone_memory_failed">Kunne ikke gjenopprette til telefonminne!</string>
      <string name="restored_to_phone_memory">"Gjenopprettet til telefonminne"</string>
      <string name="retrive_hms_tips">Henter...</string>
@@ -829,7 +823,6 @@
      <string name="send_to">Send til: </string>
      <string name="send_to_count">%1$s meldinger sendt</string>
      <string name="send_to_index_contact">Sender %1$s av %2$s...</string>
-     <string name="sending_disabled_not_default_app">Sending er deaktivert</string>
      <string name="sending_message">SENDER …</string>
      <string name="sent_label">"Sendt: "</string>
      <string name="service_message_not_found">Melding utløpt eller ikke tilgjengelig.</string>
@@ -997,7 +990,6 @@ Forsøk: %s."</string>
      <string name="vcard_import_failed">Kunne ikke importere vCard.</string>
      <string name="vcard_import_request_rejected_message">Forespørselen om vCard-importering ble avvist. Prøv på nytt senere.</string>
      <string name="vcard_import_will_start_message">%s blir snart importert.</string>
-     <string name="vcard_import_will_start_message_with_default_name">Filen importeres snart.</string>
      <string name="vcard_unknown_filename">kontakt</string>
      <string name="view">Vis</string>
      <string name="view_bookmark">Vis original melding</string>

@@ -918,17 +918,13 @@ eller skriv inn passord"</string>
      <string name="power_cell">Mobilradio</string>
      <string name="power_center_auto_shutdown">Planlegg av-/påslåing</string>
      <string name="power_center_auto_shutdown_summary">Slå telefonen på eller av på et planlagt tidspunkt</string>
-     <string name="power_center_auto_shutdown_summary_default">Slå telefonen på eller av på et planlagt tidspunkt</string>
      <string name="power_center_battery_full">Batteriet er fulladet</string>
      <string name="power_center_charge_time">%1$stil ferdig</string>
      <string name="power_center_consume_rank">Batteribruk</string>
      <string name="power_center_consume_time">%1$sgjennstår</string>
-     <string name="power_center_custom_summary_default">Forbedre batteritiden med tilpassede profiler</string>
      <string name="power_center_custom_title">Batteriprofiler</string>
-     <string name="power_center_low_battery_summary_default">Bytt profil når batteriet er lavt</string>
      <string name="power_center_low_battery_summary_dynamic">"Ved %1$d%% bytt til %2$s"</string>
      <string name="power_center_low_battery_title">Batterisparer</string>
-     <string name="power_center_on_time_summary_default">Bytt batteriprofil på planlagt tidspunkt</string>
      <string name="power_center_on_time_summary_dynamic">"%1$s - %2$s bytt til %3$s""</string>
      <string name="power_center_on_time_title">Planlegg profilbytte</string>
      <string name="power_center_ontime_boot">Slå på-tid</string>
@@ -980,7 +976,6 @@ eller skriv inn passord"</string>
      <string name="power_dialog_cpu_state_save">Batterisparing</string>
      <string name="power_dialog_cpu_state_save_desc">Foretrekk batteritid fremfor CPU-ytelse</string>
      <string name="power_dialog_cpu_state_title">CPU-bruk</string>
-     <string name="power_dialog_delete_dialog_cannot_delete_default">"Du bruker for øyeblikket denne profilen."</string>
      <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Enheten er stilt inn til å bytte til denne profilen når batteriet er lavt. Du må endre batteriinnstillingene før du kan slette denne profilen.</string>
      <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Enheten er stilt inn til å bytte til denne profilen når batteriet er lavt. Du må endre batteriinnstillingene før du kan slette denne profilen.</string>
      <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Enheten er stilt inn til å bytte til denne profilen når batteriet lades, du må endre batteriinnstillingene før du kan slette denne profilen.</string>
@@ -1076,7 +1071,6 @@ eller skriv inn passord"</string>
      <string name="power_save_mode_summary" formatted="false">Overvåk bakgrunnsprosesser, slå av synkronisering og skjul systemanimasjoner. Batterispareren vil slå seg av automatisk når batteriet er 60% eller 100% ladet.</string>
      <string name="power_save_on_time_auto_save_title">Planlegg profilbytte</string>
      <string name="power_save_on_time_default_time">00:00</string>
-     <string name="power_save_on_time_default_time_na">00:00</string>
      <string name="power_save_on_time_end_time_summary">Slutt</string>
      <string name="power_save_on_time_end_time_summary_na">To</string>
      <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1455,9 +1449,6 @@ eller skriv inn passord"</string>
      <string name="tc_diagnostic_brand_error_notification_title">Feil nettverkstype</string>
      <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultat: Feil operatørmerkevare&lt;br/&gt;&lt;br/&gt;Sett merkevare: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Riktig merkevare: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
      <string name="tc_diagnostic_complete">Ferdig</string>
-     <string name="tc_diagnostic_fragment_default">"Om diagnostikk
-1.Enheten vil koble til operatørens nettverk, sende en gratis melding, og vente på operatørens respons. Dette kan ta opp til 5 minutter.
-2. Du kan forlate denne siden mens diagnostikken pågår, den vil bli gjennomført i bakgrunnen."</string>
      <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
      <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
      <string name="tc_diagnostic_notification_sumarry">Trykk for å justere plasseringen</string>
@@ -1666,8 +1657,6 @@ Rullet over ekstra data"</string>
      <string name="traffic_saving_history_total_money_unit">¥</string>
      <string name="traffic_saving_history_total_month">"Spart denne måneden: "</string>
      <string name="traffic_saving_history_total_month_default">"Gjennomsnittlig spart denne måneden:"</string>
-     <string name="traffic_saving_history_total_month_value">"Hør på &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
-     <string name="traffic_saving_history_total_month_value_default">"Hør på &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
      <string name="traffic_saving_history_total_rate">Sats</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Data spart</string>

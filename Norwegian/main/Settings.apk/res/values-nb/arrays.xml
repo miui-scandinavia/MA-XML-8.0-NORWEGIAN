@@ -44,20 +44,10 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
      </string-array>
-     <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
-     </string-array>
      <string-array name="app_install_location_entries">
         <item>Intern lagringsenhet</item>
         <item>Flyttbart minnekort</item>
         <item>La systemet bestemme</item>
-     </string-array>
-     <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
      </string-array>
      <string-array name="app_ops_categories">
         <item>Posisjon</item>
@@ -300,11 +290,6 @@
         <item>4.0-tommer</item>
         <item>3.5-tommer</item>
      </string-array>
-     <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-     </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Kraftig</item>
         <item>Medium</item>
@@ -319,11 +304,6 @@
         <item>Kontrollér aldri</item>
         <item>Se kun etter DRM-innhold</item>
         <item>Kontrollér alltid</item>
-     </string-array>
-     <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
      </string-array>
      <string-array name="install_non_market_app_contents">
         <item>Skru på</item>
@@ -522,25 +502,11 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Lukk gjeldende app</item>
         <item>Vis meny</item>
      </string-array>
-     <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-        <item>show_menu</item>
-     </string-array>
      <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekund</item>
         <item>1 sekund</item>
         <item>1.5 sekunder</item>
         <item>2 sekunder</item>
-     </string-array>
-     <string-array name="screen_key_long_press_timeout_value">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-        <item>2000</item>
      </string-array>
      <string-array name="screen_key_position_action">
         <item>Oversikt-knappen til venstre, Tilbake-knappen til høyre</item>
@@ -611,11 +577,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>ART</item>
         <item>ART (feilsøking)</item>
      </string-array>
-     <string-array name="select_runtime_values">
-        <item>libdvm.so</item>
-        <item>libart.so</item>
-        <item>libartd.so</item>
-     </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Av</item>
         <item>Merk område for ikke-rektangulær klipping blått</item>
@@ -654,12 +615,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Viser på skjermen som stolper</item>
         <item>På skjermen som linjer</item>
         <item>I adb shell dumpsys gfxinfo</item>
-     </string-array>
-     <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>visual_lines</item>
-        <item>true</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Animasjon deaktivert</item>
@@ -702,13 +657,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Normal</item>
         <item>Rask</item>
         <item>Raskere</item>
-     </string-array>
-     <string-array name="tts_rate_xunfei_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
      </string-array>
      <string-array name="usage_stats_display_order_types">
         <item>Brukstid</item>
@@ -798,11 +746,6 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>Automatisk</item>
         <item>Kun 5 GHz</item>
         <item>Kun 2,4 GHz</item>
-     </string-array>
-     <string-array name="wifi_frequency_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="wifi_ip_settings">
         <item>DHCP</item>

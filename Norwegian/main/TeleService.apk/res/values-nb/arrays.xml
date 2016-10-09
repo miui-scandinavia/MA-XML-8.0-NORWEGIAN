@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="call_barring_incoming_display_values">
-        <item>Av</item>
-        <item>Roamer</item>
-        <item>Alle</item>
-     </string-array>
-     <string-array name="call_barring_outgoing_display_values">
-        <item>Av</item>
-        <item>Anropssperring for roaming</item>
-        <item>Internasjonal anropssperring</item>
-        <item>Utgående anropssperring</item>
-     </string-array>
      <string-array name="cdma_system_select_choices">
         <item>Kun hjemmenett</item>
         <item>Automatisk</item>
-     </string-array>
-     <string-array name="clir_display_values">
-        <item>Nettverksstandard</item>
-        <item>Skjul nummer</item>
-        <item>Vis nummer</item>
      </string-array>
      <string-array name="dtmf_tone_entries">
         <item>Vanlig</item>

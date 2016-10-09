@@ -288,7 +288,6 @@
      <string name="more_coupons">Alle kuponger</string>
      <string name="navigation_search_all_cities">Alle byer</string>
      <string name="navigation_search_automatically_positioned_city">Gjeldende by</string>
-     <string name="navigation_search_default_hint">Søk i plasseringer</string>
      <string name="navigation_search_hot_cities">Populære</string>
      <string name="navigation_search_no_city_list">Ingen bydata funnet!</string>
      <string name="navigation_search_positioning">Finner...</string>
@@ -346,7 +345,6 @@
      <string name="quick_yellow_page_tab_phones">Telefon</string>
      <string name="recharge_actual_price">"Pris: "</string>
      <string name="recharge_charge_range">Pris: ¥%1$s-%2$s</string>
-     <string name="recharge_charge_value">Pris: ¥%s</string>
      <string name="recharge_follow_name">Fyll opp</string>
      <string name="recharge_history">Oppfyllingshistorikk</string>
      <string name="recharge_history_empty">Ingen oppfyllingshistorikk</string>
@@ -387,7 +385,6 @@
      <string name="resource_account_login_before_action">Logg inn på din Mi-konto nå</string>
      <string name="resource_account_login_title">Logg inn</string>
      <string name="resource_account_switch">Bytt</string>
-     <string name="resource_alarm_default">Alarm</string>
      <string name="resource_app_name">Ressursnettleser</string>
      <string name="resource_apply">Bruk</string>
      <string name="resource_apply_trial">Prøv nå</string>
@@ -408,7 +405,6 @@
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Legg til kommentarer</string>
      <string name="resource_comment_edit_comment_waiting">Sjekker om brukt før</string>
-     <string name="resource_comment_edit_text_default">Skriv kommentar</string>
      <string name="resource_comment_edit_title">Rediger kommentar: %1$s</string>
      <string name="resource_comment_entry_tips">Vis anmeldelser</string>
      <string name="resource_comment_expand_full_text">Utvid</string>
@@ -416,7 +412,6 @@
      <string name="resource_comment_good_comments">Positive kommentarer</string>
      <string name="resource_comment_invalid">Trykk på stjerner for å bedømme</string>
      <string name="resource_comment_loading_list">Laster kommentarer…</string>
-     <string name="resource_comment_name_default">Bruker %1$s</string>
      <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Ingen kommentarer</string>
      <string name="resource_comment_publish">Send</string>
@@ -431,8 +426,6 @@
      <string name="resource_comment_upload_not_bought">Du skal ha brukt temaet først, før du kan kommentere det.</string>
      <string name="resource_comment_upload_not_logined">Vennligst logg inn først</string>
      <string name="resource_comment_upload_success">Kommentar innsendt! Den vil bli vist etter godkjennelse</string>
-     <string name="resource_default">Standard ringetone</string>
-     <string name="resource_default_name">Element</string>
      <string name="resource_delete">Slett</string>
      <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementene?</string>
@@ -486,7 +479,6 @@
      <string name="resource_mute">Ingen</string>
      <string name="resource_my">Lokal</string>
      <string name="resource_no_result">Ingen resultater</string>
-     <string name="resource_notification_default">Varsler</string>
      <string name="resource_on_trial">Prøver: %1$s</string>
      <string name="resource_online">Online %1$s</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, men gjeldende pris er fortsatt bedre enn å kjøpe elementene individuelt, vil du fortsette?</string>
@@ -503,7 +495,6 @@
      <string name="resource_ranking">Populær</string>
      <string name="resource_ranking_free">Gratis</string>
      <string name="resource_ranking_purchase">Betalt</string>
-     <string name="resource_ringtone_default">Ringetoner</string>
      <string name="resource_ringtone_playing_error">avspillingsfeil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>

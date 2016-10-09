@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cabl_level_values">
-        <item>Lav</item>
-        <item>Medium</item>
-        <item>Høy</item>
-        <item>Auto</item>
-    </string-array>
 </resources>
