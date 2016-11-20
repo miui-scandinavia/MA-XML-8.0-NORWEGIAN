@@ -44,6 +44,7 @@ Klikk Legg til for å opprette mappe"</string>
      <string name="error_unsupport_content">Notatet har innhold som ikke er støttet, trykk her for å oppdatere</string>
      <string name="error_widget_exist_for_send_to_desktop">Notatet eksisterer allerede på skrivebordet</string>
      <string name="folder_exist">En mappe med det samme navnet eksisterer allerede</string>
+     <string name="force_touch_menu_add">Legg til notat</string>
      <string name="format_move_notes_out_folder">Flyttet %1$s ut</string>
      <string name="format_move_notes_to_folder">Flyttet %1$s til %2$s</string>
      <string name="hint_foler_name">Skriv inn navn</string>
@@ -57,9 +58,11 @@ Klikk Legg til for å opprette mappe"</string>
      <string name="menu_move">Flytt til mappe</string>
      <string name="menu_move_parent_folder">Overstående mappe</string>
      <string name="menu_move_to">Send til</string>
+     <string name="menu_send_as_image">Send som bilde</string>
+     <string name="menu_send_as_text">Send som tekst</string>
      <string name="menu_send_to_desktop">Send til skrivebord</string>
-     <string name="menu_send_wechat">Send to WeChat</string>
-     <string name="menu_send_weibo">Send to Weibo</string>
+     <string name="menu_send_wechat">Send til WeChat</string>
+     <string name="menu_send_weibo">Send til Weibo</string>
      <string name="menu_source">Fra %1$s</string>
      <string name="menu_stick">Prioriter</string>
      <string name="menu_title_select_folder">Velg mappe</string>
@@ -88,6 +91,7 @@ Klikk Legg til for å opprette mappe"</string>
      <string name="pref_title_recover_help">Gjenopprett notater</string>
      <string name="privacy_hint">Privat</string>
      <string name="privacy_notes_fragment_title">Private notater</string>
+     <string name="recover_notes_hint">En feil oppsto, gå til i.mi.com for å gjenopprette notater.</string>
      <string name="redo">Gjør om igjen</string>
      <string name="rename_folder_dialog_tile">Bytt navn</string>
      <string name="search">Notater</string>
@@ -110,6 +114,7 @@ Klikk Legg til for å opprette mappe"</string>
      <string name="sns_choose_quality_low">Lav</string>
      <string name="sns_choose_quality_title">Velg bildekvalitet</string>
      <string name="sns_content_default">Del bilde</string>
+     <string name="sns_desc_image_preview">Forhåndsvisning av melding</string>
      <string name="sns_desc_preview_wechat">WeChat meldingsforhåndsvisning</string>
      <string name="sns_desc_preview_weibo">Weibo meldingsforhåndvisning</string>
      <string name="sns_footer_text">Opprettet med MIUI</string>

@@ -234,6 +234,7 @@ eller skriv inn passord"</string>
      <string name="button_text_clear">Fjern</string>
      <string name="button_text_create_shortcut">Opprett snarvei på hjemskjerm</string>
      <string name="button_text_delete_from_white_list">Fjern</string>
+     <string name="button_text_deny">Nekt</string>
      <string name="button_text_disconnect_now">Koble fra</string>
      <string name="button_text_fix">Fiks</string>
      <string name="button_text_fix_now">Fiks</string>
@@ -270,6 +271,10 @@ eller skriv inn passord"</string>
      <string name="cancel">Avbryt</string>
      <string name="cancel_button">Avbryt</string>
      <string name="celcius_symbol">℃</string>
+     <string name="charging_text_battery_full_time">Siste lading</string>
+     <string name="charging_text_battery_nearly_full">Nesten ladet</string>
+     <string name="charging_text_battery_perfect">Fulladet</string>
+     <string name="charging_text_time_calculating">Beregender ladetid…</string>
      <string name="chat_number">10 timer</string>
      <string name="chat_uint">" timer"</string>
      <string name="check_network_state">Sjekk nettverksstatus</string>
@@ -291,7 +296,9 @@ eller skriv inn passord"</string>
      <string name="connect_internet_by_usbshare">Koble til internett ved hjelp av USB</string>
      <string name="connect_internet_by_wifi">Koble til internett ved hjelp av WLAN</string>
      <string name="continue_install">Installér</string>
-     <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
+     <string name="convenient_mode">Lås opp alle apper samtidig</string>
+     <string name="convenient_summary">"Krev ikke passord etter at én app har blitt låst opp"</string>
+     <string name="correction_attention_dialog_message">Justerer innstillinger nå. Vent til prosessen er ferdig før du prøver igjen.</string>
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Avbryt</string>
      <string name="cta_checkbox_title">"Ikke vis igjen"</string>
@@ -461,8 +468,8 @@ eller skriv inn passord"</string>
      <string name="force_stop_dlg_text">"Hvis du begrenser bakgrunnsdata, vil noen apper og tjenester slutte å fungere med mindre du er tilkoblet et WiFi-nettverk."</string>
      <string name="force_stop_dlg_title">Begrens bakgrunnsdata</string>
      <string name="foreground_traffic">Forgrunn %s</string>
-     <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
-     <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
+     <string name="forget_password_button_text">&lt;u&gt;Glemt passord?&lt;/u&gt;</string>
+     <string name="forget_pattern">&lt;u&gt;Glemt mønster?&lt;/u&gt;</string>
      <string name="free_time_traffic">Minimum datagrense</string>
      <string name="free_time_traffic_hint">Skriv minimum datagrense</string>
      <string name="free_time_traffic_settings">Innstillinger for maksimum datagrense</string>
@@ -803,6 +810,7 @@ eller skriv inn passord"</string>
      <string name="notification_battery_over_heat_summary">Finn hva som forårsaker oppvarming, og kjøle ned enheten.</string>
      <string name="notification_battery_over_heat_title">Gjeldende temperatur er %d℃</string>
      <string name="notification_button_text_of_low_memory">Rydd opp</string>
+     <string name="notification_charging_title">Lader</string>
      <string name="notification_content_title">Brukte %1$s når låst</string>
      <string name="notification_exit_power_save_mode">Slått av batterisparer</string>
      <string name="notification_exit_power_save_mode_subtitle">Batteri %s ladet.</string>
@@ -905,6 +913,7 @@ eller skriv inn passord"</string>
      <string name="pm_auto_start_by_system_event">Allow apps to start automatically</string>
      <string name="pm_auto_start_proc_is_running">Kjører</string>
      <string name="pm_remember_choice">Husk mitt valg</string>
+     <string name="pm_root_success_notification_infomation">Sørg for at du er klar over risikoen ved å ha rot-tilgang</string>
      <string name="pm_root_success_notification_title">Rottilgang aktivert</string>
      <string name="positive_confirm">OK</string>
      <string name="power_20s_enter_mode">Bytter til %2$s om %1$ds</string>
@@ -1214,8 +1223,6 @@ eller skriv inn passord"</string>
      <string name="pref_version">Versjon %s</string>
      <string name="pref_warning_values">Grense for databruk</string>
      <string name="pref_whitelist_setting">Data roaming-unntak</string>
-     <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
-     <string name="preference_key_shortcut_safepay">key_shortcut_safepay</string>
      <string name="preferred_app_entries_browser">Nettleser</string>
      <string name="preferred_app_entries_camera">Kamera</string>
      <string name="preferred_app_entries_dial">Ring</string>
@@ -1358,6 +1365,7 @@ eller skriv inn passord"</string>
      <string name="settings_category_overheat">Oppvarming</string>
      <string name="settings_choice_no_notification">Av</string>
      <string name="settings_power_save_ontime_title">Timeplan</string>
+     <string name="settings_title_payment_security">Innstillinger for betalingssikkerhet</string>
      <string name="settings_title_permission">Innstillinger for tillatelser</string>
      <string name="show_traffic_dialog_message">Informasjon om ditt databruk vil bli vist i varslingskyggen. Du kan denne funksjonen av og på når som helst i Databruk > Innstillinger</string>
      <string name="show_traffic_dialog_title">Vis bruk i varslingsskyggen</string>
@@ -1735,7 +1743,7 @@ Rullet over ekstra data"</string>
      <string name="traffic_warning_purchase_title">Varsel om mobildataforbruk</string>
      <string name="unable_connect_internet">"Kan ikke koble til nettverket"</string>
      <string name="uninstall_confirm_title">Avinstaller denne appen</string>
-     <string name="updating_diagnostic_botton">Analyzing data…</string>
+     <string name="updating_diagnostic_botton">Analyserer data…</string>
      <string name="usage_sorted_activity_lable">Databruk</string>
      <string name="usage_sorted_empty_text">Tom</string>
      <string name="usage_sorted_loading_text">Laster…</string>
@@ -1759,7 +1767,8 @@ Rullet over ekstra data"</string>
      <string name="usbsharenet_pc_exception_summary">"Kan ikke koble til Internett ved hjelp av delt USB-tilkobing. Sjekk datamaskinens internett-tilkobling."</string>
      <string name="virus_list_header_title">%d virus oppdaget</string>
      <string name="voltage_symbol">V</string>
-     <string name="warning_open_mi_sim">Turn on Mi SIM</string>
+     <string name="wakepath_confirm_start_activity">Tillat at %1$s åpner %2$s?</string>
+     <string name="warning_open_mi_sim">Skru på Mi SIM</string>
      <string name="white_list_ad_header">Reklame-filer: %d</string>
      <string name="white_list_apk_header">Installasjonspakker: %d</string>
      <string name="white_list_cache_header">Mellomlagrede filer: %d</string>

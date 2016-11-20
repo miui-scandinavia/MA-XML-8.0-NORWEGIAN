@@ -13,7 +13,9 @@
      <string name="activing_simcard_alone">Verifiserer SIM</string>
      <string name="add">Legg til</string>
      <string name="addSimEntries">Legg til SIM-kontakt</string>
+     <string name="add_by_input">Legg til fra tekst</string>
      <string name="add_fdn_contact">Legg til programmert telefonnummer</string>
+     <string name="add_from_contacts">Legg til fra kontakter</string>
      <string name="add_sip_account">Legg til konto</string>
      <string name="add_vm_number_str">Legg til nummer</string>
      <string name="adding_fdn_contact">Legger til programmert telefonnummer ...</string>
@@ -106,11 +108,11 @@
      <string name="bad_puk2">"Den inntastede PUK2-koden er ugyldig. Prøv igjen."</string>
      <string name="bf_news_settings">Bedrifts- og finansnyheter</string>
      <string name="callFailed_cb_enabled">Du kan ikke foreta utgående anrop når samtalesperre er på.</string>
-    <string name="callFailed_cdma_activation">Et SIM-kort har aktivert tjenesten din og oppdatert roamingfunksjonene for telefonen din.</string>
+     <string name="callFailed_cdma_activation">Et SIM-kort har aktivert tjenesten din og oppdatert roamingfunksjonene for telefonen din.</string>
      <string name="callFailed_congestion">Nettverket er opptatt</string>
-    <string name="callFailed_dialToDial">DIAL-forespørselen er endret til DIAL med annet nummer.</string>
-    <string name="callFailed_dialToSs">DIAL-forespørselen er endret til en SS-forespørsel.</string>
-    <string name="callFailed_dialToUssd">DIAL-forespørselen er endret til en USSD-forespørsel.</string>
+     <string name="callFailed_dialToDial">DIAL-forespørselen er endret til DIAL med annet nummer.</string>
+     <string name="callFailed_dialToSs">DIAL-forespørselen er endret til en SS-forespørsel.</string>
+     <string name="callFailed_dialToUssd">DIAL-forespørselen er endret til en USSD-forespørsel.</string>
      <string name="callFailed_dsac_restricted">Alle anrop begrenses av tilgangskontroll.</string>
      <string name="callFailed_dsac_restricted_emergency">Nødanrop er begrenset av tilgangskontroll.</string>
      <string name="callFailed_dsac_restricted_normal">Normale anrop er begrenset av tilgangskontroll.</string>
@@ -130,7 +132,7 @@
      <string name="callFailed_timedOut">Ingen respons – tidsavbrudd</string>
      <string name="callFailed_unobtainable_number">Ugyldig tall</string>
      <string name="callFailed_userBusy">Linjen er opptatt</string>
-     <string name="callUnanswered_forwarded">Call ubesvart og videresendt</string>
+     <string name="callUnanswered_forwarded">Anrop ubesvart og videresendt</string>
      <string name="call_advanced_setting_title">Avanserte innstillinger</string>
      <string name="call_barring">Anropssperring</string>
      <string name="call_barring_incoming">Sperring av innkommende anrop</string>
@@ -139,7 +141,7 @@
      <string name="call_description_recording">Tar opp…</string>
      <string name="call_forwarding_number_hint">Tast inn nummer å viderekoble til</string>
      <string name="call_forwarding_settings">Innstillinger for viderekobling</string>
-    <string name="call_forwarding_settings_with_label">Innstillinger for viderekobling (%s)</string>
+     <string name="call_forwarding_settings_with_label">Innstillinger for viderekobling (%s)</string>
      <string name="call_ind_services">Ring uavhengige tjenester</string>
      <string name="call_log">Anropslogg</string>
      <string name="call_record_add_numbers">Legg til numre</string>
@@ -274,8 +276,8 @@
      <string name="cloud_antispam_title">Identifiser ukjente numre</string>
      <string name="cmcc_ut_data_enable_prompt">"Kunne ikke koble til VoLTE-nettverk. Skru på mobildataforbindelse nå."</string>
      <string name="command_error_fdn_failure">Du må skru av FDN først</string>
-     <string name="common_problem_message">Learn more in %1$s, or call our customer service at 400-100-5678</string>
-     <string name="common_setting">General settings</string>
+     <string name="common_problem_message">Lær mer i %1$s, eller ring vår kundeservice på 400-100-5678</string>
+     <string name="common_setting">Generelle innstillinger</string>
      <string name="config_default_data_sim">Innstillinger</string>
      <string name="confirmPin2Label">Bekreft ny PIN2-kode</string>
      <string name="confirmPinLabel">Bekreft ny PIN-kode</string>
@@ -618,6 +620,7 @@
      <string name="lable_disable">Av</string>
      <string name="lable_enable">På</string>
      <string name="lable_incoming_calls_except">Innkommende anrop under roaming</string>
+     <string name="lable_network_not_supported">"Nettverket støtter ikke"</string>
      <string name="lafs_disable">Lokale flytider er av</string>
      <string name="lafs_enable">Lokale flytider er på</string>
      <string name="left_minutes">" min"</string>
@@ -727,6 +730,8 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="message_decode_error">Det oppstod en feil under dekoding av meldingen.</string>
      <string name="mhh_disable">Helse og sykehus er av</string>
      <string name="mhh_enable">Helse og sykehus er på</string>
+     <string name="mi_sim_settings_summary">Bruk mobildata uten SIM-kort</string>
+     <string name="mi_sim_settings_title">Mi SIM</string>
      <string name="mismatchPin">De personlige kodene du skrev inn, stemmer ikke overens. Prøv på nytt.</string>
      <string name="mismatchPin2">PIN2-kodene du skrev inn, stemmer ikke overens. Prøv på nytt.</string>
      <string name="mismatch_password">Passordene du skrev stemmer ikke overens</string>
@@ -834,6 +839,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="no_internet_available">Kontroller Internett-tilkoblingen før du foretar et Internett-anrop.</string>
      <string name="no_internet_available_title">Ingen Internett-tilkobling</string>
      <string name="no_more">Ikke flere</string>
+     <string name="no_number">Ingen telefonnummer</string>
      <string name="no_product_list">Tom</string>
      <string name="no_sim_card">Sett inn SIM-kort</string>
      <string name="no_sip_account_found">Det er ingen konto for Internett-anrop på denne telefonen. Vil du legge til en nå?</string>
@@ -984,6 +990,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="path_telocation_enable_title">Systemapper/Telefon/Plassering/Vis plassering</string>
      <string name="path_turnover_mute_title">Systemapper/Telefon/Innstillinger for innkommende anrop/Vend for å stilne</string>
      <string name="path_voicemail_settings">Systemapper/Telefon/Avanserte innstillinger/Konfigurering</string>
+     <string name="path_voip_setting">Systemapper/Telefon/Innstillinger for VoIP</string>
      <string name="pause_prompt_no">Nei</string>
      <string name="pause_prompt_str">"Sendetoner"</string>
      <string name="pause_prompt_yes">Ja</string>
@@ -1035,6 +1042,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="please_choose_the_refueling_package">Velg oppfyllingspakke</string>
      <string name="please_connect_network_message">Vennligst koble til nettverket</string>
      <string name="please_connect_network_title">Ingen nettverk</string>
+     <string name="please_enter_phone_number">Vennligst skriv telefonnummer</string>
      <string name="please_login_mi_accout">Logg inn</string>
      <string name="pocket_mode_summary">Telefonen vil låses automatisk når plassert i lomme</string>
      <string name="pocket_mode_title">Forhindre lommeringing</string>
@@ -1042,8 +1050,10 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="port_title">Portnummer</string>
      <string name="preference_auto_ip_summary_disable">Deaktivert</string>
      <string name="preference_category_ringtone">Ringetone og vibrering</string>
+     <string name="preference_data_usage_summary">Still inn dataabonnement for å kontrollere bruken av mobildata</string>
+     <string name="preference_data_usage_title">Set data plan</string>
      <string name="preference_dial_pad_touch_tone_default">Standard</string>
-     <string name="preference_dial_pad_touch_tone_off">Off</string>
+     <string name="preference_dial_pad_touch_tone_off">Av</string>
      <string name="preference_dial_pad_touch_tone_piano">Pianotangenter</string>
      <string name="preference_dial_pad_touch_tone_title">Tastetoner</string>
      <string name="preference_telocation_summary_countrycode_off">Legg ikke til landekode automatisk</string>
@@ -1121,6 +1131,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="preferred_network_type_pref_entries_only_3g">Bare 3G</string>
      <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title">Foretrukket nettverkstype</string>
+     <string name="preferred_networks" />
      <string name="primary_account_summary_with">Primærkonto. %s</string>
      <string name="private_num">Hemmelig nummer</string>
      <string name="proceed">Forsett</string>
@@ -1236,7 +1247,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="rhrpd_unlock_success">RUIM Hrpd opplåsing vellykket.</string>
      <string name="ringtone_silent">Ingen</string>
      <string name="ringtone_title">Telefonringetone</string>
-     <string name="ringtone_unknown">Unknown ringtone</string>
+     <string name="ringtone_unknown">Ukjent ringetone</string>
      <string name="rnw1_unlock_failed">UIM Network1 opplåsing forespørsel mislyktes.</string>
      <string name="rnw1_unlock_success">UIM Network1 opplåsning vellykket.</string>
      <string name="rnw2_unlock_failed">UIM Network2 opplåsing forespørsel mislyktes.</string>
@@ -1245,8 +1256,8 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="roaming_alert_title">Tillat dataroaming?</string>
      <string name="roaming_disable">Koble til datatjenester ved roaming</string>
      <string name="roaming_enable">Koble til datatjenester ved roaming</string>
-     <string name="roaming_notification_content">You can add country codes automatically to make dialing more convenient.</string>
-     <string name="roaming_notification_title">Looks like roaming is activated</string>
+     <string name="roaming_notification_content">Du kan legge til landkoder automatisk før å gjøre ringing mer praktisk.</string>
+     <string name="roaming_notification_title">Ser ut som roaming er aktivert</string>
      <string name="roaming_reenable_message">Du har mistet datatilkoblingen fordi du forlot hjemmenettet med roaming avslått.</string>
      <string name="roaming_warning">Tillat dataroaming? Dette kan koste mye penger!</string>
      <string name="rsp_unlock_failed">UIM Leverandør opplåsing forespørsel mislyktes.</string>
@@ -1291,6 +1302,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="simContacts_empty">Ingen kontakter på SIM-kortet.</string>
      <string name="simContacts_emptyLoading">Leser fra SIM-kort…</string>
      <string name="simContacts_title">Velg kontakter som skal importeres</string>
+     <string name="simFdnContacts_empty">Ingen faste ringekontakter.</string>
      <string name="sim_absent">Fraværende</string>
      <string name="sim_activated">Verifisert</string>
      <string name="sim_card_activate">SIM-verifisering</string>
@@ -1307,9 +1319,13 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="sim_ndp_dismiss_text">Skjul</string>
      <string name="sim_ndp_unlock_text">Lås opp</string>
      <string name="sim_no_activated">Ikke verifisert</string>
+     <string name="sim_roaming_settings_summary">Koble til mobildatanettverk under roaming</string>
+     <string name="sim_roaming_settings_title">Mi Roaming</string>
+     <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
      <string name="sim_unknown">Ukjent</string>
      <string name="sim_unlock_failed">SIM SIM opplåsningsforespørsel feilet.</string>
      <string name="sim_unlock_success">SIM SIM opplåsning vellykket.</string>
+     <string name="sim_useless">SIM utilgjengelig</string>
      <string name="sip_account_list">SIP-kontoer</string>
      <string name="sip_accounts">SIP-kontoer (Internett-anrop)</string>
      <string name="sip_accounts_title">Kontoer</string>
@@ -1375,6 +1391,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="sum_xdivert_disabled">X-Divert er av</string>
      <string name="sum_xdivert_enabled">X-Divert er på</string>
      <string name="summary_manage_subscriptions">Administrer nettverksinnstillingene for hvert abonnement</string>
+     <string name="summary_preferred_networks" />
      <string name="t9_indexing_method_pinyin">Pinyin</string>
      <string name="t9_indexing_method_title">T9-søkeinndata</string>
      <string name="t9_indexing_method_zhuyin">Zhuyin</string>
@@ -1445,7 +1462,8 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>
      <string name="tty_mode_entries_off">TTY Off</string>
      <string name="tty_mode_entries_vco">TTY VCO</string>
-    <string name="tty_mode_not_allowed_video_call">Endring av TTY-modus under videosamtaler er ikke tillatt</string>
+     <string name="tty_mode_key">button_tty_mode_key</string>
+     <string name="tty_mode_not_allowed_video_call">Endring av TTY-modus under videosamtaler er ikke tillatt</string>
      <string name="tty_mode_not_allowed_vt_call">Endring av TTY-modus under VT-samtaler er ikke tillatt</string>
      <string name="tty_mode_option_summary">Velg TTY-modus</string>
      <string name="tty_mode_option_title">TTY-modus</string>
@@ -1462,7 +1480,13 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="uplmn_list_setting_add_plmn">Ny PLMN</string>
      <string name="uplmn_list_setting_title">Foretrukkede nettverk</string>
      <string name="uplmn_numeric_is_empty">Skriv en nettverks-ID</string>
-     <string name="use_current_account_creat_livetalk">Neste</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: "You've sign in with this Mi Account: %1$s.
+Use it for Top-up package?" -->
+     <string name="use_current_account_creat_livetalk">Du er logget inn med følgende Mi-konto: %1$s.
+Bruk den for å fylle opp datapakke?</string>
      <string name="use_current_account_creat_livetalk_button">Bruk</string>
      <string name="use_current_account_creat_livetalk_info">Du kan bruke oppfyllingspakken til Mi-konto: %1$s</string>
      <string name="use_history">Aktivitet</string>
@@ -1492,6 +1516,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="voicemail_default">Min teleoperatør</string>
      <string name="voicemail_notification_ringtone_title">Lyd</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibrering</string>
+     <string name="voicemail_notification_vibrate_when_title">Vibrer</string>
      <string name="voicemail_number_not_set">&lt;Ikke angitt&gt;</string>
      <string name="voicemail_provider">Tjeneste</string>
      <string name="voicemail_provider_summary">Velg tjeneste for talepost</string>

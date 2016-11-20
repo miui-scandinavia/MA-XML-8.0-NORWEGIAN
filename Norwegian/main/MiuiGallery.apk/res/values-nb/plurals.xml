@@ -149,6 +149,10 @@
         <item quantity="other">"Couldn't download %1$d files"</item>
         <item quantity="one">"Couldn't download %1$d file"</item>
      </plurals>
+     <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"Hoppet over %1$d bilder som ikke kunne bli gjengitt."</item>
+        <item quantity="one">"Hoppet over et bilde som ikke kunne bli gjengitt."</item>
+     </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d bilder</item>
         <item quantity="one">%d bilde</item>
@@ -166,8 +170,8 @@
         <item quantity="one">"Ikke vis dette ansiktet?"</item>
      </plurals>
      <plurals name="local_space_full">
-        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Ikke nok lokal lagring. %1$d elementer venter på å bli sikkerhetskopiert</item>
+        <item quantity="one">Ikke nok lokal lagring. %1$d element venter på å bli sikkerhetskopiert</item>
      </plurals>
      <plurals name="message_no_delete_access_with_count">
         <item quantity="other">"Du har ikke tilgang til å slette disse %d filene."</item>
@@ -178,8 +182,8 @@
         <item quantity="one">%1$s bilder av %2$s</item>
      </plurals>
      <plurals name="network_unsatisfied">
-        <item quantity="other">Network error. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Network error. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Nettverksfeil. %1$d elementer venter på å bli sikkerhetskopiert</item>
+        <item quantity="one">Nettverksfeil. %1$d element venter på å bli sikkerhetskopiert</item>
      </plurals>
      <plurals name="number_of_images">
         <item quantity="other">%1$d bilder</item>
@@ -229,12 +233,40 @@
         <item quantity="other">Du kan velge %d elementer</item>
         <item quantity="one">Du kan velge %d element</item>
      </plurals>
+     <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Valgte bilder ligger ikke på enheten. Last dem ned ved å bruke mobildata?"</item>
+        <item quantity="one">"Valgte bilde ligger ikke på enheten. Last det ned ved å bruke mobildata?"</item>
+     </plurals>
+     <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Valgte bilder ligger ikke på enheten. De vil bli lastet ned."</item>
+        <item quantity="one">"Valgte bilde ligger ikke på enheten. Det vil bli lastet ned."</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Valgte bilder (%dMB) ligger ikke på enheten. Last dem ned ved å bruke mobildata?"</item>
+        <item quantity="one">"Valgte bilde (%dMB) ligger ikke på enheten. Last det ned ved å bruke mobildata?"</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Avbryt nedlasting av %d gjenstående bilder?</item>
+        <item quantity="one">Avbryt nedlasting av det gjenstående bildet?</item>
+     </plurals>
+     <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">"Kunne ikke laste ned %1$d bilder, prøv igjen?"</item>
+        <item quantity="one">"Kunne ikke laste ned bilde, prøv igjen?"</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">"Kunne ikke laste ned %1$d bilder (%2$dMB), prøv igjen?"</item>
+        <item quantity="one">"Kunne ikke laste ned bilde (%2$dMB), prøv igjen?"</item>
+     </plurals>
+     <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"Hoppet over %d bilder som ikke er på enheten."</item>
+        <item quantity="one">"Hoppet et bilde som ikke er på enheten."</item>
+     </plurals>
      <plurals name="seconds">
         <item quantity="other">%d sekunder</item>
         <item quantity="one">1 sekund</item>
      </plurals>
      <plurals name="sync_off">
-        <item quantity="other">Sync is off. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Synk er av. %1$d elementer venter på å bli sikkerhetskopiert</item>
+        <item quantity="one">Synk er av. %1$d element venter på å bli sikkerhetskopiert</item>
      </plurals>
 </resources>

@@ -1694,8 +1694,8 @@
      <string name="upload_file">Velg fil</string>
      <string name="usb_accessory_notification_title">Koblet til et USB-tilbehør</string>
      <string name="usb_cd_installer_notification_title">Tilkoblet som installasjonsprogram</string>
-     <string name="usb_charging_notification_title">Connected in charging mode</string>
-     <string name="usb_choose_notification_title">Touch for choose USB options.</string>
+     <string name="usb_charging_notification_title">Tilkoblet i lademodus</string>
+     <string name="usb_choose_notification_title">Trykk for å velge USB-valg.</string>
      <string name="usb_midi_notification_title">USB for MIDI</string>
      <string name="usb_midi_peripheral_manufacturer_name">Android</string>
      <string name="usb_midi_peripheral_name">Port for USB-tilleggsutstyr for Android</string>

@@ -62,6 +62,7 @@
      <string name="batch_deleting_progress_message">Sletter valgte tråd(er)</string>
      <string name="bcc_label">"Bcc: "</string>
      <string name="block_messaging_entry_title">Blokkert SMS</string>
+     <string name="block_support_text">Levert av Antiy.</string>
      <string name="bookmark">Favoritter</string>
      <string name="bookmark_confirm_delete_message">Valgte elementer vil bli slettet</string>
      <string name="bookmark_empty">Ingen Bokmerker</string>
@@ -328,7 +329,9 @@
      <string name="failed_to_resize_image">Bildet er ikke skalert.</string>
      <string name="fake_cell_alert_hint">Ser ut som denne meldingen var sendt fra et telefonnummer som er ulikt det som er vist. Vær OBS på meldinger som inneholder forespørsel om finansinformasjon.</string>
      <string name="fake_cell_checking_hint">Sikkerhetssjekk…</string>
-     <string name="fake_cell_safe_hint">Denne meldingen er trykk</string>
+     <string name="fake_cell_detection_entry">Oppdag falske basestasjoner</string>
+     <string name="fake_cell_safe_hint">Denne meldingen er trygg</string>
+     <string name="fake_cell_timeout_hint">"Kunne ikke sjekke sikkerheten"</string>
      <string name="favoritesFrequentCalled">Ofte oppringt</string>
      <string name="favoritesFrequentContacted">Ofte kontaktet</string>
      <string name="fdn_check_failure">Du kan kun sende meldinger til dine faste anropsnumre.</string>
@@ -350,6 +353,7 @@
      <string name="flatshow_page_no">Side %1$d</string>
      <string name="follow_finished">Følger nummer</string>
      <string name="follow_forbidden">"Kan ikke følge dette nummeret"</string>
+     <string name="force_touch_new_message_title">Ny melding</string>
      <string name="forward_from">Videresend fra:</string>
      <string name="forward_prefix">"Videresend: "</string>
      <string name="foundTooManyContacts">Fant mer enn %d.</string>
@@ -586,7 +590,8 @@
      <string name="need_download">Venter på synk...</string>
      <string name="network_error">Nettverksfeil</string>
      <string name="networking_allow_continue">OK</string>
-     <string name="networking_allow_desc">"Smartmeldinger lar deg sende gratis tekstmeldinger og tale, gjenkjenne ukjente numre, filtrere spam osv. Ved å bruke denne tjenesten, godtar du Xiaomi sine %1$s and %2$s. Du må skru på Gule sider og koble til Internett for å bruke denne tjenesten."</string>
+     <string name="networking_allow_desc">"Smarte meldinger lar deg sende gratis tekstmeldinger og tale, gjenkjenne ukjente numre, filtrere spam osv. Ved å bruke denne tjenesten, godtar du Xiaomi sine %1$s and %2$s. Du må aktivere Gule sider og koble til Internett for å bruke denne tjenesten."</string>
+     <string name="networking_allow_desc_without_mx">"Smarte meldinger lar deg gjenkjenne ukjente numre, filtrere spam osv. Ved å bruke denne tjenesten, godkjenner du Xiaomi sine %1$s og %2$s. Du må aktivere Gule sider og koble til Internett for å bruke denne tjenesten."</string>
      <string name="networking_allow_title">OBS</string>
      <string name="new_message">Ny melding</string>
      <string name="new_message_arrived">Du har en ny melding</string>
@@ -641,6 +646,7 @@
      <string name="pref_allow_network_access_summary">Skru på for å få seneste informasjon om levering og andre tjenester.</string>
      <string name="pref_cell_broadcast">Cell Broadcasts</string>
      <string name="pref_collapse_sp_messages_summary">Automatisk gruppér SMS-varsler sammen</string>
+     <string name="pref_delivery_ringtone">Lydvarsling</string>
      <string name="pref_edit_smsc_address">Tjenestesenter for korte meldinger (SMSC)</string>
      <string name="pref_forward_title">Videresend</string>
      <string name="pref_key_mx_feedback">Tilbakemelding</string>
@@ -661,6 +667,7 @@
      <string name="pref_summary_auto_delete">Slett gamle meldinger når grensene nås</string>
      <string name="pref_summary_delete_limit">%1$s meldinger per samtale</string>
      <string name="pref_summary_delivery_reports">Vis leveringsstatus for meldiner du sender</string>
+     <string name="pref_summary_delivery_ringtone">Motta lydvarsling når meldingen er sendt.</string>
      <string name="pref_summary_hide_festival">Skjul Kinesiske språk-funksjoner når systemet er satt til et ikke Kinesisk-språk</string>
      <string name="pref_summary_manage_sim_messages">Håndter meldinger lagret på SIM-kort</string>
      <string name="pref_summary_mms_auto_retrieval">Last ned bilder og video i meldinger automatisk</string>

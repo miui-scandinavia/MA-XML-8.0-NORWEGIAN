@@ -13,7 +13,7 @@
      <string name="button_ok">OK</string>
      <string name="button_queue_for_wifi">Vennt</string>
      <string name="button_start_now">Last ned</string>
-     <string name="call_record">Opptavk av anrop (%d)</string>
+     <string name="call_record">Opptak av anrop (%d)</string>
      <string name="cloud_record">%d synket</string>
      <string name="cloud_record_open">Synk opptak</string>
      <string name="cloud_record_tip">Synk opptak med Mi Cloud.</string>
@@ -35,6 +35,7 @@
      <string name="duration_format_hour">%sh</string>
      <string name="duration_format_minute">%sm</string>
      <string name="duration_format_second">%ss</string>
+     <string name="empty_recognition_tip">Tom</string>
      <string name="error_app_internal">Muligens en SD-kortfeil, eller et annet program bruker opptaksprogramvaren. Vennligst kontroller og prøv igjen.</string>
      <string name="error_app_internal_title">Sjekk om en annen app for øyeblikket bruker denne funksjonen</string>
      <string name="error_app_unsupported">Ustøttet format.</string>
@@ -93,11 +94,18 @@
      <string name="preference_silent_mode">Kutt ringelyd under opptak</string>
      <string name="preference_tip_rename">Gi opptak navn manuellt</string>
      <string name="recognition_error_cancel">Avbrutt</string>
+     <string name="recognition_error_download_cancel">Senere</string>
+     <string name="recognition_error_download_fail">"Kunne ikke laste ned. Sjekk nettverksinnstillingene og prøv igjen."</string>
+     <string name="recognition_error_download_msg">Last ned gjenkjenningsmotor for å gjøre denne tjensten tilgjengelig.</string>
+     <string name="recognition_error_download_ok">Last ned</string>
+     <string name="recognition_error_download_title">Ingen gjenkjenningsmotor</string>
+     <string name="recognition_error_downloading">Laster ned</string>
      <string name="recognition_error_engine">Gjenkjenningsmotor fungerer ikke</string>
      <string name="recognition_error_engine_singleton">Gjenkjenningsmotor er opptatt</string>
      <string name="recognition_error_format">Ulovlig lydformat</string>
      <string name="recognition_error_internal">Intern feil</string>
      <string name="recognition_error_stopped">Gjenkjenning stoppet</string>
+     <string name="recognition_status_downloading">Laster ned</string>
      <string name="record_back_pressed_hint">For å stoppe opptak, trykk Tilbake igjen</string>
      <string name="record_download">Last ned fra Mi Cloud</string>
      <string name="record_download_activity">Nedlastingsliste</string>
@@ -138,6 +146,7 @@
      <string name="rename_no_more_tip">"Ikke vis igjen"</string>
      <string name="retry">Prøv igjen</string>
      <string name="review_message">Spill tilbake melding</string>
+     <string name="runtime_permission_ungranted">"Kan ikke bruke opptakeren på grunn av manglende tillatelser"</string>
      <string name="search_app">Lydopptaker</string>
      <string name="search_enable_earpiece_title">Bruk mottakeren til å spille av lyd</string>
      <string name="search_for_recordings_in_folders">Søk mapper etter opptak</string>

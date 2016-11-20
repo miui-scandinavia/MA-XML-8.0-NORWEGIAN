@@ -50,6 +50,8 @@
      <string name="children_folder_title">Barn</string>
      <string name="children_mode_exit">Avslutt</string>
      <string name="children_mode_tips">Gå tilbake til Innstillinger for å håndtere tilgang til apper.</string>
+     <string name="children_mode_tips_message">Det er ingen programmer i barnemodus. Vennligst velg et program.</string>
+     <string name="children_mode_tips_title">Vennligst velg et program</string>
      <string name="choose_theme">Tema</string>
      <string name="choose_wallpaper">Velg bakgrunn</string>
      <string name="chooser_wallpaper">Velg en ny bakgrunn</string>
@@ -215,6 +217,7 @@
      <string name="process" />
      <string name="recommend_apps_default_title">Tom</string>
      <string name="recommend_apps_notice">Anbefalte apper</string>
+     <string name="recommend_apps_notice_nodata">Anbefalte apper (Ingen data)</string>
      <string name="recommend_apps_switch_summary">Vis anbefalte apper på bunnen av skjermen</string>
      <string name="recommend_apps_switch_title">Anbefalte apper</string>
      <string name="recommend_apps_tips">"Denne funksjonen trenger å koble til Internett for å fungere normalt. For å skru av denne funksjonen, trykk på mappens navn."</string>

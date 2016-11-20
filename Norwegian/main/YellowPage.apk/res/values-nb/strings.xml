@@ -16,6 +16,7 @@
      <string name="account_yellowpage_favorite">Favoritter</string>
      <string name="account_yellowpage_followed">Verifiserte kontoer</string>
      <string name="account_yellowpage_recent">Vis historikk</string>
+     <string name="add_to_desktop">Legg på skrivebordet</string>
      <string name="agree">Samtykk</string>
      <string name="agree_to_continue">Fortsett</string>
      <string name="agree_to_turn_on">Godkjenn</string>
@@ -66,6 +67,8 @@
      <string name="description_uploadtime">Oppdatert</string>
      <string name="description_version">Versjon</string>
      <string name="description_version_szie">Versjon: %1$s Størrelse: %2$s</string>
+     <string name="didi_back">back</string>
+     <string name="didi_close">close</string>
      <string name="do_not_remind_me">"Ikke påminn meg"</string>
      <string name="dont_enable">Skru av</string>
      <string name="download_completed">Nedlastning lagret til %s</string>
@@ -117,6 +120,7 @@
      <string name="express_inqgeneral_btn_followuiry_internal_failure">"En feil oppsto.Vennligst sjekk ditt sproingsnummer"</string>
      <string name="express_inqiury_select_logistics">Kurertjeneste</string>
      <string name="express_inquiry">Sporer</string>
+     <string name="express_inquiry_and_send">Sporing og utsending</string>
      <string name="express_inquiry_button_text">Spor</string>
      <string name="express_inquiry_clipboard_number_message">Spor kopierte nummer?</string>
      <string name="express_inquiry_data_owner_prefix">Sporingsinfo tilbudt av</string>
@@ -139,6 +143,14 @@
      <string name="express_inquiry_provider_info">"Drevet av "</string>
      <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
      <string name="express_inquiry_serial_number_prefix">Nummer: %s</string>
+     <string name="express_inquiry_status_delivered">Levert</string>
+     <string name="express_inquiry_status_difficult_goods">Ukjent</string>
+     <string name="express_inquiry_status_dispatch">Utsending</string>
+     <string name="express_inquiry_status_on_the_way">På vei</string>
+     <string name="express_inquiry_status_receipted">Mottatt</string>
+     <string name="express_inquiry_status_return">Returnert</string>
+     <string name="express_inquiry_status_sign_out">Avvist</string>
+     <string name="express_inquiry_status_unknown">Ukjent</string>
      <string name="express_inquiry_trace">Sporing</string>
      <string name="express_inquiry_trace_device_login_notice">"Du bruker denne tjenesten på en annen enhet. Hvis du vil motta orderens status fra denne enhetne, vennligst verifiser din Mi-konto."</string>
      <string name="express_inquiry_trace_success">Sporet</string>
@@ -189,6 +201,8 @@
      <string name="express_sender_info">Avsender info</string>
      <string name="express_sender_name">Navn på avsender</string>
      <string name="express_sender_region">Avsender region</string>
+     <string name="express_shortcut_name">Henvendelse eller sende express</string>
+     <string name="express_show_all_inquiry_history">Vis alle henvendelseshistorikk</string>
      <string name="express_submit_order">Send</string>
      <string name="express_track_order">Spor</string>
      <string name="express_tracking_number">Tracking-nummer</string>
@@ -202,7 +216,7 @@
      <string name="follow_express_success">Følger nå %1$s.</string>
      <string name="follow_label">Følg %1$s</string>
      <string name="follow_processing">prosesserer</string>
-     <string name="follow_success">Now following %1$s.</string>
+     <string name="follow_success">Følger nå %1$s.</string>
      <string name="fraud_number_online_identification">Blokker uønskede anrop</string>
      <string name="gallery">Galleri</string>
      <string name="general_btn_follow">Følg</string>
@@ -242,6 +256,9 @@
      <string name="locating_fail">Kunne ikke finne plassering, vennligst sjekk plasseringstjeneste eller prøv igjen</string>
      <string name="login_before_use">Vennligst logg inn før bruk.</string>
      <string name="login_ok">Logg inn</string>
+     <string name="mark_number_check_choose_others">Velg andre</string>
+     <string name="mark_number_check_dialog_title">Merk nummer</string>
+     <string name="mark_number_check_most_choice">(De fleste brukere velger)</string>
      <string name="mark_number_custom_dialog_maintitle">Samtykk eller korrige merke</string>
      <string name="mark_number_custom_mark_deleted">Merke fjernet</string>
      <string name="mark_number_dialog_maintitle">Rapporter dette nummeret</string>
@@ -249,6 +266,8 @@
      <string name="mark_number_feedback">Rapporter</string>
      <string name="mark_number_feedback_hint">Skriv tilbakemelding</string>
      <string name="mark_number_feedback_invalid_hint">Skriv din tilbakemelding</string>
+     <string name="mark_number_feedback_not_number">"Det er ikke %s nummer"</string>
+     <string name="mark_number_feedback_personal_number">"Det er personlig nummer"</string>
      <string name="mark_number_feedback_success">Tilbakemelding ble sendt</string>
      <string name="mark_number_marked_maintitle">Endringsrapport for dette nummeret</string>
      <string name="mark_number_marked_subtitle">Du har rapportert dette nummeret som %s</string>
@@ -286,6 +305,7 @@
      <string name="miuishare_wechat_timeline_title">Wechat-tidslinje</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="more_coupons">Alle kuponger</string>
+     <string name="more_express_numbers">More express numbers</string>
      <string name="navigation_search_all_cities">Alle byer</string>
      <string name="navigation_search_automatically_positioned_city">Gjeldende by</string>
      <string name="navigation_search_default_hint">Søk i plasseringer</string>
@@ -336,7 +356,7 @@
      <string name="payment_unknown_status_summary">Kontroller nettverkstilkoblingen og prøv på nytt.</string>
      <string name="payment_unknown_status_title">"Kunne ikke bekreft betalingsstatus"</string>
      <string name="phone_event_setting_notice_text">"Ved å bruke denne funksjonen godkjenner du våre %1$s og %2$s."</string>
-     <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
+     <string name="phone_event_setting_notice_text_with_contacts_permission">"Ved å bruke denne funksjonen, godtar du våre %1$s og %2$s. Tilgang til dine kontakter er nødvendig."</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d totalt</string>
      <string name="pull_to_refresh_pull_label">Dra for å oppdatere…</string>
@@ -555,8 +575,6 @@
      <string name="sina_token_expired_warning">Weibo-konto er utløpt: Vennligst koble til på nytt</string>
      <string name="sina_token_invalid_warning">Weibo account er ugyldig: Vennligst koble til på nytt</string>
      <string name="smart_antispam">Identifiser ukjente nummer automatisk</string>
-     <string name="tag_follow_status">tag_follow_status</string>
-     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
      <string name="toast_finish_delete_call_log">Anropshistorikk er slettet</string>
      <string name="toast_text_copied">Tekst kopiert</string>

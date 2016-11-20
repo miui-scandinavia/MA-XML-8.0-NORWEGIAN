@@ -315,7 +315,7 @@
      <string name="usb_debugging_title">Tillat USB debugging?</string>
      <string name="usb_device_confirm_prompt">Åpne %1$s når denne USB-enheten kobles til?</string>
      <string name="usb_device_permission_prompt">Tillat %1$s tilgang til USB-enheten?</string>
-     <string name="usb_function_charging_text">Connected in charging mode</string>
+     <string name="usb_function_charging_text">Tilkoblet i lademodus</string>
      <string name="usb_mode_dont_ask">Husk dette valget</string>
      <string name="usb_mode_mount_storage_title">Åpne USB-lagring nå？</string>
      <string name="usb_mode_notification">USB-lagring</string>
