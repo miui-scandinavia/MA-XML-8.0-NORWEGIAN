@@ -391,7 +391,6 @@
      <string name="theme_precast_create_notification_title">Oppdater til MIUI 7</string>
      <string name="theme_precast_update_notification_content">Trykk for å vise nye temaer.</string>
      <string name="theme_precast_update_notification_title">Oppdatert til MIUI 7</string>
-     <string name="theme_provision_default_theme_title">Standard</string>
      <string name="theme_provision_loading_tips">Bare et sekund…</string>
      <string name="theme_provision_oper_button_next">Neste</string>
      <string name="theme_provision_title">Velg et tema</string>
@@ -419,7 +418,6 @@
      <string name="title_system_resource">Lastet ned</string>
      <string name="title_system_wallpaper_resource">System wallpapers</string>
      <string name="to_activate_the_account">Aktiver din Mi-konto nå</string>
-     <string name="vip_level_value">LV%d</string>
      <string name="wallpaper_crop">Beskjær</string>
      <string name="wallpaper_decoded_error">Kunne ikke avkode</string>
      <string name="wallpaper_loading_text">Bare ett sekund…</string>

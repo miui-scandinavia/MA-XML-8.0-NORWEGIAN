@@ -167,7 +167,6 @@
      <string name="ext_media_safe_unmount_notification_title">USB-lagring er trygt å fjerne</string>
      <string name="ext_media_unmountable_notification_message">USB-lagring er skadet. Den bør formatteres.</string>
      <string name="ext_media_unmountable_notification_title">USB-lagring er skadet</string>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="float_incall_ignore">Ignorér</string>
      <string name="float_incall_message">Melding</string>
      <string name="gps_notification_found_text">Plasseringlåst til GPS</string>

@@ -161,7 +161,6 @@
      <string name="baby_album_new_photo_page_title">"%1$s sitt album"</string>
      <string name="baby_album_new_photo_remind">Det er nye bilder i ditt babyalbum.</string>
      <string name="baby_album_no_share_user_tip">Ingen følgere foreløpig</string>
-     <string name="baby_album_picker_default_title">"Velg %1$s sitt ansikt"</string>
      <string name="baby_album_setting_title">Baby info</string>
      <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,%3$s's %4$s delte %5$s's album med deg"</string>
      <string name="baby_album_sharer_recommand_face">Legg til eksisterende bilder av %1$s?</string>
@@ -215,7 +214,6 @@
      <string name="camera_disconnected">Kamera ikke tilkoblet.</string>
      <string name="camera_folder_display_name">Kamerabilder</string>
      <string name="camera_needs_auto_backup_tip">Kamera-album har blitt sikkerhetskopiert</string>
-     <string name="camera_path">/DCIM/Camera</string>
      <string name="camera_setas_wallpaper">Bakgrunn</string>
      <string name="camera_view_none_message">Bilder vil bli vist her.</string>
      <string name="cancel">Avbryt</string>
@@ -1367,9 +1365,7 @@
      <string name="send_too_many_files_error">"Kan ikke sende så mange elementer (maks %d elementer)."</string>
      <string name="sepia">Sepia</string>
      <string name="set_as_baby_lock_wallpaper">Sett som bakgrunn på låseskjerm</string>
-     <string name="set_baby_icon_picker_default_title">Sett babyikon</string>
      <string name="set_bg_file_exist_message">Dette elementet eksisterer allerede</string>
-     <string name="set_bg_picker_default_title">Sett cover-bilde</string>
      <string name="set_bg_unknow_reasons">Ukjent feil</string>
      <string name="set_face_group_toast_msg_new_user">Langt-trykk på ansiktscover, ansikt kan slås sammen eller ignoreres.</string>
      <string name="set_face_group_toast_msg_old_user">Langt-trykk på ansiktscover, ansikt kan bli delt i familie, venner, klassekamerater osv.</string>
@@ -1490,7 +1486,6 @@
      <string name="there_is_no_image">Det finnes ingen bilde.</string>
      <string name="tieba">Tie Ba</string>
      <string name="time">Tidspunkt</string>
-     <string name="time_line_view">Tidslinjevisning</string>
      <string name="times">Tidspunkter</string>
      <string name="tint">Tint</string>
      <string name="tip_capture_location">Plassering:</string>

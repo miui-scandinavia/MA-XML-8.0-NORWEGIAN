@@ -25,7 +25,6 @@
      <string name="administrative_disable">Administartivia er av</string>
      <string name="administrative_enable">Administrativia er på</string>
      <string name="advanced_settings">Valgfrie innstillinger</string>
-     <string name="advanced_settings_container">advanced settings container</string>
      <string name="advanced_settings_hide">Trykk for å skjule alle</string>
      <string name="advanced_settings_show">Trykk for å vise alle</string>
      <string name="advertisements_disable">Reklame er av</string>
@@ -58,7 +57,6 @@
      <string name="audio_mode_earpiece">Telefonens øreplugg</string>
      <string name="audio_mode_speaker">Høyttaler</string>
      <string name="audio_mode_wired_headset">Hodetelefon med kabel</string>
-     <string name="auth_username">AuthUserName</string>
      <string name="auth_username_summary">Brukernavn brukes til autentisering</string>
      <string name="auth_username_title">Brukernavn for autentisering</string>
      <string name="auto_answer_delay_entries_delay_10s">10 sekunder</string>
@@ -312,10 +310,8 @@
      <string name="default_areacode">Standard områdekode</string>
      <string name="default_call_type">CSVoice</string>
      <string name="default_notification_description">Standardlyd (%1$s)</string>
-     <string name="default_port">5060</string>
      <string name="default_preference_summary">&lt;Ikke angitt&gt;</string>
      <string name="default_sim_setting">Standard SIM-innstillinger som:</string>
-     <string name="default_transport">UDP</string>
      <string name="delete">Slett</string>
      <string name="deleteAllSimEntries">Slett alle SIM-kort kontakter</string>
      <string name="deleteSimContacts">Sletter…</string>
@@ -361,11 +357,9 @@
      <string name="disable_pin_ok">SIM PIN er av.</string>
      <string name="disable_sim_pin">Slå av SIM PIN</string>
      <string name="disconnect_data_confirm">Datatjeneste vil bli midlertidig frakoblet. Er du sikker?</string>
-     <string name="display_name">DisplayName</string>
      <string name="display_name_summary">&lt;Samme som brukernavn&gt;</string>
      <string name="display_name_title">Visningsnavn</string>
      <string name="do_not_ask">"Ikke spørr igjen"</string>
-     <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Tjener</string>
      <string name="domestic_calls">Bare innenlands</string>
      <string name="doneButton">Ferdig</string>
@@ -526,7 +520,6 @@
      <string name="ims_vt_call_quality_set_failed">Failed to set video quality</string>
      <string name="ims_vt_call_quality_title">VT Call Quality</string>
      <string name="ims_vt_call_quality_unknown">Ukjent</string>
-     <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
      <string name="incall_error_call_failed">Samtalen ble ikke opprettet.</string>
      <string name="incall_error_emergency_only">Ikke registrert på nettverket.</string>
      <string name="incall_error_local_low_battery">Anropet mislyktes på grunn av lavt batteri.</string>
@@ -770,7 +763,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="msim_not_set_summary">Ikke satt</string>
      <string name="msim_pref_title_data">Internett</string>
      <string name="msim_pref_title_voice">Ring</string>
-     <string name="msim_select_default_time_left">(%d s)</string>
      <string name="msim_set_icc_card_error">ICC-kortfeil</string>
      <string name="msim_set_sub_not_supported_phone_in_call">Under en samtale, kan du ikke sette</string>
      <string name="msim_set_sub_not_supported_slot_id_error">Feil med SIM-kort, vennligst prøv igjen senere</string>
@@ -916,7 +908,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="operator_mins_first">"Give priority to carrier's plan"</string>
      <string name="operator_mins_first_close">Turn off</string>
      <string name="operator_remain_mins">Minutter i operatørpakke</string>
-     <string name="operator_remain_mins_value">%1$s minutter</string>
      <string name="optional_summary">&lt;Valgfritt&gt;</string>
      <string name="order_by_name">Alfabetisk</string>
      <string name="order_by_recent">Frekvens</string>
@@ -954,7 +945,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="other_settings">Andre ringeinnstillinger</string>
      <string name="other_settings_category">Andre</string>
      <string name="overseas_roaming_setting">Internasjonal roaming</string>
-     <string name="password">Passord</string>
      <string name="password_changed">Passord endret</string>
      <string name="password_title">Passord</string>
      <string name="path_answer_state_setting_title">Systemapper/Telefon/Innstillinger for innkommende anrop</string>
@@ -1046,7 +1036,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="please_login_mi_accout">Logg inn</string>
      <string name="pocket_mode_summary">Telefonen vil låses automatisk når plassert i lomme</string>
      <string name="pocket_mode_title">Forhindre lommeringing</string>
-     <string name="port">Port</string>
      <string name="port_title">Portnummer</string>
      <string name="preference_auto_ip_summary_disable">Deaktivert</string>
      <string name="preference_category_ringtone">Ringetone og vibrering</string>
@@ -1277,10 +1266,8 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="select_voice_call_sim">Vennligst velg</string>
      <string name="sendSms">Send SMS</string>
      <string name="send_button">Send</string>
-     <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Send hold-aktiv-meldinger</string>
      <string name="send_order_failed">"Kunne ikke sende ordre"</string>
-     <string name="set_primary">SetPrimary</string>
      <string name="set_primary_summary">Brukt til utgående anrop</string>
      <string name="set_primary_title">Angi som hovedkonto</string>
      <string name="set_smsc_address_error">"Kunne ikke sette nummer"</string>
@@ -1330,10 +1317,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="sip_accounts">SIP-kontoer (Internett-anrop)</string>
      <string name="sip_accounts_title">Kontoer</string>
      <string name="sip_add_account_tip_text">For å bruke internett-anrop, legg til en SIP-konto</string>
-     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-     <string name="sip_always">SIP_ALWAYS</string>
      <string name="sip_always_send_keepalive">Send alltid</string>
-     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
      <string name="sip_call_options_entry_1">For alle anrop hvor datanettverk er tilgjengelige</string>
      <string name="sip_call_options_entry_2">Kun for Internett-anrop</string>
      <string name="sip_call_options_entry_3">Spør ved alle anrop</string>
@@ -1456,7 +1440,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="title_user_config">Aktiver SIM-kort</string>
      <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
      <string name="top_up_first">Top-up first</string>
-     <string name="transport">Protocol</string>
      <string name="transport_title">Transporttype</string>
      <string name="tty_mode_entries_full">TTY Full</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -1495,7 +1478,6 @@ Bruk den for å fylle opp datapakke?</string>
      <string name="use_history_endtime">Avsluttet: %1$s</string>
      <string name="use_history_starttime">Startet: %1$s</string>
      <string name="use_range">Features</string>
-     <string name="username">UserName</string>
      <string name="username_title">Brukernavn</string>
      <string name="ussdRunning">USSD-kode kjører…</string>
      <string name="ussd_dialog_sep">----------</string>

@@ -109,8 +109,6 @@
      <string name="map_auth_notif_ticker">Autentiseringsforespørsel fra Obex</string>
      <string name="map_auth_notif_title">Øktsnøkkel</string>
      <string name="map_authentication_timeout_message">Det tok for lang tid å legge inn øktsnøkkel med %1$s</string>
-     <string name="map_defaultname">Bilsett</string>
-     <string name="map_defaultnumber">000000</string>
      <string name="map_localPhoneName">Navnet mitt</string>
      <string name="map_session_key_dialog_header">Bluetooth-øktsnøkkel kreves</string>
      <string name="map_session_key_dialog_title">Skriv inn øktsnøkkel for %1$s</string>

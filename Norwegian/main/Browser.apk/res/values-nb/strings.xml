@@ -229,7 +229,6 @@
      <string name="color_picker_dialog_title">Velg farge</string>
      <string name="color_picker_hue">Fargetone</string>
      <string name="color_picker_saturation">Metning</string>
-     <string name="color_picker_value">Verdi</string>
      <string name="comment_app_menu">Skriv kommentar</string>
      <string name="comment_menu">Skriv kommentar</string>
      <string name="common_use_phrase_bottom_bar_cn_txt">.no</string>
@@ -291,7 +290,6 @@ Sider du er inne på, vil ikke vises i historikken."</string>
      <string name="date_picker_dialog_set">Sett</string>
      <string name="date_picker_dialog_title">Sett dato</string>
      <string name="date_time_picker_dialog_title">Sett dato og tid</string>
-     <string name="defaultBookmarksUpButton">Bokmerker</string>
      <string name="delete">slett</string>
      <string name="delete_bookmark">Slett bokmerke</string>
      <string name="delete_bookmark_group_warning">Slett \"%s\"? Alle bokmerkene i denne gruppen vil bli slettet.</string>
@@ -401,10 +399,6 @@ Sider du er inne på, vil ikke vises i historikken."</string>
      <string name="force_touch_bookmark_history_title">Bokmerker og historikk</string>
      <string name="force_touch_infoflow_title">Nyheter</string>
      <string name="forward">Fremover</string>
-     <string name="general_set_default_browser_dialog_close_txt">Lukk</string>
-     <string name="general_set_default_browser_dialog_ok_txt">OK</string>
-     <string name="general_set_default_browser_dialog_summary">Bruk MIUI-integrerte programmer for raskere og jevnere hastighet</string>
-     <string name="general_set_default_browser_title">Bruk som standard nettleser</string>
      <string name="geolocation_permissions_prompt_dont_share">Avslå</string>
      <string name="geolocation_permissions_prompt_message">%s ønsker å vite din plassering</string>
      <string name="geolocation_permissions_prompt_remember">Husk preferanser</string>
@@ -468,7 +462,6 @@ Vil du forlate denne siden?"</string>
      <string name="js_dialog_before_unload_positive_button">Forlat</string>
      <string name="js_dialog_before_unload_title">Bekreft navigering</string>
      <string name="js_dialog_title">Siden på \"%s\" sier:</string>
-     <string name="js_dialog_title_default">JavaScript</string>
      <string name="js_disable_confirm_message">Deaktivering av JavaScript kan få noen sider til å vises feil</string>
      <string name="js_disable_confirm_title">Deaktiver JavaScript?</string>
      <string name="js_engine_flags">Sett JS-flagg</string>
@@ -545,7 +538,6 @@ Vil du forlate denne siden?"</string>
      <string name="miui_search_notification_message">åpne det raske søket</string>
      <string name="miui_search_notification_title">Nettleser raskt søk</string>
      <string name="miui_startpage">Startside</string>
-     <string name="miuichromium_default_text_encoding">Latin-1</string>
      <string name="miuichromium_error_page_airplane_mode">Flymodus</string>
      <string name="miuichromium_error_page_airplane_mode_on">Slå av flymodus for å koble til</string>
      <string name="miuichromium_error_page_btn_close">Lukk</string>
@@ -703,11 +695,6 @@ Vil du forlate denne siden?"</string>
      <string name="pref_data_preload_summary">: La nettleseren forhåndsinnlaste sannsynlige søkeresultater i bakgrunnen</string>
      <string name="pref_data_preload_title">Forhåndslast søkeresultater</string>
      <string name="pref_data_title">Admin. av båndbredde</string>
-     <string name="pref_default_text_encoding">Tekstkodning</string>
-     <string name="pref_default_text_encoding_default">UTF-8</string>
-     <string name="pref_default_text_encoding_dialogtitle">Tekstkodning</string>
-     <string name="pref_default_zoom">Standardzoom</string>
-     <string name="pref_default_zoom_dialogtitle">Standardzoom</string>
      <string name="pref_development_cpu_upload_path">Aktiver CPU-opplastningssti</string>
      <string name="pref_development_error_console">Vis JavaScript-konsoll</string>
      <string name="pref_development_hardware_accel">Aktiver OpenGL gjengivelse</string>
@@ -753,12 +740,6 @@ Vil du forlate denne siden?"</string>
      <string name="pref_images_preload_dialogtitle">Bilder forhåndslaster...</string>
      <string name="pref_images_preload_summary">: Forhåndslast bilder når dette støttes av serveren</string>
      <string name="pref_images_preload_title">Forhåndslast bilder</string>
-     <string name="pref_images_preload_value_always">2</string>
-     <string name="pref_images_preload_value_always_summary">Alltid forhåndslast bilder når dette støttes av serveren</string>
-     <string name="pref_images_preload_value_never">0</string>
-     <string name="pref_images_preload_value_never_summary">Aldri tillat nettleseren å forhåndslaste bilder når dette støttes av serveren</string>
-     <string name="pref_images_preload_value_wifi_only">1</string>
-     <string name="pref_images_preload_value_wifi_only_summary">Forhåndslast bilder kun ved bruk av Wi-Fi</string>
      <string name="pref_inverted">Omvendt skjermvisning</string>
      <string name="pref_inverted_category">Omvend skjermvisning</string>
      <string name="pref_inverted_contrast">Kontrast</string>
@@ -773,9 +754,7 @@ Vil du forlate denne siden?"</string>
      <string name="pref_link_prefetch_dialogtitle">Forhåndslast nettsteder</string>
      <string name="pref_link_prefetch_summary">: La nettleseren forhåndsinnlaste koblede nettsider i bakgrunnen</string>
      <string name="pref_link_prefetch_title">Forhåndslast hjemmesider</string>
-     <string name="pref_link_prefetch_value_never_summary">Aldri tillat nettleseren å forhåndslaste linkede nettsteder i bakgrunnen</string>
      <string name="pref_min_font_size">Minste skriftstørrelse</string>
-     <string name="pref_min_font_size_value">%d pkt</string>
      <string name="pref_nav_mode_summary_pad">Nettbrett</string>
      <string name="pref_nav_mode_summary_phone">Telefon</string>
      <string name="pref_nav_mode_title">Nettlesermodus</string>
@@ -825,7 +804,6 @@ Vil du forlate denne siden?"</string>
      <string name="pref_setting_title">Sideinnstillinger</string>
      <string name="pref_text_zoom">Tekstskalering</string>
      <string name="pref_ua_mione_entry">MiOne</string>
-     <string name="pref_ua_mione_value">4</string>
      <string name="pref_ua_string">Brukeragent-string</string>
      <string name="pref_ua_title">Brukeragent-håndtering</string>
      <string name="pref_use_instant_search">Google Instant</string>
@@ -1179,7 +1157,6 @@ Vil du forlate denne siden?"</string>
      <string name="webview_js_dialog_before_unload_positive_button">Forlat</string>
      <string name="webview_js_dialog_before_unload_title">Bekreft navigasjon</string>
      <string name="webview_js_dialog_title">Siden på \"%s\" sier:</string>
-     <string name="webview_js_dialog_title_default">JavaScript</string>
      <string name="webview_last_month">Sist måned</string>
      <string name="webview_no_matches">Ingen matcher</string>
      <string name="webview_ok">OK</string>

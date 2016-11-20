@@ -85,10 +85,7 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="dy">dY</string>
      <string name="e">e</string>
      <string name="eDesc">"Euler's nummer"</string>
-     <string name="e_mathematical_value">e</string>
      <string name="easter_egg">Magikarp brukte Splash men ingenting skjedde.</string>
-     <string name="eigenvalue">Eigen</string>
-     <string name="eigenvalueDesc">Egenverdi</string>
      <string name="enter">↓</string>
      <string name="equal">=</string>
      <string name="equalDesc">er lik</string>
@@ -129,10 +126,8 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="leftParenDesc">venstre parantes</string>
      <string name="lg">log</string>
      <string name="lgDesc">logaritme</string>
-     <string name="lg_mathematical_value">lg</string>
      <string name="ln">ln</string>
      <string name="lnDesc">naturlig logaritme</string>
-     <string name="ln_mathematical_value">ln</string>
      <string name="loan_edittext_hint_commercial">Kommersielle lån</string>
      <string name="loan_edittext_hint_commercial_combined">Kommersielle lån</string>
      <string name="loan_edittext_hint_fund">Rettet fond lån</string>
@@ -213,7 +208,6 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="showWidgetBackground">Vis widget bakgrunn</string>
      <string name="sin">sin</string>
      <string name="sinDesc">sinus</string>
-     <string name="sin_mathematical_value">sin</string>
      <string name="solve">Løse</string>
      <string name="solveForX">Løse X</string>
      <string name="solveForY">Løse Y</string>
@@ -222,7 +216,6 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="sqrtDesc">kvadratrot</string>
      <string name="tan">tan</string>
      <string name="tanDesc">tangens</string>
-     <string name="tan_mathematical_value">tan</string>
      <string name="tax_accumulation_fund">Opphopningsfond</string>
      <string name="tax_annual_bonus_hint">Skriv bonus før skatt</string>
      <string name="tax_birth">Født</string>
@@ -258,21 +251,8 @@ Advarsel: Hvis du tror du får dårlige resultater, er du sannsynligvis i feil b
      <string name="title_bar">Length converter</string>
      <string name="to_num">62.7</string>
      <string name="trigUnits">Trigger enheter</string>
-     <string name="unit_data_default_area_0">sq.m</string>
-     <string name="unit_data_default_area_1">sq.cm</string>
-     <string name="unit_data_default_currency_0">CNY</string>
-     <string name="unit_data_default_currency_1">USD</string>
-     <string name="unit_data_default_currency_2">EUR</string>
      <string name="unit_data_default_length_0">m</string>
      <string name="unit_data_default_length_1">cm</string>
-     <string name="unit_data_default_temperature_0">C</string>
-     <string name="unit_data_default_temperature_1">F</string>
-     <string name="unit_data_default_time_0">min</string>
-     <string name="unit_data_default_time_1">s</string>
-     <string name="unit_data_default_velocity_0">mps</string>
-     <string name="unit_data_default_velocity_1">kmps</string>
-     <string name="unit_data_default_volume_0">cu.m</string>
-     <string name="unit_data_default_volume_1">cu.cm</string>
      <string name="unit_data_default_weight_0">kg</string>
      <string name="unit_data_default_weight_1">g</string>
      <string name="unit_data_display_area_acre">Acre</string>

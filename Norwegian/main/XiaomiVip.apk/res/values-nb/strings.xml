@@ -52,7 +52,6 @@
      <string name="invalid_json">Noe gikk galt</string>
      <string name="level">Level</string>
      <string name="level_detail">Daglig oppgavegrense: %d</string>
-     <string name="level_exp_value" formatted="false">Poeng: %d/%d</string>
      <string name="level_info_format" formatted="false">"Nivå %d %d/%d%s"</string>
      <string name="limit_task">Begrensede utfordringer</string>
      <string name="limit_task_format" formatted="false">%d/%d</string>

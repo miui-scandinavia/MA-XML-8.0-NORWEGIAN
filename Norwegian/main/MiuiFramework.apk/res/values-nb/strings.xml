@@ -2,7 +2,6 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="alwaysUsePrompt">Husk dette valget</string>
-     <string name="android_ringtone_default_with_actual">Standard ringetone (%1$s)</string>
      <string name="android_ringtone_silent">Ingen</string>
      <string name="android_ringtone_unknown">Ukjent ringetone</string>
      <string name="anniversary_of_lifting_martial_law">Jubileum for oppheving av militær lov</string>
@@ -28,7 +27,6 @@
      <string name="copy">Kopier</string>
      <string name="cut">Klipp ut</string>
      <string name="day_following_good_friday">Dagen etter Langfredag</string>
-     <string name="default_name">Standard</string>
      <string name="device_hongmi">Redmi</string>
      <string name="device_pad">Mi Pad</string>
      <string name="device_xiaomi">Xiaomi</string>

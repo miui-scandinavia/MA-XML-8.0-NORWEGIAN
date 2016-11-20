@@ -5,11 +5,6 @@
         <item>Bare hjemme</item>
         <item>Automatisk</item>
      </string-array>
-     <string-array name="clir_display_values">
-        <item>Nettverksstandard</item>
-        <item>Skjul nummer</item>
-        <item>Vis nummer</item>
-     </string-array>
      <string-array name="dtmf_tone_entries">
         <item>Normal</item>
         <item>Lang</item>

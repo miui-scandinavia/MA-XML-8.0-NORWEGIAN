@@ -154,7 +154,6 @@
      <string name="lock_screen_warning_category">Varsel på låseskjermen</string>
      <string name="lock_screen_warning_switch_summary">Vis advarsel på låseskjerm når dataforbruket når en viss mengde</string>
      <string name="lock_screen_warning_switch_title">Vis advarsler på låseskjermen</string>
-     <string name="lock_screen_warning_value">Advarselgrense for dataforbru</string>
      <string name="main_alert_message_month_limit_error">Datagrense  er feil</string>
      <string name="main_alert_message_no_imsi">Ingen SIM-kort detektert</string>
      <string name="main_alert_message_no_mobile_package">Ingen datagrense satt</string>
@@ -273,7 +272,6 @@
      <string name="permit_running_network">Bakgrunnsdata</string>
      <string name="person_hotpot">Mobile aksesspunkt</string>
      <string name="pkg_traffic">Sett databruksgrense</string>
-     <string name="power_save_on_time_default_time">00:00</string>
      <string name="power_save_on_time_end_time_summary">Til</string>
      <string name="power_save_on_time_start_time_summary">Fra</string>
      <string name="pref_about">Om</string>
@@ -354,7 +352,6 @@
      <string name="pref_traffic_saving_whitelist">Unntak</string>
      <string name="pref_traffic_saving_whitelist_hint">"Disse appene sitt databruk vil ikke bli begrenset"</string>
      <string name="pref_version">Versjon %s</string>
-     <string name="pref_warning_values">Grense for databruk</string>
      <string name="pref_whitelist_setting">Data roaming-unntak</string>
      <string name="privacy_declare_dialog_message">"Ved å bruke denne tjenesten, godkjenner du Opera sine &lt;a href=%s> Vilkår for bruk&lt;/a&gt;."</string>
      <string name="privacy_declare_dialog_title">Vilkår for bruk</string>
@@ -365,9 +362,6 @@
      <string name="privacy_prompt_upload">Last opp</string>
      <string name="protocol_exception_title">Nettverksprotokoll-diagnostikk</string>
      <string name="protocol_loop_back_exception_summary">Lokal loopback-test feilet. For å rapportere feilen til MIUI, gå til Rapporter feil-appen og send en logg from enheten din.</string>
-     <string name="reach_daily_limit_value_body">Reduser ditt daglige mobildataforbruk.</string>
-     <string name="reach_daily_limit_value_body_open_traffic_saving">Trykk for å skru på Datasparing.</string>
-     <string name="reach_daily_limit_value_title">Daglig datagrense nådd</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
      <string name="renew_ip">Prøv igjen</string>
@@ -412,7 +406,6 @@
      <string name="system_app">Systemapper</string>
      <string name="tc_sms_report_direction">SMS-forespørselkode</string>
      <string name="tc_sms_report_do_report">Send</string>
-     <string name="tc_sms_report_get_default">"Du vil ikke få belastet ekstra gebyrer for SMS-meldinger brukt til mottak av databruksbalanse fra operatøren din."</string>
      <string name="tc_sms_report_get_sms">Hent SMS</string>
      <string name="tc_sms_report_get_sms2">Hent SMS</string>
      <string name="tc_sms_report_get_sms_again">Oppdater SMS</string>
@@ -503,9 +496,6 @@ Rullet over ekstra data"</string>
      <string name="traffic_saving_history_total_money">Totalt spart</string>
      <string name="traffic_saving_history_total_money_unit">¥</string>
      <string name="traffic_saving_history_total_month">"Spart denne måneden: "</string>
-     <string name="traffic_saving_history_total_month_default">"Gjennomsnittlig spart denne måneden:"</string>
-     <string name="traffic_saving_history_total_month_value">"Hør på &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
-     <string name="traffic_saving_history_total_month_value_default">"Hør på &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
      <string name="traffic_saving_history_total_rate">Sats</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Data spart</string>

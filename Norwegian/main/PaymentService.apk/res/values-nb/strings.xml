@@ -129,7 +129,6 @@ Vennligst kontakt Xiaomi kundeservice."</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit konkuranse.</string>
      <string name="giftcard_record">Mine gavekort</string>
      <string name="giftcard_title">Mi Credit Gift Card</string>
-     <string name="giftcard_value">(%1$s-MiCredit gavekort)</string>
      <string name="hfb_app_name">UMPay</string>
      <string name="hfb_complete">Kjøpt vellykket</string>
      <string name="hfb_confirm">Bekreft</string>
@@ -336,7 +335,6 @@ Kundesupportsenter: 400-100-5678
      <string name="title_transaction">Transaksjoner</string>
      <string name="title_visible_pattern">Gjør mønster synlig</string>
      <string name="unit">Mi Kreditt</string>
-     <string name="unit_value">%1$s Mi Kreditt</string>
      <string name="voucher_card_text">Vennligst skrap av belegget</string>
      <string name="voucher_edit_limit">nummer</string>
      <string name="voucher_error_password">Ugyldig verdikode!</string>

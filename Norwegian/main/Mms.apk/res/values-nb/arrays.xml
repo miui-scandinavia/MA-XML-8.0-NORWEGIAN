@@ -15,39 +15,12 @@
         <item>Notat</item>
         <item>Relasjon</item>
      </string-array>
-     <string-array name="default_smiley_names">
-        <item>Glad</item>
-        <item>Lei seg</item>
-        <item>Blunke</item>
-        <item>Tungen stikker ut</item>
-        <item>Overrasket</item>
-        <item>Kysser</item>
-        <item>Skriker</item>
-        <item>Kul</item>
-        <item>Pengemunn</item>
-        <item>Fot i munnen</item>
-        <item>Flau</item>
-        <item>Engel</item>
-        <item>Usikker</item>
-        <item>Gråter</item>
-        <item>Munnen er lukket</item>
-        <item>Ler</item>
-        <item>Forvirret</item>
-        <item>Hjrte</item>
-        <item>Gal</item>
-        <item>Smirk</item>
-        <item>Pokerfjes</item>
-     </string-array>
      <string-array name="empty_subject_strings">
         <item>emne mangler</item>
      </string-array>
      <string-array name="entries_date_type">
         <item>Mottatt</item>
         <item>Sendt</item>
-     </string-array>
-     <string-array name="entries_date_type_rightvalue">
-        <item>Received</item>
-        <item>Sent</item>
      </string-array>
      <string-array name="entries_mms_validity_period">
         <item>Maksimum</item>

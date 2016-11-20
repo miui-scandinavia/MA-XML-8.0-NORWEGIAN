@@ -1604,12 +1604,8 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="input_method">Inndatametode</string>
      <string name="input_method_selector">Valg av inndatametode</string>
      <string name="input_method_selector_always_hide_title">Skjul alltid</string>
-     <string name="input_method_selector_always_hide_value">2</string>
      <string name="input_method_selector_always_show_title">Vis alltid</string>
-     <string name="input_method_selector_always_show_value">1</string>
      <string name="input_method_selector_show_automatically_title">Automatisk</string>
-     <string name="input_method_selector_show_automatically_value">0</string>
-     <string name="input_method_selector_visibility_default_value">0</string>
      <string name="input_method_settings">Innstillinger</string>
      <string name="input_method_settings_button">Innstillinger</string>
      <string name="input_methods_and_subtype_enabler_title">Velg aktive inndatametoder</string>
@@ -4318,7 +4314,6 @@ Vurder å bruke raskere ^1 for bedre ytelse."</string>
      <string name="wait_for_debugger_summary">Feilsøkt app venter til feilsøkingsapp er lagt til før den kjører</string>
      <string name="wakeup_for_keyguard_notification_title">Våkne låseskjerm for varsler</string>
      <string name="wallpaper_attributions">Bakgrunner</string>
-     <string name="wallpaper_attributions_values">"Leverandører av satellittbilder:©2014 CNES / Astrium, Digitalglobe, Bluesky"</string>
      <string name="wallpaper_desktop">Hjemskjerm</string>
      <string name="wallpaper_live">Live bakgrunnsbilde</string>
      <string name="wallpaper_lockscreen">Låseskjerm</string>

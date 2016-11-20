@@ -228,8 +228,6 @@
      <string name="default_audio_route_name_dock_speakers">Dokkhøyttalere</string>
      <string name="default_audio_route_name_headphones">Hodetelefoner</string>
      <string name="default_media_route_name_hdmi">HDMI</string>
-     <string name="default_sms_application">com.android.mms</string>
-     <string name="default_text_encoding">Latin-1</string>
      <string name="delete">Slett</string>
      <string name="deleteText">Slett</string>
      <string name="deleted_key">%1$s er slettet</string>
@@ -406,7 +404,6 @@
      <string name="granularity_label_line">linje</string>
      <string name="granularity_label_link">link</string>
      <string name="granularity_label_word">ord</string>
-     <string name="gsm_alphabet_default_charset" />
      <string name="hardware">Maskinvare</string>
      <string name="heavy_weight_notification">%1$s kjører</string>
      <string name="heavy_weight_notification_detail">Trykk for å bytte til appen</string>
@@ -1822,8 +1819,6 @@
      <string name="whichSendApplicationNamed">Del med %1$s</string>
      <string name="whichViewApplication">Åpne med</string>
      <string name="whichViewApplicationNamed">Åpne med %1$s</string>
-     <string name="widget_default_class_name" />
-     <string name="widget_default_package_name" />
      <string name="wifi_available_sign_in">Pålogging til Wi-Fi-nettverk</string>
      <string name="wifi_calling_off_summary">Av</string>
      <string name="wifi_connect_alert_message">Appen %1$s vil koble til Wi-Fi-nettverket %2$s</string>

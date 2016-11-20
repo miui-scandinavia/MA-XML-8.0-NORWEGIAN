@@ -7,7 +7,6 @@
      <string name="add_frequent_phrases">Legg til hyppige setninger</string>
      <string name="alwaysUsePrompt">Husk dette valget</string>
      <string name="android_lockscreen_glogin_instructions">For å låse opp, logg inn på din Mi-konto</string>
-     <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
      <string name="android_ringtone_silent">None</string>
      <string name="android_ringtone_unknown">Unknown ringtone</string>
      <string name="anniversary_of_lifting_martial_law">Jubileum for oppheving av militær lov</string>
@@ -268,7 +267,6 @@
      <string name="day_following_good_friday">Dagen etter Langfredag</string>
      <string name="day_of_month">" %d"</string>
      <string name="days">%d dager</string>
-     <string name="default_name">Default</string>
      <string name="delete">Slett</string>
      <string name="delete_frequent_phrases">Slett hyppige setninger</string>
      <string name="delete_frequent_phrases_confirm">Slett valgte hyppige setninger?</string>

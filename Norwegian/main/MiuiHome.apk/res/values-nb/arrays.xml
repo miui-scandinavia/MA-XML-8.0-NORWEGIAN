@@ -12,21 +12,11 @@
         <item>4x4</item>
         <item>4x5</item>
      </string-array>
-     <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-     </string-array>
      <string-array name="editing_mode_entries">
         <item>Flytt programmer</item>
         <item>Widgeter</item>
         <item>Bakgrunnsbilde</item>
         <item>Effekter</item>
-     </string-array>
-     <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
      </string-array>
      <string-array name="gadget_weather_image">
         <item>Klart</item>
@@ -76,27 +66,11 @@
         <item>Roter</item>
         <item>Kube</item>
      </string-array>
-     <string-array name="transformation_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-     </string-array>
      <string-array name="wallpaper_scroll_entries">
         <item>Som tema</item>
         <item>Midt</item>
         <item>Venstre</item>
         <item>Høyre</item>
-     </string-array>
-     <string-array name="wallpaper_scroll_values">
-        <item>byTheme</item>
-        <item>center</item>
-        <item>left</item>
-        <item>right</item>
      </string-array>
      <string-array name="widget_sizes">
         <item>home_edit_box_area_1_1</item>
