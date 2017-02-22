@@ -132,7 +132,6 @@
      <string name="deepclean_title_uninstall_apps">Sjeldent brukte apper</string>
      <string name="deepclean_video_content">Slett allerede sette eller unødvendige videoer</string>
      <string name="deepclean_video_summary_empty">Alt ser bra ut</string>
-     <string name="default_cache_type">Datafiler</string>
      <string name="dialog_content_checkbox_delete_cloud_image">Slett bilder fra Mi Cloud også</string>
      <string name="dialog_content_delete_image_confirm">Slett %d bilder?</string>
      <string name="dialog_content_select_all_confirm">Behold en kopi av dette bildet?</string>
@@ -264,7 +263,6 @@
      <string name="low_memory_warning_dialog_ok_button">Gå og rydd</string>
      <string name="low_memory_warning_dialog_title">Disk tom for plass</string>
      <string name="mainbtn_text_quick_cleanup">Rydd opp %s</string>
-     <string name="mainbtn_text_quick_cleanup_default">Rydd opp</string>
      <string name="megabyteShort">MB</string>
      <string name="memeory_check_content">%1$d apper, minne %2$s</string>
      <string name="month_day_format">MMM dd</string>

@@ -5,9 +5,6 @@
      <string name="accessibility_speakerphone_enabled">Høytaler aktivert.</string>
      <string name="add_vm_number_str">Legg til nummer</string>
      <string name="can_not_dial_while_vt_prompt">"Du kan ikke ringe mens en videosamtale pågår"</string>
-     <string name="change_default_dialer_dialog_title">Vil du endre standard ringeapp?</string>
-     <string name="change_default_dialer_no_previous_app_set_text">Bruk %s som standard ringeapp?</string>
-     <string name="change_default_dialer_with_previous_app_set_text">Bruk %1$s istedet for %2$s som standard ringeapp?</string>
      <string name="dial_conference_fail_prompt">"Kan ikke ringe konferansen direkte fordi gjeldende nettverk ikke støtter VoLTE."</string>
      <string name="dial_vt_fail_prompt">"Nåværende nettverk ikke støtter VoLTE. Bytt til vanlig taleanrop?"</string>
      <string name="duplicate_video_call_not_allowed">Anrop kan ikke legges til på dette tidspunktet.</string>
@@ -36,7 +33,6 @@
      <string name="respond_via_sms_canned_response_4">"Kan ikke snakke nå. Ring meg senere?"</string>
      <string name="respond_via_sms_confirmation_format">Melding sendt til %s.</string>
      <string name="respond_via_sms_edittext_dialog_title">Raske svar</string>
-     <string name="respond_via_sms_menu_reset_default_activity">Tilbakestill standard-app</string>
      <string name="respond_via_sms_setting_summary" />
      <string name="respond_via_sms_setting_title">Raske svar</string>
      <string name="respond_via_sms_setting_title_2">Endre raske svar</string>

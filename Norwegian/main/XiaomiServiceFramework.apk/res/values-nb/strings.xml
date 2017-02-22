@@ -7,7 +7,6 @@
      <string name="activate_auto_sms_notification_desc_2_cards">SMS sendt fra SIM-kort %s for å aktivere \"Finn enhet\"</string>
      <string name="activate_auto_sms_notification_title">Aktivering av SIM-kort</string>
      <string name="activate_feature_call_log_sync">Synk anropshisstorikk</string>
-     <string name="activate_feature_default_name">Mi services</string>
      <string name="activate_feature_find_device">Finn enhet</string>
      <string name="activate_feature_live_talk">Telefonoppfyllingspakke</string>
      <string name="activate_feature_mms_sync">Synk SMS meldinger</string>

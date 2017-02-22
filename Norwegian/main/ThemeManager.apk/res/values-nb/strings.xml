@@ -8,7 +8,6 @@
      <string name="all_resources">Alle</string>
      <string name="all_ringtone_resource">Alle</string>
      <string name="app_name">Temaer</string>
-     <string name="apply_default_font_tip">"Bruk systemet sin gjeldende skrifttype?"</string>
      <string name="apply_font_btn_exclude">Bruk uten skrifttype</string>
      <string name="apply_font_btn_reboot">Bruk og restart</string>
      <string name="apply_font_tip">"Restart for å bruke dette temaet sin skrifttype."</string>
@@ -112,7 +111,6 @@
      <string name="payment_info">Mi Kreditter</string>
      <string name="present_local_themes">Nedlastede</string>
      <string name="present_online_themes">Online</string>
-     <string name="provision_default_theme_title">Standard</string>
      <string name="provision_loading_tips">Bare et sekund…</string>
      <string name="provision_second_title">Velg en av de fem standardtemaer</string>
      <string name="provision_title">Velg et tema</string>
@@ -125,7 +123,6 @@
      <string name="resource_account_login_before_action">Vennligst logg inn til din Xiaomi-konto.</string>
      <string name="resource_account_login_title">Logg inn</string>
      <string name="resource_account_switch">Bytt konto</string>
-     <string name="resource_alarm_default">Alarm</string>
      <string name="resource_app_name">Elementleser</string>
      <string name="resource_apply">Bruk</string>
      <string name="resource_apply_trial">Prøv nå</string>
@@ -147,7 +144,6 @@
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Legg til kommentarer</string>
      <string name="resource_comment_edit_comment_waiting">Sjekker historikk…</string>
-     <string name="resource_comment_edit_text_default">Skriv kommentar</string>
      <string name="resource_comment_edit_title">Kommentér om %1$s</string>
      <string name="resource_comment_entry_tips">Anmeldelser (%1$s)</string>
      <string name="resource_comment_expand_full_text">Utvid</string>
@@ -155,7 +151,6 @@
      <string name="resource_comment_good_comments">Positive kommentarer</string>
      <string name="resource_comment_invalid">Trykk på stjerner for å bedømme</string>
      <string name="resource_comment_loading_list">Bare et sekund…</string>
-     <string name="resource_comment_name_default">Bruker %1$s</string>
      <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Ingen kommentarer</string>
      <string name="resource_comment_publish">Send</string>
@@ -171,8 +166,6 @@
      <string name="resource_comment_upload_not_logined">Vennligst logg inn først</string>
      <string name="resource_comment_upload_success">Kommentar innsendt! Den vil bli vist etter godkjennelse</string>
      <string name="resource_continue">Neste</string>
-     <string name="resource_default">Standard ringetone</string>
-     <string name="resource_default_name">Element</string>
      <string name="resource_delete">Slett</string>
      <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
      <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementene?</string>
@@ -239,7 +232,6 @@
      <string name="resource_no_match_app">Ingen apper kan håndtere denne oppgaven.</string>
      <string name="resource_no_network_text">"Kan ikke koble til nettverket."</string>
      <string name="resource_no_result">"Finner ingenting"</string>
-     <string name="resource_notification_default">Varsler</string>
      <string name="resource_on_trial">Prøver: %1$s</string>
      <string name="resource_online">Online</string>
      <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, men gjeldende pris er fortsatt bedre enn å kjøpe elementene individuelt, vil du fortsette?</string>
@@ -257,7 +249,6 @@
      <string name="resource_ranking">Populær</string>
      <string name="resource_ranking_free">Gratis</string>
      <string name="resource_ranking_purchase">Betalt</string>
-     <string name="resource_ringtone_default">Ringetoner</string>
      <string name="resource_ringtone_playing_error">Feil</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum er dempet</string>
      <string name="resource_save_to_note">Lagre til notater</string>
@@ -370,7 +361,6 @@
      <string name="theme_component_title_wallpaper">Skrivebord</string>
      <string name="theme_current_using_has_update">"Det er en oppdatering for temaet du bruker"</string>
      <string name="theme_description_title_customized">Tilpasset</string>
-     <string name="theme_description_title_default">Standard</string>
      <string name="theme_empty_redirect">Tilbake til temabutikk</string>
      <string name="theme_favorite_add_fail">"Kan ikke legge til i favoritter"</string>
      <string name="theme_favorite_add_success">Legg til i favoritter</string>

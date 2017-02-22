@@ -180,7 +180,6 @@
      <string name="kilobyte_per_second">K/s</string>
      <string name="label_view">Vis</string>
      <string name="lland">L Land</string>
-     <string name="lockscreen_carrier_default">Ingen tjeneste</string>
      <string name="long_screenshot_not_support_msg">"Gjeldende app støtter ikke lange skjermbilder."</string>
      <string name="long_screenshot_out_of_memory_error">Mislyktes fordi bildet er for stort</string>
      <string name="long_screenshot_processing">Behandler...</string>

@@ -22,7 +22,6 @@
      <string name="attachment_gallery">Galleri</string>
      <string name="button_new_note">Ny</string>
      <string name="call_record_folder_name">Anropsopptak</string>
-     <string name="default_folder_name">Notater</string>
      <string name="delete_folder_dialog_tile">Slett mappe</string>
      <string name="dlg_delete_message">Sletter…</string>
      <string name="dlg_desc_confirm_alarm_silent">Vekkerklokke og notater vil ikke høres i stille modus når den er avslått.</string>
@@ -113,7 +112,6 @@ Klikk Legg til for å opprette mappe"</string>
      <string name="sns_choose_quality_high">Høy (%1$s)</string>
      <string name="sns_choose_quality_low">Lav</string>
      <string name="sns_choose_quality_title">Velg bildekvalitet</string>
-     <string name="sns_content_default">Del bilde</string>
      <string name="sns_desc_image_preview">Forhåndsvisning av melding</string>
      <string name="sns_desc_preview_wechat">WeChat meldingsforhåndsvisning</string>
      <string name="sns_desc_preview_weibo">Weibo meldingsforhåndvisning</string>
@@ -133,7 +131,6 @@ Klikk Legg til for å opprette mappe"</string>
      <string name="theme_title_blue">Blå</string>
      <string name="theme_title_candy">Sukkertøy</string>
      <string name="theme_title_dark">Mørk</string>
-     <string name="theme_title_default">Standard</string>
      <string name="theme_title_green">Grønn</string>
      <string name="theme_title_invitation">Invitasjon</string>
      <string name="theme_title_red">Rød</string>

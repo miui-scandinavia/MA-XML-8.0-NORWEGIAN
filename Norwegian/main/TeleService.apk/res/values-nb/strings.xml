@@ -50,7 +50,6 @@
      <string name="apn_settings">Navn på aksesspunkt</string>
      <string name="area_code_preference_be_set_summary">Gjeldende plassering: %s</string>
      <string name="area_code_preference_summary">Auto-ring områdekode</string>
-     <string name="areacode_set_default">Standard</string>
      <string name="atr_disable">Lokale trafikkmeldinger er av</string>
      <string name="atr_enable">Lokale trafikkmeldinger er på</string>
      <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -251,11 +250,6 @@
      <string name="cfnry_title">Viderekoble ved ikke noe svar</string>
      <string name="cfu_title">Alltid videresende</string>
      <string name="change">Sett</string>
-     <string name="change_default_data">Endre</string>
-     <string name="change_default_data_alert_message">"Du får ikke bruke ditt China Telecom UIM-kort."</string>
-     <string name="change_default_data_alert_title">UIM-kort må være standard</string>
-     <string name="change_default_data_card">Standard mobildata-SIM</string>
-     <string name="change_default_data_card_summary">Ser ut som du skiftet SIM-kort. Sett dette kortet som standard SIM for den mobile datatilkoblingen?</string>
      <string name="change_num">Oppdater</string>
      <string name="change_password">Endre sperrepassord</string>
      <string name="change_pin">Endre PIN-kode for SIM-kort</string>
@@ -266,7 +260,6 @@
      <string name="chose_product_summary">Ring billigere</string>
      <string name="chose_product_title">Oppfyllingspakke</string>
      <string name="clir_choices_hide_number">Skjul nummer</string>
-     <string name="clir_choices_network_default">Nettverk standard</string>
      <string name="clir_choices_show_number">Vis nummer</string>
      <string name="close">Lukk</string>
      <string name="close_dialog">OK</string>
@@ -276,10 +269,8 @@
      <string name="command_error_fdn_failure">Du må skru av FDN først</string>
      <string name="common_problem_message">Lær mer i %1$s, eller ring vår kundeservice på 400-100-5678</string>
      <string name="common_setting">Generelle innstillinger</string>
-     <string name="config_default_data_sim">Innstillinger</string>
      <string name="confirmPin2Label">Bekreft ny PIN2-kode</string>
      <string name="confirmPinLabel">Bekreft ny PIN-kode</string>
-     <string name="confirm_change_default_data">Endre</string>
      <string name="confirm_password_label">Bekreft nytt passord</string>
      <string name="confirm_pin2_label">Bekreft ny PIN2</string>
      <string name="confirm_pin_label">Bekreft ny PIN</string>
@@ -289,7 +280,6 @@
      <string name="connect_disconnect_vibrate_title">Vibrer når mottager svarer/legger på</string>
      <string name="connect_disconnect_vibrate_weak">Svakt</string>
      <string name="connect_later">Kan ikke koble til dette nettverket akkurat nå. Prøv på nytt senere.</string>
-     <string name="connection_service_default_label">Innebygd tilkoblingstjeneste</string>
      <string name="contactAddFailed">"Kan ikke legge til kontakt på SIM-kort"!</string>
      <string name="contactAddSuccess">"Kontakt ble lagt til på SIM-kort"</string>
      <string name="contactPhoto">kontaktbilde</string>
@@ -306,12 +296,6 @@
      <string name="data_enable_summary">Aktiver datatilgang i mobilnettverk</string>
      <string name="data_enabled">Mobildata</string>
      <string name="deactivate_all">Avbryt alle</string>
-     <string name="default_area_code_setting">Standard områdekode</string>
-     <string name="default_areacode">Standard områdekode</string>
-     <string name="default_call_type">CSVoice</string>
-     <string name="default_notification_description">Standardlyd (%1$s)</string>
-     <string name="default_preference_summary">&lt;Ikke angitt&gt;</string>
-     <string name="default_sim_setting">Standard SIM-innstillinger som:</string>
      <string name="delete">Slett</string>
      <string name="deleteAllSimEntries">Slett alle SIM-kort kontakter</string>
      <string name="deleteSimContacts">Sletter…</string>
@@ -747,10 +731,7 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="mobile_network_settings_not_available">Innstillingene for mobilnettverk er ikke tilgjengelige for denne brukeren</string>
      <string name="mobile_networks">Innstillinger for mobilnettverk</string>
      <string name="msim_apn_not_set">Ikke sett</string>
-     <string name="msim_default_setting">Standard innstillinger</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
-     <string name="msim_disable_sim_card_summary_default_card">"Dette kortet er for øyeblikket satt som din standard SIM. Hvis du slutter å bruke det, vil du ikke kunne utføre samtaler eller din mobildataforbindelse. Du kan stoppe dette SIM-kortet ved å sette et annet SIM-kort som ditt standard kort."</string>
-     <string name="msim_disable_sim_card_summary_non_default_card">Du kan kanskje ikke utføre samtaler eller bruke din mobildataforbindelse. Stopp bruk av %s SIM-kort?</string>
      <string name="msim_disable_sim_card_title">Stopp bruk av SIM-kort</string>
      <string name="msim_enable_sim">Skru på</string>
      <string name="msim_general_setting">Generelle innstillinger</string>
@@ -848,7 +829,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="not_activate_sim_card_content_title">"Telefonnummeret har ikke blitt verifisert"</string>
      <string name="not_activate_sim_card_content_with_operator">"Top-up package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
      <string name="not_allowed">SIM-kortet tillater ingen tilkobling til dette nettverket.</string>
-     <string name="not_change_default_data">"Ikke endre"</string>
      <string name="not_sufficient_funds_content">Not enough funds remaining in your account. Try using your SIM to make this call instead. Your carrier will charge you for this call.</string>
      <string name="not_sufficient_funds_content_title">Insufficient funds</string>
      <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
@@ -1041,7 +1021,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="preference_category_ringtone">Ringetone og vibrering</string>
      <string name="preference_data_usage_summary">Still inn dataabonnement for å kontrollere bruken av mobildata</string>
      <string name="preference_data_usage_title">Set data plan</string>
-     <string name="preference_dial_pad_touch_tone_default">Standard</string>
      <string name="preference_dial_pad_touch_tone_off">Av</string>
      <string name="preference_dial_pad_touch_tone_piano">Pianotangenter</string>
      <string name="preference_dial_pad_touch_tone_title">Tastetoner</string>
@@ -1222,7 +1201,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="respond_via_sms_cannot_empty">Avvisningsmelding kan ikke være tom</string>
      <string name="respond_via_sms_confirmation_format">Melding er sendt til %s.</string>
      <string name="respond_via_sms_edittext_dialog_title">Hurtigsvar</string>
-     <string name="respond_via_sms_menu_reset_default_activity">Gjenopprett standardinnstillingene</string>
      <string name="respond_via_sms_setting_summary" />
      <string name="respond_via_sms_setting_title">Hurtigsvar</string>
      <string name="response_error">Uventet svar fra nettverket.</string>
@@ -1299,7 +1277,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="sim_cards_network_mode_changed_title">Nytt SIM-kort oppdaget</string>
      <string name="sim_contact_name">Navn</string>
      <string name="sim_contact_number">Nummer</string>
-     <string name="sim_description_default">SIM-kort, spor: %s</string>
      <string name="sim_description_emergency_calls">Bare nødanrop</string>
      <string name="sim_info">SIM-kortinfo</string>
      <string name="sim_label_emergency_calls">Nødandrop</string>
@@ -1361,7 +1338,6 @@ for å begynne å bruke oppfyllingspakke"</string>
      <string name="sum_cfu_enabled_no_number">Nummeret er ikke tilgjengelig</string>
      <string name="sum_cw_disabled">Under samtaler, ikke varsle om innkommende anrop</string>
      <string name="sum_cw_enabled">Under samtaler, varsle om innkommende anrop</string>
-     <string name="sum_default_caller_id">La operatøren bestemme om nummeret vises ved utgående samtaler</string>
      <string name="sum_fdn">Vedlikehold liste over faste nummer</string>
      <string name="sum_fdn_change_pin">Endre PIN-kode for å styre faste nummer</string>
      <string name="sum_fdn_manage_list">Endre liste over telefonnummer</string>
@@ -1495,7 +1471,6 @@ Bruk den for å fylle opp datapakke?</string>
      <string name="voice_report_unknown_num">Ukjent nummer</string>
      <string name="voicemail">Telefonsvarer</string>
      <string name="voicemail_abbreviated">Svarer:</string>
-     <string name="voicemail_default">Min teleoperatør</string>
      <string name="voicemail_notification_ringtone_title">Lyd</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibrering</string>
      <string name="voicemail_notification_vibrate_when_title">Vibrer</string>

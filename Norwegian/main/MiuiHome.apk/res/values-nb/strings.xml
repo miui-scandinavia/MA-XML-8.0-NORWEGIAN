@@ -64,10 +64,6 @@
      <string name="current_preview">Forhåndsvisning</string>
      <string name="current_wallpaper">Gjeldende</string>
      <string name="custom_wallpaper_picker">Utforsk</string>
-     <string name="default_folder_title_game">Spill</string>
-     <string name="default_folder_title_recommend">Anbefalt</string>
-     <string name="default_folder_title_security">Sikkerhet</string>
-     <string name="default_folder_title_tools">Verktøy</string>
      <string name="delete">Slett</string>
      <string name="delete_screen">Slett skjerm</string>
      <string name="delete_wallpaper_message">Slett %1$d bakgrunn?</string>
@@ -211,7 +207,6 @@
      <string name="preferences_general_title">Generelle innstillinger</string>
      <string name="preferences_title">Launcher innstillinger</string>
      <string name="process" />
-     <string name="recommend_apps_default_title">Tom</string>
      <string name="recommend_apps_notice">Anbefalte apper</string>
      <string name="recommend_apps_notice_nodata">Anbefalte apper (Ingen data)</string>
      <string name="recommend_apps_switch_summary">Vis anbefalte apper på bunnen av skjermen</string>

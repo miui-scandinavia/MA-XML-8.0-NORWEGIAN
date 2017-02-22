@@ -6,8 +6,6 @@
      <string name="app_name">Finn enhet</string>
      <string name="captcha">Captcha</string>
      <string name="change_find_device_status_failed">"Kunne ikke låse opp. %s."</string>
-     <string name="default_lock_msg_words">Hei! Jeg har mistet telefonen min. Jeg vil kontakte deg senere. Takk for at du forstår!</string>
-     <string name="default_lock_msg_words_with_phone">Hei! Jeg har mistet telefonen min. Kan du vennligst kontakte meg? Takk!</string>
      <string name="device_locked">This device is locked</string>
      <string name="device_lost">Denne enheten er tapt</string>
      <string name="disable_find_device_error">"Kunne ikke skru av Finn enhet. %1$s"</string>

@@ -4,7 +4,6 @@
      <string name="accessibility_enter_lock_wallpaper">Trykk for å åpne daglige bakgrunnsbilder</string>
      <string name="click_to_enter_text">Trykk for å vise</string>
      <string name="confirm_pin_msg">Skriv PIN igjen</string>
-     <string name="default_lockscreen_unlock_hint_text">Dra opp for å låse opp</string>
      <string name="delete">Slett</string>
      <string name="emergency_call_string">Nødsituasjon</string>
      <string name="experimental_try_string">Prøv</string>
@@ -34,7 +33,6 @@
      <string name="invalid_sim_pin_hint">PIN bør inneholde mellom 4 og 8 tall</string>
      <string name="invalid_sim_puk_hint">PUK bør innholde minst 8 tall</string>
      <string name="keyguard_torch_cover_text">For å holde lykten på, hold På-knappen</string>
-     <string name="left_action_default_hint_text">Mi-fjernkontroll</string>
      <string name="lock_screen_date_12">EEEE, MMMM d</string>
      <string name="lock_wallpaper_learn_more">Lær mer &gt;</string>
      <string name="lock_wallpaper_see_more">Se mer &gt;</string>

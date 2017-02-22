@@ -31,7 +31,6 @@ eller skriv inn passord"</string>
      <string name="activity_title_cache_data">Mellomlager</string>
      <string name="activity_title_create_shortcut">Administrer snarveier</string>
      <string name="activity_title_deep_clean">Dyprensing</string>
-     <string name="activity_title_default_apps_manager">Standard-apper</string>
      <string name="activity_title_garbage_cleanup">Renser</string>
      <string name="activity_title_large_file">Store filer</string>
      <string name="activity_title_license_manager">Tillatelser</string>
@@ -116,7 +115,6 @@ eller skriv inn passord"</string>
      <string name="apps_item_sign_dialog_content">\"%s\" sin signatur er forskjellig fra versjonen i App Store. Slett denne appen og installer den offisielle versjonen? Merk: Å installere en applikasjon med en motstridende signatur kan føre til tap av appdata.</string>
      <string name="apps_item_sign_dialog_title">Installer Official app-versjon</string>
      <string name="apps_item_sign_install_button_text">Bytt ut</string>
-     <string name="apps_item_sms_default_set_success">Satt!</string>
      <string name="apps_item_sms_reset_button_text">Gjenopprett standard</string>
      <string name="apps_item_sms_title">Innstilinger for standard meldingsapp</string>
      <string name="apps_item_summary_sms">%s har tilgang til meldingene dine, dette kan føre til sikkerhetsproblemer</string>
@@ -570,7 +568,6 @@ eller skriv inn passord"</string>
      <string name="hints_virus_app_list_item_summary">Virus (app)</string>
      <string name="hints_virus_app_summary">%s (app)</string>
      <string name="hints_virus_descx_title">Beskrivelse:</string>
-     <string name="hints_virus_lib_update_default_summary">Siste oppdateringstid ukjent</string>
      <string name="hints_virus_name_title">Virus:</string>
      <string name="hints_virus_scan_result_descx">"Denne appen er en stor sikkerhetstrussel mot telefonen din."</string>
      <string name="history_details_title">Historikk-detaljer</string>
@@ -614,7 +611,6 @@ eller skriv inn passord"</string>
      <string name="last_check_date_yesterday">"Sist skannet i går "</string>
      <string name="last_check_never_checked">Skann nå</string>
      <string name="last_checked_date2">Skannet for %d dager siden</string>
-     <string name="last_checked_default">Skannet %s dager siden</string>
      <string name="left_precent">60%</string>
      <string name="legal_workday">Helligdag</string>
      <string name="legal_workday_invalidate">Man-Fre (helligdagsinformasjon utløpt)</string>
@@ -633,7 +629,6 @@ eller skriv inn passord"</string>
      <string name="lock_screen_warning_category">Varsel på låseskjermen</string>
      <string name="lock_screen_warning_switch_summary">Vis advarsel på låseskjerm når dataforbruket når en viss mengde</string>
      <string name="lock_screen_warning_switch_title">Vis advarsler på låseskjermen</string>
-     <string name="lock_screen_warning_value">Advarselgrense for dataforbruk</string>
      <string name="lock_settings_title">Låseskjerm og passord</string>
      <string name="lockpassword_confirm_your_password_header">Bekreft passord</string>
      <string name="lockpassword_confirm_your_pattern_header">Bekreft mønster</string>
@@ -1079,7 +1074,6 @@ eller skriv inn passord"</string>
      <string name="power_save_mode_start_time">Start</string>
      <string name="power_save_mode_summary" formatted="false">Overvåk bakgrunnsprosesser, slå av synkronisering og skjul systemanimasjoner. Batterispareren vil slå seg av automatisk når batteriet er 60% eller 100% ladet.</string>
      <string name="power_save_on_time_auto_save_title">Planlegg profilbytte</string>
-     <string name="power_save_on_time_default_time">00:00</string>
      <string name="power_save_on_time_end_time_summary">Slutt</string>
      <string name="power_save_on_time_end_time_summary_na">To</string>
      <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1215,7 +1209,6 @@ eller skriv inn passord"</string>
      <string name="pref_traffic_saving_whitelist">Unntak</string>
      <string name="pref_traffic_saving_whitelist_hint">"Disse appene sitt databruk vil ikke bli begrenset"</string>
      <string name="pref_version">Versjon %s</string>
-     <string name="pref_warning_values">Grense for databruk</string>
      <string name="pref_whitelist_setting">Data roaming-unntak</string>
      <string name="preferred_app_entries_browser">Nettleser</string>
      <string name="preferred_app_entries_camera">Kamera</string>
@@ -1248,9 +1241,6 @@ eller skriv inn passord"</string>
      <string name="quick_optimize_no_issue_subtitle">Alt ser bra ut</string>
      <string name="quick_optimize_no_issue_title">"Kunne ikke finne batteriproblemer"</string>
      <string name="quick_optimize_sub_summary_text">La %s til batteritiden</string>
-     <string name="reach_daily_limit_value_body">Reduser ditt daglige mobildataforbruk.</string>
-     <string name="reach_daily_limit_value_body_open_traffic_saving">Trykk for å skru på Datasparing.</string>
-     <string name="reach_daily_limit_value_title">Daglig datagrense nådd</string>
      <string name="read_number">86 artikler</string>
      <string name="read_unit">" artikler"</string>
      <string name="recently_reject_message">Nektet installasjon av %1$s og %2$d andre apper</string>
@@ -1314,7 +1304,6 @@ eller skriv inn passord"</string>
      <string name="safe_result_item_info_app_sign">Ingen uoffiselle apper</string>
      <string name="safe_result_item_info_app_virus">Ingen virus eller risikable apper</string>
      <string name="safe_result_item_info_sms_auth">Begrens tilgangen av tredjepartsapper til bekreftelseskoder</string>
-     <string name="safe_result_item_info_sms_default">Gjenopprett standard system-meldingsapp</string>
      <string name="safe_result_item_info_sms_url">Beskyttelse fra ondsinnede linker i meldinger</string>
      <string name="safe_result_item_info_system_antivirus">Beskyttelse fra phishing-virus</string>
      <string name="safe_result_item_info_system_root">Root-sikkerhet</string>
@@ -1417,7 +1406,6 @@ eller skriv inn passord"</string>
      <string name="summary_cloud_space_full">Hent mer lagringsplass og få tilgang til mer funksjoner</string>
      <string name="summary_cmcc_app_check">"Noen apper kunne ikke bli verifisert"</string>
      <string name="summary_data_flow">"Unngå å gå over operatøren din sin månedlige dataforbrukgrense"</string>
-     <string name="summary_default_app">"%s er ikke satt som standard systemapp"</string>
      <string name="summary_delete_cache">Noen apper krever denne dataen for å fungere normalt.</string>
      <string name="summary_delete_large_file">"Noen store filer kan være nyttige når du har ikke en internettforbindelse (f.eks. kart, planer osv). Vær sikker på at du ikke trenger denne filen."</string>
      <string name="summary_dev">Forhindre ondsinnet programvare og beskytt personlig data</string>
@@ -1489,7 +1477,6 @@ eller skriv inn passord"</string>
      <string name="tc_diagnostic_upload_success">Takk for din tilbakemelding!</string>
      <string name="tc_sms_report_direction">SMS-forespørselkode</string>
      <string name="tc_sms_report_do_report">Send</string>
-     <string name="tc_sms_report_get_default">"Du vil ikke få belastet ekstra gebyrer for SMS-meldinger brukt til mottak av databruksbalanse fra operatøren din."</string>
      <string name="tc_sms_report_get_sms">Hent SMS</string>
      <string name="tc_sms_report_get_sms2">Hent SMS</string>
      <string name="tc_sms_report_get_sms_again">Oppdater SMS</string>
@@ -1549,7 +1536,6 @@ eller skriv inn passord"</string>
      <string name="title_data_flow">Sett et dataforbruksvarsel</string>
      <string name="title_data_flow_no">Databruksovervåker er av</string>
      <string name="title_data_flow_yes">Databruksovervåker er på</string>
-     <string name="title_default_app">"MIUI %s er ikke satt som standard"</string>
      <string name="title_delete_cache">Slett mellomlager-data?</string>
      <string name="title_delete_large_file">Slett denne filen?</string>
      <string name="title_dev_no">Utviklervalg er på</string>
@@ -1593,7 +1579,6 @@ eller skriv inn passord"</string>
      <string name="toast_backup_uninstall_failed">Kunne ikke ta sikkerhtskopi av %d apper. Vent en stund og prøv igjen.</string>
      <string name="toast_backup_uninstall_success">Sikkerhetskopi og avinstallering fullført</string>
      <string name="toast_cleaner_cloudscan">Opprydder vil bruke nettbaserte definisjoner</string>
-     <string name="toast_default_app">"%1$s satt som systemets standard %2$s"</string>
      <string name="toast_flow_notification">Skrudde på Dataforbruksvarsler</string>
      <string name="toast_garbage_cleanup_success">Opprydding fullført</string>
      <string name="toast_garbage_lib">Skrudde på automatiske oppdateringer for Opprydder</string>
@@ -1664,7 +1649,6 @@ Rullet over ekstra data"</string>
      <string name="traffic_saving_history_total_money">Totalt spart</string>
      <string name="traffic_saving_history_total_money_unit">¥</string>
      <string name="traffic_saving_history_total_month">"Spart denne måneden: "</string>
-     <string name="traffic_saving_history_total_month_default">"Gjennomsnittlig spart denne måneden:"</string>
      <string name="traffic_saving_history_total_rate">Sats</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Data spart</string>

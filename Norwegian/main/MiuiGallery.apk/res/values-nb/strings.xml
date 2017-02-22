@@ -723,7 +723,6 @@
      <string name="dcim_viva_pics">VIVA</string>
      <string name="debugging_tip">Genrerer feilsøkingsdata</string>
      <string name="defalt_local_mobile">mobil</string>
-     <string name="default_album_name">Nytt album</string>
      <string name="delete">Slett</string>
      <string name="delete_album_failed">Album slettet.</string>
      <string name="delete_album_msg_format">Slett \"%2$s\" album %1$s%3$s?</string>
@@ -1426,7 +1425,6 @@
      <string name="slideshow_interval_dialog_title">Lysbilde tidsinterval skal være større enn 0 sekunder</string>
      <string name="slideshow_interval_invalid">Ugyldig tidsinterval satt, skal være mellom 1~3600. Fortsetter med standard interval</string>
      <string name="slideshow_interval_title">Vis hvert lysbilde i</string>
-     <string name="slideshow_interval_value">%1$d sekunder</string>
      <string name="slideshow_repeat_mode">Gjenta</string>
      <string name="slideshow_time_select_title">Velg lysbildeshow-tid</string>
      <string name="slideshow_time_title">Lysbildeshow-tid</string>

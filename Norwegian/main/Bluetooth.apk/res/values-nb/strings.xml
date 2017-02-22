@@ -61,7 +61,6 @@
      <string name="bt_toast_5">Sender %1$s filer til \"%2$s\"</string>
      <string name="bt_toast_6">Sending av fil til \"%1$s\" stoppet</string>
      <string name="btopp_live_folder">Bluetooth mottatt</string>
-     <string name="defaultname">Bil</string>
      <string name="deleteAll_record">Slett alle poster</string>
      <string name="delete_record">Slett post</string>
      <string name="device_picker">Bluetooth-enhetsvelger</string>

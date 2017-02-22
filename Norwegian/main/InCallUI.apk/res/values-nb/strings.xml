@@ -37,7 +37,6 @@
      <string name="antispam_notification_title">Ukjent nummer</string>
      <string name="antispam_provider">Identifisert av %s</string>
      <string name="apn_settings">Navn på aksesspunkt</string>
-     <string name="areacode_set_default">Set as default</string>
      <string name="atr_disable">Lokale trafikkmeldinger deaktivert</string>
      <string name="atr_enable">Lokale trafikkmeldinger aktivert</string>
      <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -165,8 +164,6 @@
      <string name="custom_message_send">Send</string>
      <string name="data_enable_summary">Aktiver datatilgang i mobilnettverk</string>
      <string name="data_enabled">Data aktivert</string>
-     <string name="default_area_code_setting">Default area code</string>
-     <string name="default_notification_description">Standard lyd (%1$s)</string>
      <string name="delete_fdn_contact">Slett programmert telefonnummer</string>
      <string name="deleting_fdn_contact">Sletter programmert telefonnummer ...</string>
      <string name="description_delete_button">tilbaketast</string>
@@ -408,7 +405,6 @@
      <string name="modify_call_option_vt_tx">Motta video</string>
      <string name="modify_call_prompt_no">Nei</string>
      <string name="modify_call_prompt_yes">Ja</string>
-     <string name="msim_select_default_time_left">(%d s)</string>
      <string name="multi_category_disable">Multikategori deaktivert</string>
      <string name="multi_category_enable">Multikategori aktivert</string>
      <string name="name">Navn</string>
