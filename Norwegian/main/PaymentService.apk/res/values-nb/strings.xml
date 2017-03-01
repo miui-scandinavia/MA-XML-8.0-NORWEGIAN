@@ -251,6 +251,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
      <string name="prepaid_picker_hint_2_1">2.</string>
      <string name="prepaid_picker_hint_2_2_a">"Valgt pålydende verdi må stemme med verdien på kontantkortet. Å velge en annen verdi vil annullere kortet. Denne handlingen kan ikke angres."</string>
      <string name="prepaid_picker_hint_2_2_b">Hvis pålydende verdi på kontantkortet ikke er &lt;font color=red&gt;￥%1$s&lt;/font&gt;, vil kortet bli annullert. Xiaomi er ikke ansvarlige for pengetap på grunn av brukerfeil.</string>
+     <string name="prepaid_picker_title_default">Velg mengde</string>
      <string name="prepaid_picker_title_selected">mengde</string>
      <string name="process_expired">"Hvor gikk du? Operasjonen har blitt tidsavbrutt."</string>
      <string name="processing">Behandler</string>

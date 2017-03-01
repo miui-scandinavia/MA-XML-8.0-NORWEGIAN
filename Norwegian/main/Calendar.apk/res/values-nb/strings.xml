@@ -57,6 +57,7 @@
      <string name="birthday_event_description_day_before_yesterday">Dagen før i går</string>
      <string name="birthday_event_description_days_ago">%1$s dager siden</string>
      <string name="birthday_event_description_days_later">%1$s dager seneere</string>
+     <string name="birthday_event_description_default">"%1$s sin %2$s %3$s %4$s"</string>
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_event_description_special">"%1$s er %2$s sin %3$s %4$s %5$s"</string>
@@ -90,6 +91,7 @@
      <string name="can_not_modify_repeating_acrossing_days_event">"Kan ikke endre flere dagers-hendelse"</string>
      <string name="change_response_title">Endre svar</string>
      <string name="choose_event_color_label">Velg aktivitetsfarge</string>
+     <string name="color_picker_default_title">Velg en farge</string>
      <string name="color_swatch_description">Farge %1$d</string>
      <string name="color_swatch_description_selected">Farge %1$d er valgt</string>
      <string name="copy_db">Send database</string>
@@ -116,6 +118,7 @@
      <string name="day_picker_description">Månedsrutenett med dager</string>
      <string name="day_view">Dag</string>
      <string name="day_view_new_event_hint">+ Ny hendelse</string>
+     <string name="default_reminder_mode">Påminnelser</string>
      <string name="delete_calendar">Fjern</string>
      <string name="delete_label">Slett</string>
      <string name="delete_recurring_event_title">Slett %s?</string>
@@ -160,6 +163,7 @@
      <string name="event_action_edit">Edit</string>
      <string name="event_all_day_label">Hele dagen</string>
      <string name="event_color_picker_dialog_title">Aktivitetsfarge</string>
+     <string name="event_color_set_to_default">Angi som standard kalenderfarge</string>
      <string name="event_create">Ny hendelse</string>
      <string name="event_delete">Slett hendelse</string>
      <string name="event_edit">Rediger hendelse</string>
@@ -295,11 +299,15 @@
      <string name="preferences_clear_search_history_summary">Fjern alle utførte søk</string>
      <string name="preferences_clear_search_history_title">Fjern søkehistorikk</string>
      <string name="preferences_debug_category">Feilsøking</string>
+     <string name="preferences_default_reminder_default">10</string>
+     <string name="preferences_default_reminder_dialog">Standard påmindelsestid</string>
+     <string name="preferences_default_reminder_title">Standard påmindelsestid</string>
      <string name="preferences_experimental_category">På forsøksstadiet</string>
      <string name="preferences_general_title">Innstillinger for kalendervisning</string>
      <string name="preferences_hide_declined_title">Skjul avvist hendelse.</string>
      <string name="preferences_history_events">Show historic events</string>
      <string name="preferences_holidays">Show holidays</string>
+     <string name="preferences_home_tz_default">America/Los_Angeles</string>
      <string name="preferences_home_tz_title">Egen tidssone</string>
      <string name="preferences_import_credit_repayment">信用卡还款</string>
      <string name="preferences_reminder_title">Innstillinger for påmindelser</string>
@@ -315,6 +323,7 @@
      <string name="preferences_title">Kalender</string>
      <string name="preferences_use_home_tz_descrip">Viser kalenderhendelseer i din tidssone, når du reiser</string>
      <string name="preferences_use_home_tz_title">Bruk egen tidssone</string>
+     <string name="preferences_week_start_day_default">-1</string>
      <string name="preferences_week_start_day_dialog">Uken starter</string>
      <string name="preferences_week_start_day_title">Uken starter</string>
      <string name="presence_label">Vis meg som</string>

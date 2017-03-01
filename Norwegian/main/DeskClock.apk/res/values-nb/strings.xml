@@ -70,6 +70,9 @@
      <string name="day_concat">", "</string>
      <string name="day_picker_description">Månedsrutenett med dager</string>
      <string name="days">%s dager</string>
+     <string name="default_alarm_alert">Alarm-tema</string>
+     <string name="default_alarm_title">Standard alarmtone</string>
+     <string name="default_label">Alarm</string>
      <string name="delelte_selected_timezone">Er du sikker på du vil slette valgte tidssone(r)?</string>
      <string name="delete">Slett</string>
      <string name="delete_alarm">Slett alarm</string>

@@ -52,6 +52,7 @@
      <string name="caller_app">Tilatelsesforespørsel fra %1$s</string>
      <string name="cancel">Avbryt</string>
      <string name="current_permission_template">%1$s av %2$s</string>
+     <string name="default_permission_description">utføre en ukjent handling</string>
      <string name="devicePerms">Enhetstilgang</string>
      <string name="dlg_app_replacement_statement">"Appen du installerer vil overskrive en annen appAlle brukerinnstillingenr vil bli overskrevet."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s).Alle brukerinnstillinger vil bli tatt vare på."</string>

@@ -50,6 +50,7 @@
      <string name="hide_mode_ultimate_desc">Ultimate modus er på. Programmene i bakgrunnen vil bli frosset. Slå av batterisparing for å avslutte Ultimate modus.</string>
      <string name="high">Ytelse</string>
      <string name="hints_loading_text">Bare et sekund…</string>
+     <string name="invalid_size_value">"Kunne ikke hente pakkestørrelse."</string>
      <string name="keep_connect_description">Apper kan bruke nettverket i bakgrunnen</string>
      <string name="keep_connect_title">Forbli tilkoblet</string>
      <string name="location_disable_description">Bakgrunnsprogrammer kan bare få tilgang til stedstjenester for en kort tid hvis kontinuerlig tilgang er begrenset</string>

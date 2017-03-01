@@ -51,6 +51,7 @@ Hvis du velger å ikke bruke personlige annonser, vil mengden av reklame ikke re
      <string name="accessibility_screen_magnification_enable">Forstørringsgester</string>
      <string name="accessibility_screen_magnification_summary">"Når denne funksjonen er aktivert, kan du zoome inn og ut ved å trykke tre ganger på skjermen.Når du har zoomet inn kan du:"&lt;li&gt;&lt;ul&gt;"Panorere: Dra to eller flere fingre over skjermen."&lt;li&gt;Tilpasse innzoomingen: Knip sammen eller spre fra hverandre to eller flere fingre.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"Du kan ogs&amp;#229; mildertidig forst&amp;#248;rre det som er under fingeren din ved &amp;#229; trykke tre ganger og holde fingeren nede. Mens du forst&amp;#248;rrer p&amp;#229; denne m&amp;#229;ten kan du dra fingeren rundt for &amp;#229; se p&amp;#229; forskjellige deler av skjermen. L&amp;#248;ft fingeren din for &amp;#229; g&amp;#229; tilbake til den forrige visningen.Merk: &amp;#197; trykke tre ganger for &amp;#229; forst&amp;#248;rre fungerer overalt unntatt p&amp;#229; tastaturet og navigasjonsraden."</string>
      <string name="accessibility_screen_magnification_title">Forstørrelsesbevegelser</string>
+     <string name="accessibility_service_default_description">Beskrivelse ble ikke oppgitt.</string>
      <string name="accessibility_service_no_apps_message">Talkback gir muntlig tilbakemelding for å hjelpe blinde og svaksynte brukere. Vil du installere denne appen gratis fra Google Play?</string>
      <string name="accessibility_service_no_apps_title">Trenger du en skjermleser?</string>
      <string name="accessibility_services_title">Tjenester</string>
@@ -213,6 +214,7 @@ Hvis du velger å ikke bruke personlige annonser, vil mengden av reklame ikke re
      <string name="app_launch_domain_links_title">Åpning av linker</string>
      <string name="app_launch_open_domain_urls_summary">Åpne uten å spørre</string>
      <string name="app_launch_open_domain_urls_title">Åpne støttede linker</string>
+     <string name="app_launch_other_defaults_title">Andre standarder</string>
      <string name="app_launch_supported_domain_urls_title">Støttede linker</string>
      <string name="app_link_open_always">Åpne med denne appen</string>
      <string name="app_link_open_ask">Spør hver gang</string>
@@ -333,6 +335,7 @@ Hvis du velger å ikke bruke personlige annonser, vil mengden av reklame ikke re
      <string name="background_location_requests_title">Tillat plasseringstilgang i bakgrunnen</string>
      <string name="background_location_select_apps">Velg alle</string>
      <string name="background_process_stop_description">Dette er en gammel app-prosess som fortsatt kjører i tilfelle den trengs igjen. Det er vanligvis ingen grunn til å stoppe den.</string>
+     <string name="backup_configure_account_default_summary">Ingen konto lagrer for øyeblikket sikkerhetskopierte data</string>
      <string name="backup_configure_account_title">Sikkerhetskopikonto</string>
      <string name="backup_data_summary">Sikkerhetskopier appdata, Wi-Fi-passord og andre innstillinger til Googles tjenere</string>
      <string name="backup_data_title">Sikkerhetskopier data</string>
@@ -574,6 +577,8 @@ Hvis du velger å ikke bruke personlige annonser, vil mengden av reklame ikke re
      <string name="bluetooth_pb_remember_choice">Ikke spør igjen</string>
      <string name="bluetooth_permission_request">Bluetooth-tillatelse</string>
      <string name="bluetooth_phonebook_request">Forespørsel om tilgang for telefonbok</string>
+     <string name="bluetooth_pin_values_hint">Vanligvis 0000 eller 1234</string>
+     <string name="bluetooth_pin_values_hint_16_digits">Må bestå av 16 siffer</string>
      <string name="bluetooth_preference_connected_devices">Tilkoblede enheter</string>
      <string name="bluetooth_preference_device_settings">Enhetsinnstillinger</string>
      <string name="bluetooth_preference_found_devices">Tilgjengelige enheter</string>
@@ -1033,6 +1038,17 @@ Hvis du velger å ikke bruke personlige annonser, vil mengden av reklame ikke re
      <string name="debug_monitoring_category">Overvåking</string>
      <string name="debug_networking_category">Nettverk</string>
      <string name="debug_view_attributes">Aktivér inspeksjon av visningsattributtet</string>
+     <string name="default_app">(Default)</string>
+     <string name="default_apps_title">Standardapper</string>
+     <string name="default_assist_none">Ingen</string>
+     <string name="default_assist_title">Assistentapp</string>
+     <string name="default_browser_title">Nettleserapp</string>
+     <string name="default_browser_title_none">Ingen standard nettleser</string>
+     <string name="default_emergency_app">Nødapp</string>
+     <string name="default_input_method">Velg standard input metode</string>
+     <string name="default_phone_title">Phone app</string>
+     <string name="default_sound">Standardlyd</string>
+     <string name="default_usb_mode">USB-tilkobling</string>
      <string name="delete">Slett</string>
      <string name="delete_fingerprint_confirm_msg">Slett fingeravtrykk?</string>
      <string name="delete_fingerprint_text">Fjern fingeravtrykk</string>
@@ -1065,6 +1081,7 @@ Hvis du velger å ikke bruke personlige annonser, vil mengden av reklame ikke re
      <string name="device_cpu8_info">"Åtte-kjerner "</string>
      <string name="device_edit_title">Endre enhetsnavn</string>
      <string name="device_feedback">Send tilbakemelding om enheten</string>
+     <string name="device_info_default">Ukjent</string>
      <string name="device_info_label">Enhetsinformasjon</string>
      <string name="device_info_not_available">Ikke tilgjengelig</string>
      <string name="device_info_settings">Telefonstatus</string>
@@ -1622,6 +1639,7 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="internal_storage">Intern lagring</string>
      <string name="internal_storage_sentence">Intern lagring</string>
      <string name="invalid_location">Det installerte stedet er ikke gyldig.</string>
+     <string name="invalid_size_value">Kunne ikke beregne pakkestørrelsen.</string>
      <string name="ipaddr_label">IPaddr:</string>
      <string name="join_many_items_first">%1$s, %2$s</string>
      <string name="join_many_items_last">%1$s og %2$s</string>
@@ -1634,6 +1652,7 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="key_position_cat">Knappe-posisjon</string>
      <string name="key_settings">Knapper</string>
      <string name="key_settings_title">Knapper</string>
+     <string name="keyboard_layout_default_label">Standard</string>
      <string name="keyboard_layout_dialog_setup_button">Konfigurer tastaturoppsett</string>
      <string name="keyboard_layout_dialog_switch_hint">Bytt ved å trykke på Ctrl+Mellomromstasten</string>
      <string name="keyboard_layout_dialog_title">Velg et tastaturoppsett</string>
@@ -1654,6 +1673,8 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="keywords_app_permissions">sikkerhet for apptillatelser</string>
      <string name="keywords_battery">strøm</string>
      <string name="keywords_date_and_time">klokke</string>
+     <string name="keywords_default_apps">standardapper</string>
+     <string name="keywords_default_phone_app">standard for telefonoppringninger</string>
      <string name="keywords_display">berøringsskjerm</string>
      <string name="keywords_display_auto_brightness">nedtonet berøringsskjerm</string>
      <string name="keywords_display_brightness_level">nedtonet berøringsskjerm</string>
@@ -1669,6 +1690,7 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="keywords_location">sted i nærheten logg rapportering</string>
      <string name="keywords_location_mode">nøyaktighet</string>
      <string name="keywords_lockscreen">dra passord mønster PIN-kode</string>
+     <string name="keywords_more_default_sms_app">tekstmelding</string>
      <string name="keywords_more_mobile_networks">mobiltelefon mobilleverandør trådløst</string>
      <string name="keywords_network_reset">tilbakestill gjenopprett fabrikk</string>
      <string name="keywords_printing">skriver</string>
@@ -1692,7 +1714,10 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="large_font">Stor</string>
      <string name="last_synced">Sist synkronisert %1$s</string>
      <string name="last_time_used_label">Sist brukt</string>
+     <string name="launch_by_default">Åpne som standard</string>
      <string name="launch_count_label">Antall</string>
+     <string name="launch_defaults_none">Ingen standardvalg er angitt</string>
+     <string name="launch_defaults_some">Noen standardvalg er angitt</string>
      <string name="launching_cit">Åpner CIT</string>
      <string name="launching_pho">Åpner telefoninformasjon, vennligst vent.</string>
      <string name="launching_rep">Rapporterer…</string>
@@ -1737,6 +1762,7 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="local_backup_password_toast_validation_failure">Det oppsto en feil under angivelsen av sikkerhetspassordet</string>
      <string name="local_backup_section_summary">Sikkerhetshopier systeminnstillinger, kontoer og apper</string>
      <string name="local_backup_section_title">Lokal sikkerhetskopi</string>
+     <string name="locale_default">Standard</string>
      <string name="locale_settings">Region</string>
      <string name="location_access_off">Av</string>
      <string name="location_access_on">På</string>
@@ -2232,6 +2258,9 @@ Det er andre brukere tilstede på denne enheten.
      <string name="nfc_how_it_works_title">Betaling ved terminaler</string>
      <string name="nfc_more_title">Mr</string>
      <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
+     <string name="nfc_payment_default">Standardapp for betaling</string>
+     <string name="nfc_payment_default_not_set">Ikke angitt</string>
+     <string name="nfc_payment_favor_default">Alltid</string>
      <string name="nfc_payment_favor_foreground">Prioriter forgrunnsapper</string>
      <string name="nfc_payment_favor_open">Unntatt når en annen betalingsapp er åpen</string>
      <string name="nfc_payment_how_it_works">Slik fungerer det</string>
@@ -2239,7 +2268,11 @@ Det er andre brukere tilstede på denne enheten.
      <string name="nfc_payment_menu_item_add_service">Finn apper</string>
      <string name="nfc_payment_no_apps">Betal med bare én berøring</string>
      <string name="nfc_payment_pay_with">På en sveipebetalingsterminal betaler du med</string>
+     <string name="nfc_payment_set_default">Vil du alltid bruke %1$s til berøringsbetaling?</string>
+     <string name="nfc_payment_set_default_instead_of">Bruk %1$s i stedet for %2$s til berøringsbetaling?</string>
+     <string name="nfc_payment_set_default_label">Angi som foretrukket?</string>
      <string name="nfc_payment_settings_title">Berøringsbetaling</string>
+     <string name="nfc_payment_use_default">Bruk standard</string>
      <string name="nfc_quick_toggle_summary">Tillat datautveksling når nettbrettet berører en annen enhet</string>
      <string name="nfc_quick_toggle_title">NFC</string>
      <string name="nfc_se_route_title">Kilde for sikkerhetselement</string>
@@ -2255,6 +2288,7 @@ Det er andre brukere tilstede på denne enheten.
      <string name="no_battery_summary">Ingen bruk av batteriet siden siste fulle opplading</string>
      <string name="no_condition_providers">Ingen apper som angir vlkår er installert.</string>
      <string name="no_data_usage">Ingen data er brukt</string>
+     <string name="no_default_apps">Ingen standardapper</string>
      <string name="no_device_admins">Ingen tilgjengelige enhetsadministratorer</string>
      <string name="no_internet_access_remember">Ikke spør igjen for dette nettverket</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
@@ -2652,6 +2686,7 @@ Det er andre brukere tilstede på denne enheten.
      <string name="pref_volume_wake_title">Vekk opp med volum-knapper</string>
      <string name="preference_change_password_title">Endre passord</string>
      <string name="preferred_app_settings">Standard</string>
+     <string name="preferred_app_settings_default">Standard</string>
      <string name="preferred_app_settings_reset">Gjenopprett til standard</string>
      <string name="preferred_app_settings_reset_button">Reset</string>
      <string name="preferred_app_settings_reset_message">Standard app-innstillinger vil bli gjenopprettet til MIUI sine fabrikkinnstillinger</string>
@@ -2756,6 +2791,7 @@ Det er andre brukere tilstede på denne enheten.
      <string name="provision_skip">Hopp over</string>
      <string name="proxy_action_text">Ferdig</string>
      <string name="proxy_clear_text">Tøm</string>
+     <string name="proxy_defaultView_text">Gjenopprett standardinnstillinger</string>
      <string name="proxy_error">NB</string>
      <string name="proxy_error_dismiss">OK</string>
      <string name="proxy_error_empty_host_set_port">Feltet for portnummer må være tomt om feltet for vertsnavn er tomt.</string>
@@ -2891,6 +2927,8 @@ Det er andre brukere tilstede på denne enheten.
      <string name="reset_network_title">Tilbakestill nettverksinnstillingene</string>
      <string name="resolver_settings_label">Sorter</string>
      <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
+     <string name="restore_default_apn">Gjenoppretter standard APN-innstillinger.</string>
+     <string name="restore_default_apn_completed">Tilbakestilling av standard APN-innstillinger er fullført.</string>
      <string name="restr_pin_enter_admin_pin">Skriv inn administrator-PIN-koden</string>
      <string name="restrict_background_data_dialog_summary">Apper kjørende i bakgrunnen kan ikke motta meldinger</string>
      <string name="restrict_background_data_notification_summary">"Apper kan ikke koble til nettverket hvis bakgrunnsdata er begrenset</string>
@@ -3467,6 +3505,9 @@ Muligens feil kode."</string>
      <string name="smallwindow_smartcover_title">Gjennomsiktlig front-deksel</string>
      <string name="smartcover_sensitive_title">Smartdeksel-modus</string>
      <string name="sms_application_title">Standard SMS-app</string>
+     <string name="sms_change_default_dialog_text" formatted="false">Vil du bruke %s i stedet for %s for SMS?</string>
+     <string name="sms_change_default_dialog_title">Vil du bytte SMS-app?</string>
+     <string name="sms_change_default_no_previous_dialog_text">Vil du bruke %s som SMS-app?</string>
      <string name="sms_delivered_sound_dialog_title">Velg meldingmottakslyd</string>
      <string name="sms_delivered_sound_title">Melding levert</string>
      <string name="sms_messages_title">Tekstmeldinger</string>
@@ -3851,6 +3892,16 @@ Vurder å bruke raskere ^1 for bedre ytelse."</string>
      <string name="trusted_credentials_user_tab">Bruker</string>
      <string name="try_again">Prøv på nytt.</string>
      <string name="tts_data_installed_summary">Datafilene som behøves for talesynese er allerede korrekt installert</string>
+     <string name="tts_default_lang_summary">Velger språkspesifikk stemme</string>
+     <string name="tts_default_lang_title">Språk</string>
+     <string name="tts_default_pitch_summary">Endrer tonehøyden teksten sies med</string>
+     <string name="tts_default_pitch_title">Stemmeleie</string>
+     <string name="tts_default_rate_summary">Hvor raskt teksten leses</string>
+     <string name="tts_default_rate_title">Talehastighet</string>
+     <string name="tts_default_sample_string">Dette er et eksempel på talesyntese.</string>
+     <string name="tts_default_settings_section">Standardvalg</string>
+     <string name="tts_default_synth_summary">Angir hvilken talesyntesemotor som skal brukes for uttalt tekst</string>
+     <string name="tts_default_synth_title">Standardmotor</string>
      <string name="tts_engine_error">Du har valgt en motor som ikke kan kjøre.</string>
      <string name="tts_engine_error_config">Konfigurer</string>
      <string name="tts_engine_error_reselect">Velg en annen motor</string>
@@ -4034,6 +4085,8 @@ Vurder å bruke raskere ^1 for bedre ytelse."</string>
      <string name="usb_use_charging_only">Bare lading</string>
      <string name="usb_use_file_transfers">Overfør filer (MTP)</string>
      <string name="usb_use_photo_transfers">Overfør bilder (PTP)</string>
+     <string name="use_default_tts_settings_summary">Standardinnstillingene nedenfor overstyrer innstillingene for appen</string>
+     <string name="use_default_tts_settings_title">Overstyr innstillinger</string>
      <string name="use_location_summary">La Google bruke posisjonen din til å forbedre søkeresultatene og andre tjenester</string>
      <string name="use_location_title">Posisjon og Google-søk</string>
      <string name="use_nuplayer">Bruk NuPlayer (eksperim.)</string>
@@ -4612,6 +4665,7 @@ Vurder å bruke raskere ^1 for bedre ytelse."</string>
      <string name="wifi_switch_to_gsm_title">Bruk GSM?</string>
      <string name="wifi_tether_checkbox_text">Flyttbar Wi-Fi-sone</string>
      <string name="wifi_tether_configure_ap_text">Konfigurer Wi-Fi-sone</string>
+     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
      <string name="wifi_tether_configure_subtext">%1$s %2$s flyttbar Wi-Fi-sone</string>
      <string name="wifi_tether_enabled_subtext">Flyttbar trådløs sone %1$s er aktiv</string>
      <string name="wifi_tether_failed_subtext">Feil med flyttbar Wi-Fi-sone</string>
@@ -4711,6 +4765,7 @@ Vurder å bruke raskere ^1 for bedre ytelse."</string>
      <string name="zen_mode_automation_settings_title">Automatiske regler</string>
      <string name="zen_mode_calls">Anrop</string>
      <string name="zen_mode_configure_rule">Konfigurer regel</string>
+     <string name="zen_mode_default_option">Inntil du slår av funksjonen</string>
      <string name="zen_mode_delete_rule">Slett regel</string>
      <string name="zen_mode_delete_rule_button">Slett</string>
      <string name="zen_mode_delete_rule_confirmation">Vil du slette «%1$s»-regelen?</string>

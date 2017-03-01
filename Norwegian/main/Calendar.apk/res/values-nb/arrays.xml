@@ -31,6 +31,18 @@
         <item>Denne og fremtidige hendelser</item>
         <item>Alle hendelsene</item>
      </string-array>
+     <string-array name="miui_preferences_default_reminder_labels">
+        <item>Ingen påminnelse</item>
+        <item>0 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>1 dag</item>
+        <item>2 dager</item>
+        <item>1 uke</item>
+     </string-array>
      <string-array name="miui_reminder_minutes_labels">
         <item>Ingen påminnelse</item>
         <item>0 minutter</item>
@@ -55,6 +67,18 @@
         <item>Kun når lydløs</item>
         <item>Aldri</item>
      </string-array>
+     <string-array name="preferences_default_reminder_labels">
+        <item>Ingen påminnelse</item>
+        <item>0 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>1 dag</item>
+        <item>2 dager</item>
+        <item>1 uke</item>
+     </string-array>
      <string-array name="preferences_skip_reminders_labels">
         <item>Bare hvis avvist</item>
         <item>Hvis avvist eller ikke svart på</item>
@@ -64,6 +88,12 @@
         <item>Lørdag</item>
         <item>Søndag</item>
         <item>Mandag</item>
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Blir et par minutter forsinket.</item>
+        <item>Er der om 10 minutter.</item>
+        <item>Bare begynn uten meg.</item>
+        <item>"Beklager, rekker det ikke. Vi må avtale ny tid."</item>
      </string-array>
      <string-array name="recurrence_freq">
         <item>GJENTA DAGLIG</item>

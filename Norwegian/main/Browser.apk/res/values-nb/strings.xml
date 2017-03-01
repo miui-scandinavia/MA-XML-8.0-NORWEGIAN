@@ -321,6 +321,8 @@ Sider du er inne på, vil ikke vises i historikken."</string>
      <string name="download_btn_select_none">Avvelg alle</string>
      <string name="download_complete">Nedlastning fullført</string>
      <string name="download_completed">Lastet ned</string>
+     <string name="download_default_path_txt">Husk dette valget</string>
+     <string name="download_dialog_default_path_invalid">"Nedlastningsplasseringen du valgte er ugyldig. Lagrer på standard plassering…</string>
      <string name="download_dialog_file_length_hint_txt">"Filstørrelse: "</string>
      <string name="download_dialog_file_length_lessthan1kb">Mindre enn 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">"Kunne ikke laste ned"</string>
@@ -710,11 +712,19 @@ Vil du forlate denne siden?"</string>
      <string name="pref_enable_novels">Bøker</string>
      <string name="pref_enable_videos">Videoer</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Avslutt ved lukking av siste fane</string>
+     <string name="pref_extras_reset_default">Tilbakestill til standard</string>
+     <string name="pref_extras_reset_default_dlg">Vil du tilbakestille til standard verdier?</string>
+     <string name="pref_extras_reset_default_summary">Tilbakestill standardinnstillinger</string>
+     <string name="pref_extras_reset_default_title">Andre</string>
      <string name="pref_extras_send_feedback">Send tilbakemelding</string>
      <string name="pref_extras_title">Avansert</string>
      <string name="pref_extras_title_version">Versjonsinfo</string>
      <string name="pref_extras_website_settings">Innstillinger for nettsted</string>
      <string name="pref_extras_website_settings_summary">Advanced settings for individual websites</string>
+     <string name="pref_file_downlaod_save_is_reset_default_settings">"Lagre filer i Nettleserens standardplassering"</string>
+     <string name="pref_file_downlaod_save_reset_default_settings">Gjenopprett standardplassering</string>
+     <string name="pref_file_download_default_path_prefix">Standard plassering: %s</string>
+     <string name="pref_file_download_save_modify_default_path">Nedlastningsmappe</string>
      <string name="pref_file_download_save_title">Last ned og lagre fil</string>
      <string name="pref_fling_on_border_enabled">Trekk fra kanten for å bytte fane</string>
      <string name="pref_fling_on_border_enabled_title_summary">Trekk fra kanten av skjermen for å bytte mellom faner</string>
@@ -830,6 +840,7 @@ Vil du forlate denne siden?"</string>
      <string name="quicklink_saved_before">Side lagt til i startside</string>
      <string name="quicklink_user_define_webpage_title">Navn</string>
      <string name="quicklink_user_define_webpage_url">URL</string>
+     <string name="quicklinks_group_default_subtitle">Tom</string>
      <string name="quicklinks_management">Populære</string>
      <string name="quicklinks_most_visited">Legg til mest besøkte sider på startsiden</string>
      <string name="quicklinks_most_visited_subtitle">Vis mest besøkte sider i Ny fane</string>
@@ -1041,6 +1052,7 @@ Vil du forlate denne siden?"</string>
      <string name="v5_edit_mode_title_empty">0 valgte</string>
      <string name="v5_select_all">Avvelg alle</string>
      <string name="version_check_button_checking">Sjekker…</string>
+     <string name="version_check_button_default">Sjekk etter oppdateringer</string>
      <string name="version_check_button_download_failed">Fortsett nedlastning</string>
      <string name="version_check_button_downloading">Laster ned…</string>
      <string name="version_check_button_install">Installer</string>

@@ -11,6 +11,7 @@
      <string name="debug_dump_email_subject">Kontakt-DB vedlagt</string>
      <string name="debug_dump_start_button">Start</string>
      <string name="debug_dump_title">Kopier kontakt-database</string>
+     <string name="default_directory">Kontakter</string>
      <string name="edit_contact">Rediger kontakt</string>
      <string name="local_invisible_directory">Andre</string>
      <string name="pound_search_tip">Tast inn nummer etter # for å søke i kontakter</string>

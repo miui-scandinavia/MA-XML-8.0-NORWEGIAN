@@ -227,6 +227,7 @@
      <string name="paused_waiting_to_retry">Venter på å prøve igjen</string>
      <string name="period_of_validity">Gyldighetsperiode:</string>
      <string name="play">Spill av</string>
+     <string name="pref_download_revert_default">Gjenopprett standardinnstillinger</string>
      <string name="pref_download_settings_title">Beskjed om dataforbruk</string>
      <string name="pref_download_storage_path">Opprett en ny mappe for nedlastninger</string>
      <string name="pref_sniff_shortcut">Opprett snarvei</string>
@@ -262,6 +263,7 @@
      <string name="resume_download">Fortsett</string>
      <string name="retry_after_network_available">Prøv igjen når forbindelse er tilgjengelig</string>
      <string name="retry_download">Prøv igjen</string>
+     <string name="revert_default">Tilbakestill</string>
      <string name="revert_download_path">Bruk standard plassering for nedlastninger?</string>
      <string name="save_path">"Lagre nedlastninger til: "</string>
      <string name="save_text">Spar ￥%1$s</string>
@@ -370,6 +372,7 @@
      <string name="text_showmore_infoflow">Vis flere kilder</string>
      <string name="third_web_cancel">Avbryt</string>
      <string name="third_web_confirm">OK</string>
+     <string name="third_web_default">Husk denne plasseringen</string>
      <string name="third_web_filename_hint">Navn</string>
      <string name="third_web_filesize">Størrelse</string>
      <string name="third_web_savepath">Plassering</string>

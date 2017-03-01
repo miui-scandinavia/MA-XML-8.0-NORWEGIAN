@@ -275,6 +275,7 @@ Du må laste inn en utviklerversjon av MIUI for å tillate rot-tilgang."</string
      <string name="SysOpt_Boost_Receiver">Bakgrunn</string>
      <string name="app_name">Tillatelsebehandling</string>
      <string name="current_permission_template">%1$s of %2$s</string>
+     <string name="default_permission_description">utføre en ukjent handling</string>
      <string name="grant_confirm_question">Ønsker du å gi følgende tillatelser? Det vil gi tilgang til:</string>
      <string name="grant_dialog_button_allow">Tillat</string>
      <string name="grant_dialog_button_deny">Nekt</string>

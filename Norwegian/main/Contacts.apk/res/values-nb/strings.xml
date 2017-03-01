@@ -4,6 +4,7 @@
      <string name="about_card_title">Info</string>
      <string name="accessibility_calllog_detail">Detaljer om anropshistorikk</string>
      <string name="account_container_title">Fra følgende konto</string>
+     <string name="account_default">Telefon</string>
      <string name="account_phone">Kun telefon (usynkroniserede)</string>
      <string name="account_sim">SIM-kort</string>
      <string name="account_sim2">SIM-kort %d</string>
@@ -189,6 +190,7 @@
      <string name="clearFrequentsConfirmation_title">Rydd ofte kontaktede?</string>
      <string name="clearFrequentsProgress_title">Rydder ofte kontaktede...</string>
      <string name="clear_copy_number_description">Tøm kopiert nummer</string>
+     <string name="clear_default">Tøm standard</string>
      <string name="clear_digits">Tøm telefonnummer</string>
      <string name="click_close">Trykk på skjermen for å lukke</string>
      <string name="clip_dialog_title">Ring kopiert nummer?</string>
@@ -304,6 +306,7 @@
      <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="date_time_set">Sett</string>
      <string name="date_year_toggle">Angi et år</string>
+     <string name="default_ringtone">Standard ringetone</string>
      <string name="deleteConfirmation">Denne kontakt vil bli slettet</string>
      <string name="deleteConfirmationDetail">Slett \"%s\"?</string>
      <string name="deleteConfirmation_title">Slett denne kontakten?</string>
@@ -992,6 +995,7 @@
      <string name="preference_contacts_filter">Konfigurer kontaktlister</string>
      <string name="preference_contacts_more">Organiser kontakter</string>
      <string name="preference_contacts_recovery_introduction">Gjenopprett kontakter</string>
+     <string name="preference_dial_pad_touch_tone_default">Standard</string>
      <string name="preference_dial_pad_touch_tone_human">Menneskestemme</string>
      <string name="preference_dial_pad_touch_tone_piano">Pianolyd</string>
      <string name="preference_dial_pad_touch_tone_switch">Tastaturtoner</string>
@@ -1316,6 +1320,7 @@
      <string name="service_provider">Tjenesteleverandør</string>
      <string name="service_provider_detail">Mappedetaljer</string>
      <string name="set_data_package">Velg dataabonnement først</string>
+     <string name="set_default">Sett standard</string>
      <string name="set_photo_failed_msg">Klarte ikke å sette bilde</string>
      <string name="settings_contact_display_options_title">Alternativer for visning av kontakter</string>
      <string name="share_error">Denne kontakten kan ikke deles</string>
@@ -1463,6 +1468,7 @@
      <string name="vcard_import_failed">"Kunne ikke importere vCard %s"</string>
      <string name="vcard_import_request_rejected_message">vCard import forespørselen er avvist. Vennligst prøv igjen senere.</string>
      <string name="vcard_import_will_start_message">%s vil bli importert kort tid.</string>
+     <string name="vcard_import_will_start_message_with_default_name">Filen vil bli importert innen kort tid.</string>
      <string name="vcard_info_send_error">"Kan ikke sende grunnet vCard-feil"</string>
      <string name="vcard_unknown_filename">kontakt</string>
      <string name="video_call">Videosamtale</string>

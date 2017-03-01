@@ -138,6 +138,7 @@
      <string name="declaration_allow">Godkjenn</string>
      <string name="declaration_content">"1. Ved å bruke denne tjenesten, godkjenner du Sohu Video, iQiyi og andre tjenestetilbydere sine "&lt;a href="file:///android_asset/terms.html"&gt;Vilkår for bruk&lt;/a&gt;     2. Hjelpe til med å forbedre denne tjenesten, ved å automatisk sende diagnostikk og bruksdata til Xiaomi.     3. Vårt tillegg for HD-video vil bli automatisk installert.     4. Denne tjenesten krever en internettforbindelse for å fungere skikkelig.     "</string>
      <string name="declaration_content_td_custom">Tillater du at vi kobler til internettet når du bruker video?</string>
+     <string name="defaults">Standard</string>
      <string name="delete">Slett</string>
      <string name="delete_action_text">Delete (%d)</string>
      <string name="delete_addon">Slett</string>

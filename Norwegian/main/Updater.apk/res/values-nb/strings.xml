@@ -79,6 +79,7 @@
      <string name="downloading_description">Laster ned...</string>
      <string name="edit_comment">Legg til kommentarer</string>
      <string name="edit_comment_title">Endre kommentar</string>
+     <string name="edit_text_default">Skriv en kommentar</string>
      <string name="emegency_build">Bygg:</string>
      <string name="expect">Forventninger</string>
      <string name="experimental_build">Alfa</string>

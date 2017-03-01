@@ -154,6 +154,7 @@ Trykk på skjermen for å legge til eller flytte byen manuelt"</string>
      <string name="realtime_aqi_connection">%1$s</string>
      <string name="realtime_aqi_title">Luftkvalitet-indeks</string>
      <string name="realtime_humidity_title">Relativ luftfuktighet</string>
+     <string name="realtime_wind_default_title">Vind</string>
      <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen.</string>
      <string name="resource_account_fail_to_add">"Kan ikke legge til konto"</string>
      <string name="resource_account_login">Logg inn</string>

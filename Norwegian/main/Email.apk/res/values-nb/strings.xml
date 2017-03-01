@@ -159,6 +159,7 @@
      <string name="account_setup_incoming_server_label">Server</string>
      <string name="account_setup_incoming_title">Kontooppsett</string>
      <string name="account_setup_incoming_username_label">Brukernavn</string>
+     <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
      <string name="account_setup_names_account_name_label">Gi kontoen et navn (valgfritt)</string>
      <string name="account_setup_names_headline">Din konto er satt opp og epost er på vei!</string>
      <string name="account_setup_names_title">Kontooppsett</string>
@@ -186,6 +187,7 @@
      <string name="account_setup_options_mail_window_3days">Tre dager</string>
      <string name="account_setup_options_mail_window_all">Alle</string>
      <string name="account_setup_options_mail_window_auto">Automatisk</string>
+     <string name="account_setup_options_mail_window_default">"Bruk kontoens standard"</string>
      <string name="account_setup_options_mail_window_label">Mengde å synkronisere</string>
      <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
      <string name="account_setup_options_notify_label">Gi meg beskjed når epost mottas.</string>
@@ -373,6 +375,7 @@
      <string name="contact_in_filter_call_phone_str">Call from %s</string>
      <string name="contact_in_filter_title">Sender</string>
      <string name="contact_info_string">Vis kontaktinformasjon for %1$s</string>
+     <string name="contact_info_string_default">Vis kontaktinformasjon</string>
      <string name="contact_list_add_btn">Legg til</string>
      <string name="contact_list_search_hint">Søk i kontakter</string>
      <string name="contact_list_title">Kontakter</string>
@@ -428,6 +431,9 @@
      <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
      <string name="debug_force_one_minute_refresh_label">Gjennomtving 1-minutts oppdatering for POP/IMAP</string>
      <string name="debug_title">Debug</string>
+     <string name="default_">STANDARD</string>
+     <string name="default_setup">STANDARD INNSTILLINGER</string>
+     <string name="default_signature">Sendt fra min Mi-telefon</string>
      <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
      <string name="delete">Slett</string>
      <string name="delete_conversation_hint_message">%1$d %2$s har blitt slettet</string>
@@ -701,6 +707,7 @@
      <string name="meeting_where">Where: %s</string>
      <string name="megabytes">%s MB</string>
      <string name="menu_att_mgr">Attachments</string>
+     <string name="menu_att_mgr_order_default">Recent</string>
      <string name="menu_att_mgr_order_mime">Sort by format</string>
      <string name="menu_att_mgr_order_name">Sort by name</string>
      <string name="menu_att_mgr_order_rev_date">Sort by time</string>

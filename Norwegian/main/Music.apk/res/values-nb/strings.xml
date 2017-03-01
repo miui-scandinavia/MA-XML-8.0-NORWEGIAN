@@ -185,6 +185,7 @@
      <string name="download_auto_after_favorite_summary">"Automatisk last ned sangene du favoriterer</string>
      <string name="download_auto_after_favorite_title">Last ned favoritter</string>
      <string name="download_auto_cancel">Nedlasting av favoritter er skrudd av</string>
+     <string name="download_auto_default_quality">Musikk-kvalitet</string>
      <string name="download_auto_message">"Sanger som du har som favoritt vil bli lastet ned automatisk når du er koblet til Wi-Fi. Du kan skru av denne funksjonen i Innstillinger."</string>
      <string name="download_auto_network_settings">Innstillinger for nedlasting</string>
      <string name="download_auto_quality_alert_sub_title_for_expired">Prøveversjonen eller abonnementet har utløpt. Velg en annen nedlastningskvalitet.</string>

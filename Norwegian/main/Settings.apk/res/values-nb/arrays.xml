@@ -535,6 +535,11 @@ OBS: Bare for Ubuntu 8.04!"</item>
         <item>10 minutter</item>
         <item>Aldri</item>
      </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Spør</item>
+        <item>Aldri tillat</item>
+        <item>Alltid tillat</item>
+     </string-array>
      <string-array name="select_logd_size_lowram_titles">
         <item>64 000</item>
         <item>256 000</item>
