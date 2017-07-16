@@ -33,7 +33,6 @@
         <item>Klassisk</item>
      </string-array>
      <string-array name="transformation_entries">
-        <item>Overskli</item>
         <item>Skli</item>
         <item>Kryssfade</item>
         <item>Rundkast</item>
