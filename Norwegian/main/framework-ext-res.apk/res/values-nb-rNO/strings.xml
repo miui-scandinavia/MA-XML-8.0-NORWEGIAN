@@ -128,7 +128,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="status_bar_toggle_reboot">Omstart</string>
      <string name="status_bar_toggle_rotate">Rotering av</string>
      <string name="status_bar_toggle_screen_button">Knapper</string>
-     <string name="status_bar_toggle_screenshot">Skjermskudd</string>
+     <string name="status_bar_toggle_screenshot">Ta Skjermbilde</string>
      <string name="status_bar_toggle_shutdown">Skru av</string>
      <string name="status_bar_toggle_sync">Synk</string>
      <string name="status_bar_toggle_sync_auto">Synk</string>
