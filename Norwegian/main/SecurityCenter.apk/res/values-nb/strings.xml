@@ -961,8 +961,6 @@ eller skriv inn passord"</string>
      <string name="power_consume_rank_hardware">Maskinvare</string>
      <string name="power_consume_rank_software">Apper</string>
      <string name="power_consume_rank_title">Batteribruk</string>
-     <string name="power_consume_total_hardware">Maskinvare: %1$d%%</string>
-     <string name="power_consume_total_software">Apper: %1$d%%</string>
      <string name="power_customize_giveup_change">Gå bort fra endringer?</string>
      <string name="power_customizer_cancel">Avbryt</string>
      <string name="power_customizer_delete">Slett</string>

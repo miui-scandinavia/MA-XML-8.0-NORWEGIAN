@@ -3767,7 +3767,7 @@ Muligens feil kode."</string>
      <string name="status_bar_settings_show_network_speed">Vis tilkoplingshastighet</string>
      <string name="status_bar_settings_show_notificationBar_notification">Vis i varselskygge</string>
      <string name="status_bar_settings_show_notification_icon">Vis varselikoner</string>
-     <string name="status_bar_settings_show_screenshot_notification">Vis skjermskudd varsel</string>
+     <string name="status_bar_settings_show_screenshot_notification">Vis skjermbilde-varsler</string>
      <string name="status_bar_settings_show_statusBar_notification">Vis flytende varsler</string>
      <string name="status_bar_settings_show_statusBar_notification_summary">Vis flytende varsler på låseskjermen og omtrent overalt ellers</string>
      <string name="status_bar_settings_show_wifi_name">Vis Wi-Fi</string>

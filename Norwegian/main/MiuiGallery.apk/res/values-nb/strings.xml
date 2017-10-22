@@ -80,7 +80,7 @@
      <string name="album_page_label">Album</string>
      <string name="album_pano_name">Panorama</string>
      <string name="album_quota_fulfiled">"Kan ikke lagre album; antall album nådd grensen.."</string>
-     <string name="album_screenshot_name">Skjermskudd</string>
+     <string name="album_screenshot_name">Skjermbilde</string>
      <string name="album_setting_show_in_photo_tab_success">Dette albumet er allerede op hjemmesiden</string>
      <string name="album_share_exit_confirm">Er du sikker på at du vil avslutte det delte albumet?</string>
      <string name="album_share_kicked">Du har blitt fjernet fra %1$s</string>
