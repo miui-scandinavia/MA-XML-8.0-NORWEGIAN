@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="add_frequent_phrases">Add frequent phrases</string>
+     <string name="activity_package_delete_confirm_title">Viktig advarsel</string>
+     <string name="add_frequent_phrases">Legg til hyppige setninger</string>
      <string name="all_call_livetalk_enable">Bruk oppfyllingspakker for nasjonale og internasjonale samtaler</string>
      <string name="all_call_livetalk_remain_mins">Minutter gjenstående: %1$s nasjonalt eller %2$s internasjonalt</string>
      <string name="alwaysUsePrompt">Husk mitt valg</string>
@@ -15,13 +16,20 @@
      <string name="auto_disable_screenbuttons_prompts_not_show_again">Ikke vis varselet igjen</string>
      <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
      <string name="auto_disable_screenbuttons_prompts_title">Automatisk deaktiver skjermknapper</string>
+     <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Trykk igjen for å avslutte</string>
      <string name="auto_start_warning_allow">Tillat</string>
      <string name="auto_start_warning_deny">Nekt</string>
      <string name="auto_start_warning_title">Tillat %s å starte automatisk</string>
+     <string name="button_text_cancel">Avbryt</string>
+     <string name="button_text_delete">Delete</string>
+     <string name="button_text_delete_timer">Slett (%d)</string>
+     <string name="button_text_next_step">Neste</string>
+     <string name="button_text_next_step_timer">Neste (%d)</string>
      <string name="call_record_or">" eller "</string>
      <string name="call_record_sample_prefix_miui">Ring</string>
      <string name="caller_info_name_delimiter">" eller "</string>
      <string name="cancel_action">Avbryt</string>
+     <string name="configure_input_methods">Velg tastatur</string>
      <string name="copy">Kopier</string>
      <string name="cut">Kutt</string>
      <string name="default_name">Standard</string>
@@ -39,7 +47,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nei tak</string>
      <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Skreddersy</string>
      <string name="fp_nav_center_action_choose_dlg_title">Skreddersy Hjem-knapp</string>
-     <string name="frequent_phrases">Frequent phrases</string>
+     <string name="frequent_phrases">Hyppige setninger</string>
      <string name="global_actions_airplane_mode">Flymodus</string>
      <string name="global_actions_reboot">Omstart</string>
      <string name="global_actions_shutdown">Skru av</string>
@@ -70,6 +78,9 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="memory_clear_nothing_result">Ingenting å tømme i mellomlageret</string>
      <string name="memory_clear_result">%1$sB tømt | %2$sB tilgjengelig</string>
      <string name="miui">miui</string>
+     <string name="package_delete_confirm_step_1">Slett %s?</string>
+     <string name="package_delete_confirm_step_2">Hvis du sletter denne appen, kan systemet bli ustabilt.</string>
+     <string name="package_delete_confirm_step_3">"Du vil ikke kunne åpne denne appen etter at du har slettet den."</string>
      <string name="paste">Lim inn</string>
      <string name="perm_send_push_dspt">Tillat Mi push-meldinger</string>
      <string name="perm_send_push_lab">Send push-melding</string>
@@ -86,10 +97,15 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="screen_button_notification_text">For å slå dem på, trykk Hjem og PÅ-knappene samtidig.</string>
      <string name="screen_button_notification_title">Navigeringsknapper er slått av</string>
      <string name="screen_on_proximity_sensor_hint">For å slå av denne funksjonen, trykk Tilbake og Volum Opp-knappene samtidig.</string>
+     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">To turn this feature off, press the Volume up button.</string>
      <string name="screen_on_proximity_sensor_summary">"Ikke dekk til det oransje området på skjermen"</string>
      <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
      <string name="screen_paper_mode_enter_toast">Lesemodus er på. Du kan skru denne funksjonen av og på når som helst i in Skjerminnstillinger &gt; Lesemodus.</string>
      <string name="screen_rotation_freeze_message">Auto-rotering deaktivert.</string>
+     <string name="screenshot_gesture_detect_alert_button">Slå på i innstillingene</string>
+     <string name="screenshot_gesture_detect_alert_dont_again">"Ikke vis igjen"</string>
+     <string name="screenshot_gesture_detect_alert_msg">Trekk ned med tre fingre for å ta et skjermbilde?</string>
+     <string name="screenshot_gesture_detect_alert_title">Tre finger-skjermbilde</string>
      <string name="security_permission_denied_text">Tilgang nektet</string>
      <string name="security_permission_failed_text">Intern feil, prøv igjen senere</string>
      <string name="security_permission_validate_warning">Takk for at du hjelper med å gjøre MIUI bedre!</string>
@@ -115,6 +131,7 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="status_bar_toggle_data">Mobildata</string>
      <string name="status_bar_toggle_divider">Mer</string>
      <string name="status_bar_toggle_drive_mode">Bil</string>
+     <string name="status_bar_toggle_edit">Mer</string>
      <string name="status_bar_toggle_flight_mode">Flymodus</string>
      <string name="status_bar_toggle_gps">GPS</string>
      <string name="status_bar_toggle_lock">Lås</string>
@@ -138,8 +155,10 @@ For å skru denne funksjonen på, gå til Innstillinger &gt; System &gt; Knapper
      <string name="status_bar_toggle_vibrate">Vibrer</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
      <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+     <string name="subinfo_default_name">SIM %d</string>
+     <string name="translation_more">Mer</string>
      <string name="translation_query_error">"Kunne ikke finne resultater"</string>
-     <string name="translation_query_error_network">"Kunne ike koble til nettverket. Sjekk innstillinger og prøv igjen"</string>
+     <string name="translation_query_error_network">"Kunne ikke koble til nettverket. Sjekk innstillinger og prøv igjen"</string>
      <string name="turn_off">Skru av</string>
      <string name="unknown_caller">Ukjent nummer</string>
      <string name="user_switching_dialog_text">Bytter…</string>

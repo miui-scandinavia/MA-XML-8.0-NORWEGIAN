@@ -93,6 +93,7 @@
      <string name="call_assistant">Ring til %s</string>
      <string name="call_callback">Ring til tilbakeringing</string>
      <string name="call_car">Ring til bil</string>
+     <string name="call_charge">Fyll på</string>
      <string name="call_company_main">Ring til firma hovednummer</string>
      <string name="call_custom">Ring til %s</string>
      <string name="call_disambig_title">Ring opp ved hjelp av</string>
@@ -100,6 +101,7 @@
      <string name="call_fax_work">Ring til fax arbeid</string>
      <string name="call_home">Ring til hjem</string>
      <string name="call_isdn">Ring til ISDN</string>
+     <string name="call_left">Telefon-balanse</string>
      <string name="call_log_empty_gecode">-</string>
      <string name="call_log_item_count_and_date">(%1$d),%2$s</string>
      <string name="call_log_new_header">Nye</string>
@@ -107,9 +109,12 @@
      <string name="call_main">Ring til hovednummer</string>
      <string name="call_mms">Ring til MMS</string>
      <string name="call_mobile">Ring til mobil</string>
+     <string name="call_not_found"> --</string>
+     <string name="call_operator_init">Velg operatør</string>
      <string name="call_other">Ring til</string>
      <string name="call_other_fax">Ring til fax</string>
      <string name="call_pager">Ring til personsøker</string>
+     <string name="call_problem_report">Rapportér en feil</string>
      <string name="call_radio">Ring til radio</string>
      <string name="call_record_setting_miui">Opptaksinnstillinger</string>
      <string name="call_settings">Innstillinger</string>
@@ -118,6 +123,7 @@
      <string name="call_telex">Ring til telex</string>
      <string name="call_tty_tdd">Ring TTY/TDD</string>
      <string name="call_type_and_date">%1$s %2$s</string>
+     <string name="call_unit">USD</string>
      <string name="call_work">Ring til arbeid</string>
      <string name="call_work_mobile">Ring til mobil arbeid</string>
      <string name="call_work_pager">Ring til personsøker arbeid</string>
@@ -197,6 +203,7 @@
      <string name="close_dial_pad">lukk talltastatur</string>
      <string name="close_dial_pad_description">Lukk talltastaturet</string>
      <string name="cloud_antispam_mark">Rapporter</string>
+     <string name="cloud_antispam_marked">Merket</string>
      <string name="cloud_antispam_title">Sky-brannmur</string>
      <string name="cloud_recommend_msg">Trykk for å synkronisere kontakter med Mi Cloud.</string>
      <string name="cloud_state_disabled">Synk med Mi Cloud er av</string>
@@ -228,6 +235,7 @@
      <string name="contact_detail_action_item_nocalllog">Ingen historikk</string>
      <string name="contact_detail_calllog_call_note_tips">anropsnote</string>
      <string name="contact_detail_calllog_call_record_tips">Opptak av anrop</string>
+     <string name="contact_detail_calllog_empty">Ingen historikk</string>
      <string name="contact_detail_menu_delete_miprofile">Slett kort</string>
      <string name="contact_detail_miprofile_accept">Utveksle kontaktkort</string>
      <string name="contact_detail_miprofile_accept_fail_toast">"Kunne ikke utveksle kontaktkort"</string>
@@ -302,6 +310,8 @@
      <string name="data_charge">Fyll på mobildata</string>
      <string name="data_left">Gjenstående mobildata</string>
      <string name="data_unit">MB</string>
+     <string name="data_unit_gb">GB</string>
+     <string name="data_unit_mb">MB</string>
      <string name="date_picker_label">Påminn 3 dager før og på selve dagen</string>
      <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="date_time_set">Sett</string>
@@ -529,6 +539,7 @@
      <string name="frequentList">Hyppige</string>
      <string name="from_account_format">%1$s</string>
      <string name="full_name">Navn</string>
+     <string name="gallery">Galleri</string>
      <string name="generic_no_account_prompt">Hold dine kontakter sikret, selv om du mister telefonen din: synkroniser med en online tjeneste.</string>
      <string name="generic_no_account_prompt_title">Legg til konto</string>
      <string name="ghostData_company">Organisasjon</string>
@@ -681,6 +692,11 @@
      <string name="list_filter_customize">Tilpass ...</string>
      <string name="list_filter_phones">Alle kontakter med telefonnumre</string>
      <string name="list_filter_single">Kontakt</string>
+     <string name="live_talk_switch_on_toast">Live talk har blitt aktivert</string>
+     <string name="livetalk_charge">Belaste</string>
+     <string name="livetalk_left">Gjenstående livetalk</string>
+     <string name="livetalk_switch_on">Skru på</string>
+     <string name="livetalk_title">Live talk</string>
      <string name="loading">Laster inn...</string>
      <string name="loading_accounts">Bare et sekund…</string>
      <string name="loading_group_members">Bare et sekund…</string>
@@ -949,8 +965,8 @@
      <string name="photo_labels_group">Profibilde</string>
      <string name="photo_load_failed">"Kunne ikke laste bilde"</string>
      <string name="photo_package_activity_title">Bildepakke</string>
-     <string name="pick_new_photo">Velg nytt bilde fra Galleri</string>
-     <string name="pick_photo">Velg bilde fra Galleri</string>
+     <string name="pick_new_photo">Velg nytt bilde fra %s</string>
+     <string name="pick_photo">Velg bilde fra %s</string>
      <string name="pickerNewContactHeader">Opprett ny kontakt</string>
      <string name="pickerNewContactText">Opprett ny kontakt</string>
      <string name="picker_all_list_empty">Ingen kontakter</string>
@@ -1289,6 +1305,7 @@
      <string name="search_import_from_other_phone">Kontakter;Importer;andre telefoner</string>
      <string name="search_import_from_sdcard">Kontakter;Importer;sd-kort</string>
      <string name="search_import_from_sim">Kontakter;Importer;SIM-kort</string>
+     <string name="search_input_hint">Du kan søke etter telefonnumre eller tjenester</string>
      <string name="search_key_photo_word">Tildel;kontakt;bilder;Kontakter</string>
      <string name="search_key_rebuild_t9_index_title">Organiser;Kontakter;t9</string>
      <string name="search_key_sim_manage">Organiser;Kontakter</string>
@@ -1505,6 +1522,9 @@
      <string name="wipe_data">Slett kontakter</string>
      <string name="yellowPageNavigationIconLabel">Gule sider</string>
      <string name="yellowPageNavigationLabel">Gule sider</string>
+     <string name="yellowpage_navigation_ad_hint">Reklame</string>
+     <string name="yellowpage_navigation_balance_refresh_failed">"Balannse og mobildata kunne ikke bli verifisert, prøv igjen senere."</string>
+     <string name="yellowpage_navigation_balance_refresh_succeed">Balanse og mobildata har blitt verifisert</string>
      <string name="yellowpage_navigation_clear_search_history">Tøm historikk</string>
      <string name="yellowpage_navigation_more_items">Mer</string>
      <string name="yellowpage_navigation_more_items_title">Flere tjenester</string>

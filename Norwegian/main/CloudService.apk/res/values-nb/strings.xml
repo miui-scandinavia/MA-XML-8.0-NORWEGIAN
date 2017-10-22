@@ -8,7 +8,11 @@
      <string name="activate_finddevice">Koble til nettverket for å aktivere enheten</string>
      <string name="activate_number_change_dialog_message">Velg et telefonnummer som vil bli synlig for andre enheter når du ringer ved hjelp av VoIP.</string>
      <string name="activating">Aktiverer…</string>
+     <string name="add_cloud_storage">Legg til lagring</string>
+     <string name="add_short_cut">Legg til</string>
+     <string name="added_successfully">Lagt til</string>
      <string name="alert_notif_title_dspt">Synker ikke</string>
+     <string name="all_sync_item_open">Alle valg er på</string>
      <string name="antispam_sync">Ikke forstyrr-innstillinger</string>
      <string name="app_name">Mi Cloud</string>
      <string name="app_sync_off">App synk av</string>
@@ -61,6 +65,8 @@
      <string name="cloud_space_upgrade_message">Trykk for å legge til %s GB til din sky.</string>
      <string name="cloud_space_upgrade_no_quota_info">"Kunne ikke hente lagringsinfo"</string>
      <string name="cloud_space_upgrade_title">Mer plass til Mi Cloud</string>
+     <string name="cloud_storage_full">Skylagring er full</string>
+     <string name="cloud_storage_is_full">Full</string>
      <string name="cloud_sync_setting_summary_standard">Bruk mobildataforbindelsen for å synkronisere kontakter, meldingger, anropshistorikk, notater, Wi-Fi-innstillinger, nettlester-data og spillelister</string>
      <string name="cloud_sync_setting_summary_wlan">Alle data vil bli synkronisert når tilkoblet Wi-Fi</string>
      <string name="cloudservice_new_sync">Synk %s med Mi Cloud</string>
@@ -75,6 +81,7 @@
      <string name="detect_sim_card">Search for SIM card again</string>
      <string name="disable_find_device_error">"Kan ikke skru av Finn enhet. %1$s"</string>
      <string name="disable_find_device_success">Finn enhet er av.</string>
+     <string name="due_date_format">MM/dd/yyyy</string>
      <string name="enableAll">Synk alle</string>
      <string name="enable_cloud_service_notification">Du må aktivere Mi Cloud</string>
      <string name="enable_find_device_error">"Kan ikke skru på Finn enhet. %1$s"</string>
@@ -113,8 +120,11 @@
      <string name="find_device_reading_status">Laster status…</string>
      <string name="find_device_reading_status_failure">"Kunne ikke laste status."</string>
      <string name="find_device_send_sms_alert">Hvis du bytter SIM-kort, vil en ny SMS bli sendt automatisk for å reaktivere denne funksjonen.</string>
-     <string name="find_device_status_ok">Finn enheten din fra hvor som heslt på i.mi.com</string>
-     <string name="find_device_status_ok_international">Finn din enhet fra hvor som helst på www.mi.com/micloud</string>
+     <string name="find_device_service_summary">Besøk i.mi.com for å lokalisere enheten din og fjernlåse den</string>
+     <string name="find_device_service_summary_international">Besøk i.mi.com for å lokalisere enheten din og fjernlåse den</string>
+     <string name="find_device_service_title">Finn enhet</string>
+     <string name="find_device_status_ok">Finn enheten din fra hvor som helst på i.mi.com</string>
+     <string name="find_device_status_ok_international">Finn enheten din fra hvor som helst på www.mi.com/micloud</string>
      <string name="find_device_stop_noise">Trykk OK for å stoppe</string>
      <string name="find_device_success_title">Finn enhet</string>
      <string name="finish">OK</string>
@@ -147,6 +157,7 @@
      <string name="master_alert_notif_dspt_add">"%s elementer venter på å bli synkronisert</string>
      <string name="master_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="master_alert_notif_title">Skru på Mi Cloud</string>
+     <string name="member_due_date">Gyldig til %s</string>
      <string name="micloud">Mi Cloud</string>
      <string name="micloud_all_sub_1_intl_sms">"En internasjonal og innenlands SMS vil bli sendt for å aktivere ditt SIM-kort  Du vil bli belastet av din operatør."</string>
      <string name="micloud_all_sub_1_sms">"En vanlig SMS vil bli sendt for å aktivere ditt SIM-kort. Du vil bli belastet av din operatør.</string>
@@ -358,6 +369,7 @@
      <string name="micloud_sync_alert_dialog_negative">Avbryt</string>
      <string name="micloud_sync_alert_dialog_positive">OK</string>
      <string name="micloud_sync_alert_dialog_title">Bruk Mi Cloud</string>
+     <string name="micloud_sync_off">Synk med Mi Cloud er av</string>
      <string name="micloud_title_dspt" formatted="false">"Total plass %sbrukt %s | gjenværende %s"</string>
      <string name="micloud_title_dspt_remain">%s igjen</string>
      <string name="micloud_title_full_dspt">"Du har nådd din lagringsgrense"</string>
@@ -396,15 +408,22 @@
      <string name="mx_sub_dspt_provision">Mi-melding</string>
      <string name="mx_sub_dspt_provision_with_voip">Internett-ringing</string>
      <string name="mx_voip_dspt">Mi-tale</string>
+     <string name="network_unconnected">"Kunne ikke koble til nettverket"</string>
      <string name="next">Neste</string>
      <string name="noRemind">"Ikke påminn"</string>
      <string name="no_sim">Ingen SIM-kort detektert</string>
      <string name="normal">Normal</string>
      <string name="only_in_wlan">Av</string>
+     <string name="open_micloud_sync">Skru på synk med Mi Cloud</string>
      <string name="other_settings">Andre innstillinger</string>
+     <string name="other_sync_item">Andre elementer som synker</string>
+     <string name="passed_synced_time_day">Synket %dd siden</string>
+     <string name="passed_synced_time_hour">Synket %1$dh %2$dm siden</string>
+     <string name="passed_synced_time_min">Synket %d min siden</string>
+     <string name="passed_synced_time_sec">Synket %d sek siden</string>
      <string name="password">Skriv ditt passord</string>
      <string name="phone_number_may_required_dspt_provision">"Denne tjenesten kan kreve ditt telefonnummer. "</string>
-     <string name="phone_number_required_dspt_provision">"Denne tjenestne krever ditt telfonnummer. "</string>
+     <string name="phone_number_required_dspt_provision">"Denne tjenesten krever ditt telefonnummer. "</string>
      <string name="photo">Bilder</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Reduserer databruk</string>
      <string name="pref_summary_sync_video_on_wifi_only">"Bare synk kontakters profilvideoer når du er tilkoblet et Wi-Fi-nettverk"</string>
@@ -415,8 +434,17 @@
      <string name="privacy_policy">Personvernspolitikk</string>
      <string name="provision_arrow_back">&lt;</string>
      <string name="provision_arrow_next">&gt;</string>
+     <string name="recommend_open_all_sync">Synk alle elementer</string>
      <string name="remind_later">Ikke nå</string>
      <string name="restoreSync">Synk nå</string>
+     <string name="search_cloudbackup_pref">Sky-sikkerhetskopi</string>
+     <string name="search_cloudbackup_pref_desc">Slå på/av Sky-sikkerhetskopi</string>
+     <string name="search_cloudbackup_pref_key_words">skysikkerhetskopi, sky-sikkerhetskopi</string>
+     <string name="search_cloudbackup_pref_path">Mi-konto/Mi Cloud/Sikkerhetskopiér enhet</string>
+     <string name="search_finddevice_pref">Finn enhet</string>
+     <string name="search_finddevice_pref_desc">Slå på/av Finn enhet</string>
+     <string name="search_finddevice_pref_key_words">finnenhet, finn enhet</string>
+     <string name="search_finddevice_pref_path">Mi-konto/Mi Cloud/Finn enhet</string>
      <string name="setting">Innstillinger</string>
      <string name="settings_backup_title">Sikkerhetskopier systeminnstillinger</string>
      <string name="share_cancel">Deling avbrutt</string>
@@ -425,6 +453,7 @@
      <string name="share_success">Delt</string>
      <string name="share_weibo_not_installed">Weibo er ikke installert.</string>
      <string name="share_weixin_not_installed">Wechat er ikke installert.</string>
+     <string name="short_cut_desc">Legg Mi-Cloud ikonet til Hjem-skjermen?</string>
      <string name="sina_share_fail">Kunne ikke sende</string>
      <string name="sina_share_fail_content_repeat">"Kunne ikke dele, innhold eksisterer allerede…"</string>
      <string name="sina_share_pendding">Sender…</string>
@@ -438,7 +467,7 @@
      <string name="space">Lagring</string>
      <string name="start_micloud">Start</string>
      <string name="storage">Lagring</string>
-     <string name="sub_alert_notif_content">Turn on sync with Mi Cloud to back up your data</string>
+     <string name="sub_alert_notif_content">Slå på synkronisering med Mi Cloud til å sikkerhetskopiere data</string>
      <string name="sub_alert_notif_dspt_add">%s venter på synk</string>
      <string name="sub_alert_notif_dspt_no">"Synkronisert."</string>
      <string name="sub_alert_notif_title">Synker ikke</string>
@@ -464,6 +493,7 @@
      <string name="sync_item_calllog_title">Synk anropshistorikk</string>
      <string name="sync_item_sms_summary">Synkroniser tekstmeldinger mellom enheter</string>
      <string name="sync_item_sms_title">Synk meldinger</string>
+     <string name="sync_item_title">Synker elementer</string>
      <string name="sync_off">Av</string>
      <string name="sync_on">På</string>
      <string name="sync_resend_sms_dspt_provision">" Hvis du bytter SIM-kort, kan operatøren din belaste deg for SMS-meldingen brukt for å aktivere denne tjenesten på nytt."</string>
@@ -497,6 +527,7 @@
      <string name="vcode">Verifiseringskode</string>
      <string name="verify">Verifiser</string>
      <string name="view_storage_title">Lagringsplass</string>
+     <string name="virtual_sim_desc">Slå på Mi SIM for å lokalisere enhet uten SIM-kort</string>
      <string name="voip_choose_sim">Velg telefonnummer å aktivere Mi Voice på</string>
      <string name="voip_dspt">Mi Voice</string>
      <string name="wifi">Wi-Fi</string>

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="hd_record_scenes_entries">
+        <item>Musikk</item>
+        <item>Tale</item>
+        <item>Intervju</item>
+        <item>HD</item>
+     </string-array>
      <string-array name="interview_record_scenes_entries">
         <item>Musikk</item>
-        <item>Stemme</item>
+        <item>Tale</item>
         <item>Intervju</item>
+     </string-array>
+     <string-array name="record_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
      </string-array>
      <string-array name="record_quality_entries">
         <item>Høy</item>
@@ -20,13 +31,19 @@
         <item>Musikk</item>
         <item>Stemme</item>
      </string-array>
+     <string-array name="record_scenes_summaries">
+        <item>Ta opp via 2 kanaler, lytt til stereolyd i øretelefonene</item>
+        <item>"Flytt mikrofonen nærmere lydens kilde for bedre kvalitet"</item>
+        <item>Plasser telefonen mellom 2 personer for å registrere dem begge tydelig</item>
+        <item>Høy dynamisk rekkevidde-teknologi gjør det mulig for mikrofonen å fange mer detaljert lyd</item>
+     </string-array>
      <string-array name="record_type_entries">
         <item>MP3</item>
         <item>AMR</item>
      </string-array>
      <string-array name="x5_record_scenes_entries">
         <item>Musikk</item>
-        <item>Stemme</item>
+        <item>Tale</item>
         <item>Intervju</item>
      </string-array>
 </resources>

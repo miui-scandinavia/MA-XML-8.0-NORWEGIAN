@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="abort_backup_confirm">"Backup er ikke fullført. Stopp uansett?"</string>
+     <string name="abort_restore_confirm">"Gjenoppretting er ikke fullført. Stopp uansett?"</string>
      <string name="account_contact_backup_info">Data (Sikkerhetskopier Mi-konto og Gmail info)</string>
      <string name="account_login">Logg inn</string>
      <string name="account_summary">Ta backup av Gmail, Email og Mi-kontoer</string>
@@ -160,8 +161,10 @@
      <string name="notif_restore_complete_title">Gjenoppretting vellykket</string>
      <string name="notif_restore_content">Gjenoppretter brukerdata</string>
      <string name="notif_restore_title">Gjenopprett data</string>
-     <string name="notif_trans_receiving_completed">Data received successfully</string>
-     <string name="notif_trans_sending_completed">Data sent successfully</string>
+     <string name="notif_trans_receiving_completed">Data mottatt</string>
+     <string name="notif_trans_receiving_failed">Data ikke mottatt</string>
+     <string name="notif_trans_sending_completed">Data sendt</string>
+     <string name="notif_trans_sending_failed">Data ikke sendt</string>
      <string name="page_loading">Bare et sekund…</string>
      <string name="progress_backup_hint">Tar backup…</string>
      <string name="progress_restore_hint">Gjenoppretter data…</string>

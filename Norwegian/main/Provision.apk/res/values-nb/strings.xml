@@ -3,9 +3,14 @@
 <resources>
      <string name="agree">Samtykk</string>
      <string name="agree_terms">"Jeg har lest og akseptert vilkårene"</string>
+     <string name="app_name">Forsyning</string>
      <string name="back">Tilbake</string>
      <string name="congratulation_label">miuios.no</string>
      <string name="congratulation_title">Alt klart!</string>
+     <string name="content_description_complete">Ferdig</string>
+     <string name="content_description_language_picker">Velg språk</string>
+     <string name="content_description_miui_version">MIUI 9</string>
+     <string name="content_description_start">Start</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Bruk fingeravtrykket ditt for å låse opp enheten, verifiser Mi Pay-transaksjoner, eller logge inn på apper og tjenester.</string>
@@ -29,10 +34,16 @@
      <string name="next">Neste</string>
      <string name="next_fingerprint">Neste</string>
      <string name="other_settings">Ekstra innstillinger</string>
+     <string name="other_settings_auto_update">Oppdater automatisk</string>
+     <string name="other_settings_auto_update_summary">MIUI vil velge den mest passende tiden for å laste ned og installere oppdateringer.</string>
      <string name="other_settings_location">Tilgang til plassering</string>
      <string name="other_settings_location_summary">La apper finne din plassering</string>
+     <string name="other_settings_mifg_online_content">Daglig bakgrunnsbilder</string>
+     <string name="other_settings_mifg_online_content_summary">Få nye bakgrunnsbilder levert til låseskjermen jevnlig.</string>
+     <string name="other_settings_upload_debug_log_summary">Informasjonen vi samler vil bli brukt til å lokalisere og analysere problemene i systemet og kan inneholde personlig informasjon. Ingen data vil bli brukt til å identifisere deg personlig.</string>
+     <string name="other_settings_upload_debug_log_title">Send diagnostiske data automatisk</string>
      <string name="other_settings_user_experience">Brukertilbakemelding</string>
-     <string name="other_settings_user_experience_summary">Bidra til å forbedre MIUI ved å sende anonyme bruksdata (%s)</string>
+     <string name="other_settings_user_experience_summary">Hjelp oss med å forbedre våre produkter og tjenester ved å sende anonyme bruksdata.</string>
      <string name="other_settings_user_experience_summary1">Vis erklæring om personvern</string>
      <string name="page_layout_label">Juster tekststørrelsen og layouten til din hjemskjerm, varselskygge, talltastaturet og mer.</string>
      <string name="page_layout_title">Systemlayout</string>

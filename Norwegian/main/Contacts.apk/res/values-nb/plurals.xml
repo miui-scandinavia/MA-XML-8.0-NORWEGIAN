@@ -7,7 +7,7 @@
      </plurals>
      <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Slett %d kontakter</item>
-        <item quantity="one">Slettk kontakt</item>
+        <item quantity="one">Slett kontakt</item>
      </plurals>
      <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Ringte %d ganger</item>
@@ -90,6 +90,10 @@
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">Viser %d kontakter med numre</item>
         <item quantity="one">Viser 1 kontakt med nummer</item>
+     </plurals>
+     <plurals name="livetalk_unit">
+        <item quantity="other">Minutter</item>
+        <item quantity="one">Minutt</item>
      </plurals>
      <plurals name="merge_info">
         <item quantity="other">flettet fra %0$d kilder</item>

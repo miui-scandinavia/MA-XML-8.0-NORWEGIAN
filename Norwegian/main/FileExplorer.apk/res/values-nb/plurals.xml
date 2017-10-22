@@ -177,6 +177,26 @@
         <item quantity="few">%1$s kommentarer</item>
         <item quantity="many">%1$s kommentarer</item>
      </plurals>
+     <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s kommentarer</item>
+        <item quantity="one">%1$s kommentar</item>
+     </plurals>
+     <plurals name="original_user_days">
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dager</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dag</item>
+     </plurals>
+     <plurals name="original_user_fans">
+        <item quantity="other">• Du har &lt;font color=#fc7050>%1$s&lt;/font> følgere!</item>
+        <item quantity="one">• Du har &lt;font color=#fc7050>%1$s&lt;/font> følger!</item>
+     </plurals>
+     <plurals name="original_user_play_1">
+        <item quantity="other">• Du har lastet opp &lt;font color=#fc7050>%1$s&lt;/font> videoer,</item>
+        <item quantity="one">• Du har lastet opp &lt;font color=#fc7050>%1$s&lt;/font> video,</item>
+     </plurals>
+     <plurals name="original_user_play_2">
+        <item quantity="other">Du har gjort &lt;font color=#fc7050>%1$s&lt;/font> personer glade!</item>
+        <item quantity="one">Du har gjort &lt;font color=#fc7050>%1$s&lt;/font> person glad!</item>
+     </plurals>
      <plurals name="remote_video_update">
         <item quantity="other">Fant %1$d nye videoer</item>
         <item quantity="zero">Fant %1$d nye videoer</item>
@@ -226,12 +246,12 @@
         <item quantity="many">%1$d filer igjen å laste ned</item>
      </plurals>
      <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d files left to transmit</item>
-        <item quantity="zero">%1$d files left to transmit</item>
-        <item quantity="one">%1$d file left to transmit</item>
-        <item quantity="two">%1$d files left to transmit</item>
-        <item quantity="few">%1$d files left to transmit</item>
-        <item quantity="many">%1$d files left to transmit</item>
+        <item quantity="other">%1$d filer igjen å overføre</item>
+        <item quantity="zero">%1$d filer igjen å overføre</item>
+        <item quantity="one">%1$d fil igjen å overføre</item>
+        <item quantity="two">%1$d filer igjen å overføre</item>
+        <item quantity="few">%1$d filer igjen å overføre</item>
+        <item quantity="many">%1$d filer igjen å overføre</item>
      </plurals>
      <plurals name="ui_bar_txt_upload_progress">
         <item quantity="other">%1$d filer igjen å laste opp</item>
@@ -240,6 +260,10 @@
         <item quantity="two">%1$d filer igjen å laste </item>
         <item quantity="few">%1$d filer igjen å laste opp</item>
         <item quantity="many">%1$d filer igjen å laste opp</item>
+     </plurals>
+     <plurals name="user_sign_limt">
+        <item quantity="other">Du har skrevet %d tegn</item>
+        <item quantity="one">Du har skrevet %d tegn</item>
      </plurals>
      <plurals name="user_upload_items">
         <item quantity="other">videoer</item>
@@ -265,6 +289,14 @@
         <item quantity="few">%1$s videoer</item>
         <item quantity="many">%1$s videoer</item>
      </plurals>
+     <plurals name="video_items">
+        <item quantity="other"> %1$d elementer</item>
+        <item quantity="zero"> %1$d elementer</item>
+        <item quantity="one"> %1$d element</item>
+        <item quantity="two"> %1$d elementer</item>
+        <item quantity="few"> %1$d elementer</item>
+        <item quantity="many"> %1$d elementer</item>
+     </plurals>
      <plurals name="video_num">
         <item quantity="other">%1$s videoer</item>
         <item quantity="zero">%1$s videoer</item>
@@ -280,5 +312,9 @@
         <item quantity="two">%1$s visninger</item>
         <item quantity="few">%1$s visninger</item>
         <item quantity="many">%1$s visninger</item>
+     </plurals>
+     <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Få %1$d flere følgere for å oppdatere din status</item>
+        <item quantity="one">Få %1$d til følger for å oppdatere din status</item>
      </plurals>
 </resources>

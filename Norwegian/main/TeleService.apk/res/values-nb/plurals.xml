@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Telefonen kommer til å være i nødsamtalesmodus i %s minutter. Ingen apper som bruker en datatilkobling, kan brukes i denne modusen. Vil du avslutte nå?</item>
@@ -16,5 +16,9 @@
      <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Ingen datatilkobling i %s minutter</item>
         <item quantity="one">Ingen datatilkobling i %s minutt</item>
+     </plurals>
+     <plurals name="remove_numbers_confirm">
+        <item quantity="other">%d numre vil bli slettet.</item>
+        <item quantity="one">%d nummeret vil bli slettet.</item>
      </plurals>
 </resources>

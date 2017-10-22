@@ -2,10 +2,13 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Søk</string>
+     <string name="application_desc">Program</string>
+     <string name="applications_search_label">Apper</string>
      <string name="apps_search_activity" />
      <string name="baidu_search_url_from_default">https://www.google.no/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_input">https://www.google.no/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_launcher">https://www.google.no/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_systemui">https://www.google.no/search?q=%s&amp;tn=ins</string>
      <string name="baidu_suggest_base">https://www.google.no/search?q=%s&amp;tn=ins</string>
      <string name="clear_history">Tøm historikk</string>
@@ -33,6 +36,7 @@
      <string name="device_settings_category_title">Fjern snarveier</string>
      <string name="distance_unit_kilometer">km</string>
      <string name="distance_unit_meter">m</string>
+     <string name="entrance_setting">Opening search</string>
      <string name="google_app_label">Google Søking</string>
      <string name="google_search_base">https://www.google.no/m?hl=%1$s</string>
      <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -46,16 +50,23 @@
      <string name="menu_help">Hjelp</string>
      <string name="menu_settings">Søkeinnstillinger</string>
      <string name="network_unavailable">Ikke tilkoblet Internett</string>
+     <string name="permission_prompt_detail">Søk etter filmer, bøker, musikk og mer.</string>
+     <string name="permission_prompt_start">Tillat</string>
+     <string name="permission_prompt_started_info">"Du har tillatt globalt søk"</string>
+     <string name="permission_prompt_title">Vil du ha mer?</string>
      <string name="recent_apps">Seneste apper</string>
      <string name="recently_shortcut_label">Seneste snarveier</string>
      <string name="remove_from_history">Fjern fra søkehistorikk</string>
      <string name="remove_from_history_failed">"Kunne ikke fjerne fra historikk"</string>
      <string name="search_apps">Søk i apper</string>
+     <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
      <string name="search_group_fold">Skjul</string>
      <string name="search_group_unfold">Mer</string>
      <string name="search_history">Historikk</string>
      <string name="search_in_app_store">Søk i Google Play</string>
      <string name="search_in_web">Søk på nett</string>
+     <string name="search_keyword_quicksearchbox">Søk</string>
+     <string name="search_path_quicksearchbox">Innstillinger/Installerte apper/Søk</string>
      <string name="search_settings">Søkeinnstillinger</string>
      <string name="search_sources">Søkbare elementer</string>
      <string name="search_sources_summary">Velg hva som skal søkes på telefon</string>
@@ -71,9 +82,25 @@
      <string name="searchable_lable_video">video</string>
      <string name="searchable_sources">Nett</string>
      <string name="send_secret_code">Send kode</string>
+     <string name="settings_description">Navn på installerte apper</string>
      <string name="show_more">Vis mer</string>
      <string name="suggest_open_app_failed">"Kunne ikke åpne denne appen"</string>
+     <string name="swipe_up_summary">Sveip opp for å åpne globalt søk</string>
+     <string name="swipe_up_title">Sveip opp</string>
+     <string name="switch_application">Apper</string>
+     <string name="switch_browser">Nettleser</string>
+     <string name="switch_contacts">Kontakter</string>
+     <string name="switch_file">Filer</string>
+     <string name="switch_mms">Meldinger</string>
+     <string name="switch_notes">Notater</string>
+     <string name="switch_online">Online</string>
+     <string name="switch_prompt_ignore">Ignorer</string>
+     <string name="switch_prompt_set">Se alternativer</string>
+     <string name="switch_prompt_title">"Finner du ikke %s?"</string>
+     <string name="switch_prompt_title_default">"Finner du ikke det du trenger?"</string>
+     <string name="switch_setting">Innstillinger</string>
      <string name="system_search_category_title">Telefon</string>
+     <string name="top_clicked">Ofte valgt</string>
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">"Prøv å si "</string>
@@ -84,5 +111,6 @@
      <string name="xiaomi_hot_query"></string>
      <string name="xiaomi_search_label">Resultater</string>
      <string name="xiaomi_source_url" />
+     <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
      <string name="xiaomi_suggest_base"></string>
 </resources>

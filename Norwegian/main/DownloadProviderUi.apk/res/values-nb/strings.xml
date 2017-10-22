@@ -110,6 +110,9 @@
      <string name="download_share_dialog">Del via</string>
      <string name="download_speed">Nedlastningshastighet:</string>
      <string name="download_spend_time">Tid</string>
+     <string name="download_status_continue">Fortsett</string>
+     <string name="download_status_fail">Prøv igjen</string>
+     <string name="download_status_paused">Pause</string>
      <string name="download_success">Ferdig</string>
      <string name="download_title">nedlastinger</string>
      <string name="download_title_sorted_by_date">nedlastinger - Sortert via tid</string>

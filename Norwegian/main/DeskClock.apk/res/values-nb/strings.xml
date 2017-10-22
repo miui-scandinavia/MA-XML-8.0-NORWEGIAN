@@ -175,6 +175,8 @@
      <string name="select_year">Velg året</string>
      <string name="selected_cities_label">Utvalgte byer</string>
      <string name="set_alarm">Legg til alarm</string>
+     <string name="setting_alarm_arriving_summary">Send ett varsel før ringing</string>
+     <string name="setting_alarm_arriving_title">Varsel før ringing</string>
      <string name="settings">Innstillinger</string>
      <string name="show_clock">Vis klokke</string>
      <string name="shutdown_alarm_disable_summary">Deaktiver Avslåingsalarm</string>
@@ -210,6 +212,7 @@
      <string name="sw_start_button">Start</string>
      <string name="sw_stop_button">Stopp</string>
      <string name="swn_stopped">Stoppet</string>
+     <string name="symbol_colon">:</string>
      <string name="system_time_setting">Innstillinger</string>
      <string name="time">Tidspunkt</string>
      <string name="time_picker_00_label">:00</string>
@@ -221,6 +224,7 @@
      <string name="timer_add_timer">Legg til stoppeklokke</string>
      <string name="timer_alarm_alert_pad">%s</string>
      <string name="timer_alarm_cancel_pad">trykk på skjermen for å stoppe ringing</string>
+     <string name="timer_alarm_dot_matrix_label">TIMER</string>
      <string name="timer_alert_alert_silenced">Tidtaker stoppet etter %d minutter.</string>
      <string name="timer_cancel">Avbryt</string>
      <string name="timer_clock_alert_text">Angi timer</string>
@@ -261,6 +265,8 @@
      <string name="tomorrow">I går</string>
      <string name="turn_off_a_repeat_alarm">Skru av en repeterende alarm</string>
      <string name="turn_off_this_repeat_alarm">Skru av denne repeterende alarmen</string>
+     <string name="upcoming_alarm"> Kommende alarm</string>
+     <string name="upcoming_alarm_hint">Du kan lukke denne alarmen på forhånd</string>
      <string name="vibrate_pref_summary">Vibrer under alarmering</string>
      <string name="vibrate_when_ringing">Vibrer under ringing</string>
      <string name="volume_button_dialog_title">Knappefunksjon</string>

@@ -44,6 +44,7 @@
      <string name="fragment_tab_title_sys">Systemapper</string>
      <string name="full_screen_enter">Gå i fullskjerm</string>
      <string name="full_screen_exit">Avslutt fullskjerm</string>
+     <string name="google_base_app_install_choice">\"%s\" krever Google Service Framework for å fungere normalt, last ned og installer?</string>
      <string name="hide_mode">Håndter apper sitt batteriforbruk</string>
      <string name="hide_mode_desc">"Spar batteriet ved å begrense enkelte apper sine bakgrunnsprosesser, Wi-Fi og mobile datatilkoblinger og GPS"</string>
      <string name="hide_mode_desc_title">Håndter apper sitt batteriforbruk</string>

@@ -3,6 +3,7 @@
 <resources>
      <string name="accept">Ferdig</string>
      <string name="access_error">Kan ikke ta opp gjestemodus</string>
+     <string name="alert_message_clear_records">Slett valgte opptak?</string>
      <string name="alert_message_delete_record">Vil du slette valgte opptak?</string>
      <string name="alert_message_delete_record_title">Slett opptak</string>
      <string name="app_name">Lydopptaker</string>
@@ -10,10 +11,13 @@
      <string name="audio_db_artist_name">Dine opptak</string>
      <string name="audio_db_playlist_name">Mine opptak</string>
      <string name="back">Tilbake</string>
+     <string name="btn_clear_records">Slett opptak (%d elementer)</string>
      <string name="button_ok">OK</string>
      <string name="button_queue_for_wifi">Vennt</string>
      <string name="button_start_now">Last ned</string>
-     <string name="call_record">Opptak av anrop (%d)</string>
+     <string name="call_record">Opptak av samtaler</string>
+     <string name="choose_call_records_count">%d elementer</string>
+     <string name="clear_records">Slett synkroniserte opptak</string>
      <string name="cloud_record">%d synket</string>
      <string name="cloud_record_open">Synk opptak</string>
      <string name="cloud_record_tip">Synk opptak med Mi Cloud.</string>
@@ -58,15 +62,21 @@
      <string name="keyboard">Tastatur</string>
      <string name="loading_recording">Laster</string>
      <string name="low_battery_error">Det er mindre enn 5% batteri igjen. For å hindre at opptaket ikke ble borte, er det blitt pauset og lagret.</string>
+     <string name="low_battery_error_confirm">OK</string>
+     <string name="low_battery_error_title">Lavt batteri</string>
      <string name="low_battery_message_title">Lavt batteri</string>
      <string name="low_battery_warning">Opptak kan bli tapt hvis batteriet ditt går tom for strøm.</string>
-     <string name="mark_point_list_title">Mark point List</string>
+     <string name="mark_point_list_title">Markér punktliste</string>
      <string name="max_length_reached">Makslengde nådd</string>
      <string name="menu_settings">Innstillinger</string>
      <string name="message_file_size_error">Opptaket har nådd maksimal lengde som støttes for %s</string>
      <string name="message_recorded">Melding tatt opp</string>
      <string name="min_available">%d min. tilgjengelig</string>
      <string name="minute">%d minutt</string>
+     <string name="network_tip_dialog_cancel">Avbryt</string>
+     <string name="network_tip_dialog_content">Talegjenkjenningsmotoren må koble til Internett for å fungere normalt.</string>
+     <string name="network_tip_dialog_ok">Tillat</string>
+     <string name="network_tip_dialog_title">Internett-tilkobling er nødvendig</string>
      <string name="new_record_name">Nytt opptak</string>
      <string name="no_downloading_file">Ingen filer lastes ned.</string>
      <string name="no_file">Ingen</string>
@@ -75,7 +85,7 @@
      <string name="notification_playback">Spiller av...</string>
      <string name="notification_recording">opptaker</string>
      <string name="notification_recording_ticker">Enhet gjort lydløs</string>
-     <string name="notification_stopped">opptak stoppet</string>
+     <string name="notification_stopped">Opptak stoppet</string>
      <string name="notification_title_all_paused">Nedlasting pauset</string>
      <string name="notification_warning">Lav lagringsplass (mindre enn %d minutter)...</string>
      <string name="path_soundrecorder_setting">Systemapper/Lydopptaker</string>

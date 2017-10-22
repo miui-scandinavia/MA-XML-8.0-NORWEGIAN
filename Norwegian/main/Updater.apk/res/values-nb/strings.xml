@@ -26,6 +26,7 @@
      <string name="autosetmode">Innstillinger</string>
      <string name="best_update">Beste oppdateringen så langt</string>
      <string name="boot_recovery">Restart til recovery-modus?</string>
+     <string name="button_delay_update_reboot">Restart &amp; oppdater</string>
      <string name="button_text_check">Sjekk etter oppdateringer</string>
      <string name="button_text_later_reboot">Senere</string>
      <string name="button_text_reboot">Start på nytt nå</string>
@@ -59,6 +60,11 @@
      <string name="continue_update_negative_btn">Fortsett</string>
      <string name="continue_update_positive_btn">Stopp</string>
      <string name="daily_build">Daglig bygg</string>
+     <string name="delay_update_text">Oppdater senere</string>
+     <string name="dialog_delay_update_cancel">Avbryt</string>
+     <string name="dialog_delay_update_msg">"Enheten vil starte på nytt for å oppdatere når den er på og batteriet er minst 30% ladet"</string>
+     <string name="dialog_delay_update_title">Oppdatering tilgjengelig</string>
+     <string name="dialog_delay_update_tonight">Oppdater i natt</string>
      <string name="dialog_no">Nei</string>
      <string name="dialog_ok">Ok</string>
      <string name="dialog_reboot_message">"MIUI er i ferd med å oppdatere. Denne prosessen kan ta 5-20 minutter. Hold enheten slått på, og ikke start den på nytt mens den oppdaterer."</string>
@@ -129,6 +135,12 @@
      <string name="no_wifi_title">Advarsel for databruk</string>
      <string name="not_open">Nei</string>
      <string name="notification_auto_reboot_seccess_title">Enhet oppdatert automatisk</string>
+     <string name="notification_delay_update_button">Update in 2 hours</string>
+     <string name="notification_delay_update_cancel">"Don't update tonight"</string>
+     <string name="notification_delay_update_low_power">Det ser ut som batterinivået var lavt om natten</string>
+     <string name="notification_delay_update_msg">Enheten vil starte på nytt for å oppdatere om %ss</string>
+     <string name="notification_delay_update_no_update">"Oppdateringer har ikke blitt installert"</string>
+     <string name="notification_delay_update_shutdown">Det ser ut som enheten var av om natten</string>
      <string name="notification_downloading">Laster ned oppdatering…</string>
      <string name="notification_fail_msg">Prøv å laste ned ROM</string>
      <string name="notification_load_body_alpha">Hent de nyeste oppdateringene til din enhet.</string>
@@ -145,6 +157,9 @@
      <string name="notification_reboot_title_hm">Restart for å bruke oppdatering</string>
      <string name="notification_restart">Oppdater igjen</string>
      <string name="notification_share">Del</string>
+     <string name="notification_uncrypt_summary_hm">Trykk for å starte enheten på nytt</string>
+     <string name="notification_uncrypt_title_hm">Start på nytt for å oppdatere</string>
+     <string name="notification_uncrypting">Dekrypterer oppdatering…</string>
      <string name="notification_update_new_version">Oppdatering tilgjengelig</string>
      <string name="notification_update_now">Oppdater nå</string>
      <string name="notification_updating">Oppdaterer…</string>
@@ -217,7 +232,9 @@ http://zhushou.xiaomi.com"</string>
      <string name="test">Test</string>
      <string name="timer_title">Enheten vil starte på nytt om %d sekunder.</string>
      <string name="title_toast_auto">Oppdateringer vil lastes ned automatisk</string>
+     <string name="toast_delay_update_tonight">Enheten oppdateres mellom 2:00AM og 5:00AM</string>
      <string name="top_secret_build">Hemmelig bygg</string>
+     <string name="uncrypt_title">Dekrypterer (%s)</string>
      <string name="unkown_error_title">"Kan ikke laste ned"</string>
      <string name="unstable_build">Ustabil bygg</string>
      <string name="update_comment_hint" />
@@ -276,6 +293,6 @@ Kunne ikke sende tilbakemelding"</string>
      <string name="weekly_build">Ukentlig bygg</string>
      <string name="welcom_button">OK</string>
      <string name="welcom_message">"Du er klart til å rocke"</string>
-     <string name="welcom_title">Velkommen til MIUI 8</string>
+     <string name="welcom_title">Velkommen til MIUI</string>
      <string name="worst_update">Verste oppdateringen så langt</string>
 </resources>

@@ -45,4 +45,16 @@
         <item quantity="other">%d Wi-Fi-nettverk</item>
         <item quantity="one">%d Wi-Fi-nettverk</item>
      </plurals>
+     <plurals name="items_unsynced">
+        <item quantity="other">Elementer venter på synk: %d</item>
+        <item quantity="one">Element venter på synk: %d</item>
+     </plurals>
+     <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d elementer venter på synk</item>
+        <item quantity="one">%d element venter på synk</item>
+     </plurals>
+     <plurals name="sync_items_close">
+        <item quantity="other">%d er av</item>
+        <item quantity="one">%d er av</item>
+     </plurals>
 </resources>

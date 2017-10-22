@@ -19,7 +19,7 @@
      <string name="AD_TITLE_NON_COUNT">Ingen adware detektert</string>
      <string name="AD_Unistall">Avinstaller</string>
      <string name="Call_ADRESS">Anrop fra regionen</string>
-     <string name="Call_BLACKLIST">Call blocklist</string>
+     <string name="Call_BLACKLIST">Anrop-blokkeringsliste</string>
      <string name="Call_DEFAULT">Smart blokkeringsliste</string>
      <string name="Call_MODENAME">Standard blokkeringsliste</string>
      <string name="Call_PREFIX">Prefiks-blokkeringsliste</string>
@@ -80,6 +80,7 @@
      <string name="close_callwait">Av</string>
      <string name="customizer_mode_user_define_name">Egendefinert</string>
      <string name="dlg_add_blacklist">Legg til nummeret i blokkeringsliste?</string>
+     <string name="dlg_add_blacklist_title">Legg til i blokkeringsliste</string>
      <string name="dlg_add_blacklist_warn_conflict_content">%1$s og %2$s andre kontakter er allerede på din unntaksliste.</string>
      <string name="dlg_add_blacklist_warn_conflict_title">Unntakskonflikt</string>
      <string name="dlg_add_keyword">Legg til nøkkelord</string>
@@ -148,6 +149,10 @@
      <string name="mark_agent_time_setting">Blokker numre rapportet som telefonsalg mer enn spesifiserte ganger</string>
      <string name="mark_banking_insurance">Salg av forsikring</string>
      <string name="mark_banking_insurance_block">Rapportert som salg av forsikring</string>
+     <string name="mark_courier">Blokkér rapporterte kurére</string>
+     <string name="mark_courier_block">Blokkert som en kurér</string>
+     <string name="mark_courier_block_large">Kurére</string>
+     <string name="mark_courier_time_setting">Blokkér numre som har blitt rapportert som kurerer et bestemt antall ganger</string>
      <string name="mark_express">Bud</string>
      <string name="mark_express_block">Rapportert som bud</string>
      <string name="mark_fraud">Svindel</string>
@@ -162,6 +167,7 @@
      <string name="mark_meal_block">Rapportert som matleveranse</string>
      <string name="mark_number_agent">Agent</string>
      <string name="mark_number_banking">Salg av forsikring</string>
+     <string name="mark_number_courier">Kurér</string>
      <string name="mark_number_fraud">Svindel</string>
      <string name="mark_number_harass">Trakassering</string>
      <string name="mark_number_info">"
@@ -305,7 +311,13 @@ Merk deg at disse samtalene kan være nyttige (f.eks når du leter etter en leil
      <string name="st_sub_title_customize_mode_name">Navn på modus</string>
      <string name="st_sub_title_whiteblack_list_group">Blokkeringsliste</string>
      <string name="st_sum_call_wait">Din bortemelding vil også bli spilt av som et opptattsignal for innkommende anrop.</string>
-     <string name="st_title_adblock_group">Blokker annonser</string>
+     <string name="st_summary_blacklist_numbers">Blokker anrop og meldinger fra bestemte numre og områder</string>
+     <string name="st_summary_blacklist_numbers_international">Blokker anrop og meldinger fra bestemte numre og områder</string>
+     <string name="st_summary_keywords_blacklist">Legg til nøkkelord for å blokkere meldinger</string>
+     <string name="st_summary_special_numbers">Blokkér flaggede telefonnumre</string>
+     <string name="st_summary_whitelist_numbers">Tillate anrop og meldinger fra bestemte numre og områder</string>
+     <string name="st_summary_whitelist_numbers_international">Tillate anrop og meldinger fra bestemte numre og områder</string>
+     <string name="st_title_adblock_group">Blokkér annonser</string>
      <string name="st_title_adblock_setting">Innstillinger for blokkering av annonser</string>
      <string name="st_title_addblacklist">Legg til i blokkeringsliste</string>
      <string name="st_title_addwhitelist">Legg til unntak</string>
