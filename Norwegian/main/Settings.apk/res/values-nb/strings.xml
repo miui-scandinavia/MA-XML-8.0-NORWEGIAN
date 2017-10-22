@@ -1658,6 +1658,8 @@ Når du slår på automatisk sikkerhetskopiering, lagres app- og enhetsdata auto
      <string name="help_url_vpn" />
      <string name="help_url_wifi" />
      <string name="hidden_ssid_label">Skjult SSID:</string>
+     <string name="hide">Skjul</string>
+     <string name="hide_screen_button">Skjul skjermknappene</string>
      <string name="high_performance_notif_summary">Ytelsemodus er på.</string>
      <string name="high_performance_notif_title">Advarsel om batteribruk</string>
      <string name="high_performance_title">Enheten kan bli varm under tung bruk.</string>
